@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <!--[if IE]><![endif]-->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]--><meta charset="utf-8" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="apple-touch-icon" sizes="167x167" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_167x167.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_180x180.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_152x152.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_120x120.png" />
+<link rel="apple-touch-icon" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_76x76.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_76x76.png" />
+<link rel="apple-touch-icon-precomposed" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-60x60-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-120x120-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-76x76-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-60x60-precomposed.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-32x32.png" />
+<meta name="msapplication-square150x150logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-150x150.png" />
+<meta name="msapplication-square70x70logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-70x70.png" />
+<meta name="msapplication-wide310x150logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-310x310.png" />
+<link rel="shortcut icon" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="msapplication-TileImage" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-70x70.png" />
+<meta name="msapplication-TileColor" content="#003C80" />
+<link rel="icon" type="image/png" sizes="128x128" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-128.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="196x196" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-196x196.png" />
+<meta name="msapplication-config" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/browserconfig.xml" />
+<meta name="application-name" content="Whitehouse" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-144x144-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-152x152-precomposed.png" />
+<link rel="shortcut icon" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.whitehouse.gov/the-press-office/2017/11/10/remarks-president-trump-apec-ceo-summit-da-nang-vietnam" />
+<link rel="shortlink" href="https://www.whitehouse.gov/the-press-office/2017/11/10/remarks-president-trump-apec-ceo-summit-da-nang-vietnam" />
+<meta property="og:site_name" content="whitehouse.gov" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Remarks by President Trump at APEC CEO Summit | Da Nang, Vietnam" />
+<meta property="og:url" content="https://www.whitehouse.gov/the-press-office/2017/11/10/remarks-president-trump-apec-ceo-summit-da-nang-vietnam" />
+<meta property="og:description" content="Ariyana Da Nang Exhibition Center Da Nang, Vietnam 1:19 P.M. ICT" />
+<meta property="og:updated_time" content="2017-11-10T08:53:51-05:00" />
+<meta property="og:image" content="https://www.whitehouse.gov/sites/whitehouse.gov/files/og-image.png" />
+<meta property="og:image:secure_url" content="https://www.whitehouse.gov/sites/whitehouse.gov/files/twitter.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="240" />
+<meta property="og:image:height" content="240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@WhiteHouse" />
+<meta name="twitter:creator" content="@WhiteHouse" />
+<meta name="twitter:title" content="Remarks by President Trump at APEC CEO Summit | Da Nang, Vietnam" />
+<meta name="twitter:url" content="https://www.whitehouse.gov/the-press-office/2017/11/10/remarks-president-trump-apec-ceo-summit-da-nang-vietnam" />
+<meta name="twitter:image" content="https://www.whitehouse.gov/sites/whitehouse.gov/files/images/twitter_cards_default.jpg" />
+<meta name="twitter:image:width" content="240" />
+<meta name="twitter:image:height" content="240" />
+<meta property="article:published_time" content="2017-11-10T02:57:14-05:00" />
+<meta property="article:modified_time" content="2017-11-10T08:53:51-05:00" />
+  <title>Remarks by President Trump at APEC CEO Summit | Da Nang, Vietnam | whitehouse.gov</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__ghacQDfeAHWJBr8vYeJSI2_yXii0BT2oT0oAXzsDZJ8__he5_I9soW4dc7_Il49EkVpfUnfjZROjkD97jMExmTG0__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__gMQWD3coNk5Au2fO23W-pX-TUWlu3Yki30kqSggljxo__2-EhHNf5nZZqC9WakRsWUy_6-BQ5jc7OfcRhDfp_PXc__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__EnZ6icAZNsBQjLAYHSYP96W45C7XSxet_LzGVPhlZeU__rk0s5Som2o64JV54X4yzodNnT8Z2sb19DG_-LC81nAs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__373-y8KH-KtZjNu3Mt66HoAZ9PzjZ4iuXqSomuCYsI4___E4EQJEb6c3Adl1X2-5IUKFxtRLRPzRfaZjBukfFzEQ__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+<![endif]-->
+  <!--[if lte IE 9]>
+    <link href="/profiles/forall/themes/custom/fortyfour/css/ie9.css" rel="stylesheet" type="text/css">
+  <![endif]-->
+  <script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__NE7EnOYPYYKVWJEZV3b_Z6vx-BZ5oVwoRFJHaRKHfpU__g6xANM1OcRgSwG8dd6XBT2RqAaTWe5urP58rrnRJpWM__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-12099831-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script async="async" src="//platform.twitter.com/widgets.js"></script>
+<!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. --><script src="/sites/whitehouse.gov/modules/contrib/usfedgov_google_analytics/js/Universal-Federated-Analytics-Min.js?agency=Executive%20Office%20of%20the%20President&subagency=The%20White%20House" type="text/javascript" id="_fed_an_ua_tag"></script>      <!--[if lt IE 9]>
+    <script src="/sites/whitehouse.gov/themes/contrib/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-342691 node-type-press-article section-the-press-office page-panels" >
+<div id="fb-root"></div>
+<script>
+function advagg_mod_1() {
+  // Count how many times this function is called.
+  advagg_mod_1.count = ++advagg_mod_1.count || 1;
+  try {
+    if (advagg_mod_1.count <= 40) {
+      (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_1.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_1.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 250 ms.
+      window.setTimeout(advagg_mod_1, 250);
+    }
+  }
+}
+function advagg_mod_1_check() {
+  if (window.jQuery && window.Drupal && window.Drupal.settings) {
+    advagg_mod_1();
+  }
+  else {
+    window.setTimeout(advagg_mod_1_check, 250);
+  }
+}
+advagg_mod_1_check();</script>      <p class="skip-link">
+      <a href="#content-start" class="element-invisible element-focusable">Jump to main content</a>
+    </p>
+        <p id="skip-link">
+      <a href="#block-menu-block-sixteenhundrednav-main" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<!-- !$page_manager_control: Only show these things if the page isn't a node under the control of page manager. -->
+<!-- /!$page_manager_control -->
+
+<!-- Main page content -->
+<section id="page">
+  
+
+
+
+<div class="panelizer-view-mode node node-full node-press-article node-342691">
+        <div class="panel-display panel-basic-single-content-col" >
+  <header class="panel-panel panel-header">
+   <div class="panel-pane pane-panels-mini pane-default-header clearfix"  >
+  
+  <div class="whr-takeover" id="whr-takeover" style="display:none;"></div>
+
+<div class="whr-header-bg">
+  <div class="whr-wrapper">
+    <div class="whr-contact-slogan">
+      <div class="panel-pane pane-page-slogan" >
+  
+      
+  
+  the <span class="whr-lead">WHITE HOUSE</span><span class="whr-president">President Donald J. Trump</span>
+  
+  </div>
+
+  <nav class="whr-contact-nav" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-contact-nav-1 menu-name-sixteenhundred-contact-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-2200426 horizontal-1-level-menu--menu-item whr-contact-nav--horizontal-1-level-menu--menu-item odd depth-1 no-children" data-position="1"><a href="/contact" class="menu__link">Get in Touch</a></li>
+</ul></div>
+  </nav>
+    </div>
+  </div>
+  <div class="whr-navbar">
+    <div class="whr-wrapper">
+      <div class="panel-pane pane-page-logo" >
+  
+      
+  
+  <a href="/" rel="home" id="logo" title="Home"><img src="https://www.whitehouse.gov/profiles/forall/modules/custom/gov_whitehouse_www/images/icons/wh_logo_seal.png" alt="Home" /></a>
+  
+  </div>
+<div id="block-menu-block-sixteenhundrednav-main"
+     class="" tabindex="-1">
+  <div id="main-menu-header" class="clearfix">
+    <div id="icon-wrapper">
+      <a href="#" role='tab' id="main-menu-toggle"><i class="fa fa-bars"></i></a>
+    </div>
+  </div>
+  <div id="main-menu-content">
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-main-nav-2 menu-name-sixteenhundred-main-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-5816 main-nav--menu-item --main-nav--menu-item odd depth-1 no-children" data-position="1"><a href="https://www.whitehouse.gov" class="no-header">Home<i class='fa fa-angle-down'></i></a></li>
+<li class="expanded menu-mlid-5821 main-nav--menu-item --main-nav--menu-item even depth-1 children children-2" data-position="2"><a href="/blog">Briefing Room<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="first expanded menu-mlid-5846 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-3 menu-featured menu-featured-descs" data-position="1"><span class="nolink">From the News Room</span><ul class="menu-featured__column"><li class="first leaf menu-mlid-5856 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><div class="menu-featured__item"><a href="/blog" title="Read the latest news from the White House" class="menu-featured__link">Latest News</a><span class="menu-featured__description">Read the latest news from the White House</span></div></li>
+<li class="leaf menu-mlid-2257521 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><div class="menu-featured__item"><a href="/featured-videos" title="View the most recent videos from the White House" class="menu-featured__link">Video Gallery</a><span class="menu-featured__description">View the most recent videos from the White House</span></div></li>
+</ul><ul class="menu-featured__column"><li class="last leaf menu-mlid-7071 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><div class="menu-featured__item"><a href="/live" title="Tune in to White House events and statements as they happen" class="menu-featured__link">Live Events</a><span class="menu-featured__description">Tune in to White House events and statements as they happen</span></div></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-77741 main-nav--menu-item --main-nav--menu-item even depth-2 children children-7" data-position="2"><span class="menu__link nolink">From the Press Office</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5891 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/briefing-room/speeches-and-remarks" class="menu__link">Speeches &amp; Remarks</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5896 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/briefing-room/press-briefings" class="menu__link">Press Briefings</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5901 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/briefing-room/statements-and-releases" class="menu__link">Statements &amp; Releases</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-142711 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/briefing-room/nominations-and-appointments" class="menu__link">Nominations &amp; Appointments</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-5911 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/briefing-room/presidential-actions" class="menu__link">Presidential Actions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5916 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/briefing-room/legislation" class="menu__link">Legislation</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-142716 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="7"><a href="/briefing-room/disclosures" class="menu__link">Disclosures</a></li>
+</ul></li>
+</div></ul></li>
+<li class="expanded menu-mlid-5826 main-nav--menu-item --main-nav--menu-item odd depth-1 children children-1" data-position="3"><a href="/america-first-energy">Issues<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first last expanded menu-mlid-5936 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-8" data-position="1"><span class="menu__link nolink">Top Issues</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2200631 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/america-first-energy" class="menu__link">America First Energy Plan</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200636 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/america-first-foreign-policy" class="menu__link">America First Foreign Policy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200626 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/bringing-back-jobs-and-growth" class="menu__link">Bringing Back Jobs And Growth</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200646 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/making-our-military-strong-again" class="menu__link">Making Our Military Strong Again</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271641 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/blog/2017/06/08/president-trumps-plan-rebuild-americas-infrastructure" class="menu__link">Rebuilding America’s Infrastructure</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271636 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/repeal-and-replace-obamacare" class="menu__link">Repeal and Replace Obamacare</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200641 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="7"><a href="/law-enforcement-community" class="menu__link">Standing Up For Our Law Enforcement Community</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2200711 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="8"><a href="/trade-deals-working-all-americans" class="menu__link">Trade Deals That Work For All Americans</a></li>
+</ul></li>
+</div></ul></li>
+<li class="expanded menu-mlid-5831 main-nav--menu-item --main-nav--menu-item even depth-1 children children-3" data-position="4"><a href="/administration/president-trump">The Administration<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first expanded menu-mlid-6076 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-5" data-position="1"><span class="menu__link nolink">The Administration</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-45996 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/administration/president-trump" class="menu__link">President Donald J. Trump</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-46116 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/administration/vice-president-pence" class="menu__link">Vice President Mike Pence</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45356 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/administration/first-lady-melania-trump" class="menu__link">First Lady Melania Trump</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45961 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/administration/karen-pence" class="menu__link">Mrs. Karen Pence</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-35121 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/administration/cabinet" class="menu__link">The Cabinet</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6081 main-nav--menu-item --main-nav--menu-item even depth-2 children children-6" data-position="2"><span class="menu__link nolink">Executive Offices</span><ul class="menu"><li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-2257571 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/cea" class="menu__link">Council of Economic Advisers</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269081 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/ceq" class="menu__link">Council on Environmental Quality</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257581 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/omb" class="menu__link">Office of Management and Budget</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269601 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/ondcp" class="menu__link">Office of National Drug Control Policy</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257566 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/ostp" class="menu__link">Office of Science and Technology Policy</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6151 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/administration/eop" class="menu__link">See All</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6091 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-1" data-position="3"><span class="menu__link nolink">Special Events</span><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-6176 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="https://www.58pic2017.org/" class="menu__link">The 58th Presidential Inauguration</a></li>
+</ul></li>
+</div></ul></li>
+<li class="expanded menu-mlid-5836 main-nav--menu-item --main-nav--menu-item odd depth-1 children children-3" data-position="5"><a href="/participate/tours-and-events">Participate<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first expanded menu-mlid-6196 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-4" data-position="1"><span class="menu__link nolink">Join Us</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-108026 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/participate/tours-and-events" class="menu__link">Tours &amp; Events</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6241 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="https://apply.whitehouse.gov" class="menu__link">Jobs with the Administration</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-112596 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/participate/internships" class="menu__link">Internships</a></li>
+<li class="menu__item is-parent is-leaf last leaf has-children menu-mlid-207321 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/participate/fellows" class="menu__link">White House Fellows</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6201 main-nav--menu-item --main-nav--menu-item even depth-2 children children-2" data-position="2"><span class="menu__link nolink">Share Your Thoughts</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6261 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="https://petitions.whitehouse.gov" class="menu__link">We the People Petitions</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6266 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/contact" class="menu__link">Contact the White House</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-2257506 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-5" data-position="3"><span class="menu__link nolink">Get Involved</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2262876 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/obamacare-share-your-story" class="menu__link">Obamacare: Share Your Story</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257616 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/support-americans-back-to-work" class="menu__link">Getting Americans Back to Work</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257781 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/support-empowering-female-leaders" class="menu__link">Support Empowering Female Leaders</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257816 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/trump-stands-with-israel" class="menu__link">President Trump Stands With Israel</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2262546 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/support-repeal-replace-obamacare" class="menu__link">Support the Repeal and Replacement of Obamacare</a></li>
+</ul></li>
+</div></ul></li>
+<li class="last expanded menu-mlid-5841 main-nav--menu-item --main-nav--menu-item even depth-1 children children-2" data-position="6"><a href="/1600/Presidents">1600 Penn<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first expanded menu-mlid-6296 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-6" data-position="1"><span class="menu__link nolink">History &amp; Grounds</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-86676 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/1600/Presidents" class="menu__link">Presidents</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-86891 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/1600/first-ladies" class="menu__link">First Ladies</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93186 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/1600/vp-residence" class="menu__link">The Vice President&#039;s Residence &amp; Office</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93191 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/1600/eeob" class="menu__link">Eisenhower Executive Office Building</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93181 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/1600/camp-david" class="menu__link">Camp David</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-91831 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/1600/air-force-one" class="menu__link">Air Force One</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6301 main-nav--menu-item --main-nav--menu-item even depth-2 children children-7" data-position="2"><span class="menu__link nolink">Our Government</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-93196 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/1600/executive-branch" class="menu__link">The Executive Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93201 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/1600/legislative-branch" class="menu__link">The Legislative Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93206 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/1600/judicial-branch" class="menu__link">The Judicial Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93211 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/1600/constitution" class="menu__link">The Constitution</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93216 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/1600/federal-agencies-and-commissions" class="menu__link">Federal Agencies &amp; Commissions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93231 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/1600/elections-and-voting" class="menu__link">Elections &amp; Voting</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-93226 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="7"><a href="/1600/state-and-local-government" class="menu__link">State &amp; Local Government</a></li>
+</ul></li>
+</div></ul></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-pane pane-block pane-search-form sitewide-header--search-form" >
+  
+      
+  
+  <form action="https://search.usa.gov/search" method="get" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input class="usagov-search-autocomplete ui-autocomplete-input ui-corner-all form-text" autocomplete="off" type="text" name="query" id="edit-search-block-form--2" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="affiliate" value="wh" />
+</div>
+</div></form>
+  
+  </div>
+    </div>
+  </div>
+</div>
+<div class="whr-wrapper">
+  <div class="panel-pane pane-page-breadcrumb" >
+  
+      
+  
+  <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="/">Home</a></li><li><a href="/blog">Briefing Room</a></li><li><a href="/briefing-room/speeches-and-remarks">Speeches &amp; Remarks</a></li></ol></nav>
+  
+  </div>
+</div>
+
+
+</div>
+  </header>
+    <div class="panel-panel panel-wrapper panel-col-section-all">
+
+      <div class="panel-panel panel-col panel-col-section-menu">
+       <div class="panel-pane pane-block pane-menu-block-forall-secondary-nav" >
+  
+        <h2 class="pane-title">From the Press Office</h2>
+    
+  
+  <div class="menu-block-wrapper menu-block-forall_secondary_nav menu-name-sixteenhundred-main-nav parent-mlid-0 menu-level-3">
+  <ul class="menu"><li class="menu__item is-active-trail is-leaf first leaf active-trail odd depth-3 no-children" data-position="1"><a href="/briefing-room/speeches-and-remarks" class="menu__link is-active-trail is-active active active-trail">Speeches &amp; Remarks</a></li>
+<li class="menu__item is-leaf leaf even depth-3 no-children" data-position="2"><a href="/briefing-room/press-briefings" class="menu__link">Press Briefings</a></li>
+<li class="menu__item is-leaf leaf odd depth-3 no-children" data-position="3"><a href="/briefing-room/statements-and-releases" class="menu__link">Statements &amp; Releases</a></li>
+<li class="menu__item is-leaf leaf even depth-3 no-children" data-position="4"><a href="/briefing-room/nominations-and-appointments" class="menu__link">Nominations &amp; Appointments</a></li>
+<li class="menu__item is-collapsed collapsed odd depth-3 no-children" data-position="5"><a href="/briefing-room/presidential-actions" class="menu__link">Presidential Actions</a></li>
+<li class="menu__item is-leaf leaf even depth-3 no-children" data-position="6"><a href="/briefing-room/legislation" class="menu__link">Legislation</a></li>
+<li class="menu__item is-leaf last leaf odd depth-3 no-children" data-position="7"><a href="/briefing-room/disclosures" class="menu__link">Disclosures</a></li>
+</ul></div>
+
+  
+  </div>
+      </div>
+
+      <div id="content-start" class="panel-panel panel-col panel-col-section-content" tabindex="-1">
+       <div class="panel-pane pane-custom pane-1 clearfix" >
+      <div class="videos-intro-field videos-intro-forall-body forall-body">
+      <div class="whr-read-more-wrapper">
+        <div class="press-article-header-wrapper">
+  <div id="press_article_heading" class="press-article-heading">
+    <div id="press_article_heading_title" class="heading-title">The White House</div>
+    <div id="press_article_heading_subtitle" class="heading-subtitle">Office of the Press Secretary</div>
+  </div>
+  <div id="press_article_subheading" class="clearfix press-article-subheading">
+    <div id="press_article_immediate_release" class="press-article-release">For Immediate Release</div>
+    <div id="press_article_date_created" class="press-article-date">November 10, 2017</div>
+  </div>
+</div>      </div>
+    </div>
+  </div>
+<div class="panel-pane pane-node-title" >
+  
+      
+  
+  <h1>Remarks by President Trump at APEC CEO Summit | Da Nang, Vietnam</h1>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-forall-body" >
+  
+      
+  
+  
+  <div class="field field-name-field-forall-body field-type-text-long field-label-hidden forall-body">
+        <div class="field-items">
+              <div class="field-item even"><p class="rtecenter">
+	Ariyana Da Nang Exhibition Center</p>
+
+<p class="rtecenter">
+	Da Nang, Vietnam</p>
+
+<p>
+	1:19 P.M. ICT</p>
+
+<p>
+	PRESIDENT TRUMP: What an honor it is to be here in Vietnam -- in the very heart of the Indo-Pacific -- to address the people and business leaders of this region.</p>
+
+<p>
+	This has already been a remarkable week for the United States in this wonderful part of the world. Starting from Hawaii, Melania and I traveled to Japan, South Korea, and China, and now to Vietnam, to be here with all of you today.</p>
+
+<p>
+	Before we begin, I want to address all those affected by Typhoon Damrey. Americans are praying for you and for your recovery in the months ahead. Our hearts are united with the Vietnamese people suffering in the aftermath of this terrible storm.</p>
+
+<p>
+	This trip comes at an exciting time for America. A new optimism has swept all across our country. Economic growth has reached 3.2 percent, and going higher. Unemployment is at its lowest level in 17 years. The stock market is at an all-time high. And the whole world is lifted by America’s renewal.</p>
+
+<p>
+	Everywhere I’ve traveled on this journey, I’ve had the pleasure of sharing the good news from America. But even more, I've had the honor of sharing our vision for a free and open Indo-Pacific -- a place where sovereign and independent nations, with diverse cultures and many different dreams, can all prosper side-by-side, and thrive in freedom and in peace.</p>
+
+<p>
+	I am so thrilled to be here today at APEC, because this organization was founded to help achieve that very purpose. America stands as a proud member of the community of nations who make a home on the Pacific. We have been an active partner in this region since we first won independence ourselves.</p>
+
+<p>
+	In 1784, the first American ship sailed to China from the newly independent United States. It went loaded with goods to sell in Asia, and it came back full of porcelain and tea. Our first president, George Washington himself, owned a set of tableware from that ship.</p>
+
+<p>
+	In 1804, Thomas Jefferson sent the explorers, Lewis and Clark, on an expedition to our Pacific Coast. They were the first of the millions of Americans who ventured west to live out America’s manifest destiny across our vast continent.</p>
+
+<p>
+	In 1817, our Congress approved the first full-time Pacific development [deployment] of an American warship. That initial naval presence soon grew into a squadron, and then a fleet, to guarantee freedom of navigation for the growing number of ships, braving the high seas to reach markets in the Philippines, Singapore, and in India.</p>
+
+<p>
+	In 1818, we began our relationship with the Kingdom of Thailand, and 15 years later our two countries signed a treaty of friendship and commerce -- our first with an Asian nation.</p>
+
+<p>
+	In the next century, when imperialist powers threatened this region, the United States pushed back at great cost to ourselves. We understood that security and prosperity depended on it.</p>
+
+<p>
+	We have been friends, partners, and allies in the Indo-Pacific for a long, long time, and we will be friends, partners, and allies for a long time to come.</p>
+
+<p>
+	As old friends in the region, no one has been more delighted than America to witness, to help, and to share in the extraordinary progress you have made over the last half-century.</p>
+
+<p>
+	What the countries and economies represented here today have built in this part of the world is nothing short of miraculous. The story of this region in recent decades is the story of what is possible when people take ownership of their future.</p>
+
+<p>
+	Few would have imagined just a generation ago that leaders of these nations would come together here in Da Nang to deepen our friendships, expand our partnerships, and celebrate the amazing achievements of our people.</p>
+
+<p>
+	This city was once home to an American military base, in a country where many Americans and Vietnamese lost their lives in a very bloody war.</p>
+
+<p>
+	Today, we are no longer enemies; we are friends. And this port city is bustling with ships from around the world. Engineering marvels, like the Dragon Bridge, welcome the millions who come to visit Da Nang’s stunning beaches, shining lights, and ancient charms.</p>
+
+<p>
+	In the early 1990s, nearly half of Vietnam survived on just a few dollars a day, and one in four did not have any electricity. Today, an opening Vietnamese economy is one of the fastest-growing economies on Earth. It has already increased more than 30 times over, and the Vietnamese students rank among the best students in the world. (Applause.) And that is very impressive.</p>
+
+<p>
+	This is the same story of incredible transformation that we have seen across the region. Indonesians for decades have been building domestic and democratic institutions to govern their vast chain of more than 13,000 islands. Since the 1990s, Indonesia’s people have lifted themselves from poverty to become one of the fastest-growing nations of the G20. Today, it is the third-largest democracy on Earth.</p>
+
+<p>
+	The Philippines has emerged as a proud nation of strong and devout families. For 11 consecutive years, the World Economic Forum has ranked the Philippines first among Asian countries in closing the gender gap and embracing women leaders in business and in politics. (Applause.)</p>
+
+<p>
+	Kingdom of Thailand has become an upper middle-income country in less than a generation. Its majestic capital of Bangkok is now the most visited city on Earth. And that is very impressive. Not too many people here are from Thailand. (Applause.)</p>
+
+<p>
+	Malaysia has rapidly developed through recent decades, and it is now ranked as one of the best places in the world to do business.</p>
+
+<p>
+	In Singapore, citizens born to parents who survived on $500 dollars a day [year] are now among the highest earners in the world -- a transformation made possible by the vision of Lee Kwan Yew’s vision of honest governance and the rule of law. (Applause.) And his great son is now doing an amazing job.</p>
+
+<p>
+	As I recently observed in South Korea, the people of that Republic took a poor country ravaged by war, and in just a few decades turned it into one of the wealthiest democracies on Earth. Today, South Koreans enjoy higher incomes than the citizens of many European Union countries. It was great spending time with President Moon.</p>
+
+<p>
+	Everyone knows of China’s impressive achievements over the past several decades. During this period -- and it was a period of great market reforms -- large parts of China experienced rapid economic growth, jobs boomed, and more than 800 million citizens rose out of poverty. I just left China this morning and had a really productive meeting and a wonderful time with our gracious host, President Xi.</p>
+
+<p>
+	And, as I saw on my first stop of this trip, in Japan we see a dynamic democracy in a land of industrial, technological, and cultural wonders. In fewer than 60 years, that island nation has produced 24 Nobel Prize winners for achievements in physics, chemistry, medicine, literature, and the promotion of peace. (Applause.) President Abe and I agree on so much.</p>
+
+<p>
+	In the broader region, countries outside of APEC are also making great strides in this new chapter for the Indo-Pacific.</p>
+
+<p>
+	India is celebrating the 70th anniversary of its independence. It is a sovereign democracy, as well as -- think of this -- over 1 billion people. It's the largest democracy in the world. (Applause.) Since India opened its economy, it has achieved astounding growth and a new world of opportunity for its expanding middle class. And Prime Minister Modi has been working to bring that vast country, and all of its people, together as one. And he is working at it very, very successfully, indeed.</p>
+
+<p>
+	As we can see, in more and more places throughout this region, citizens of sovereign and independent nations have taken greater control of their destinies and unlocked the potential of their people.</p>
+
+<p>
+	They’ve pursued visions of justice and accountability, promoted private property and the rule of law, and embraced systems that value hard work and individual enterprise.</p>
+
+<p>
+	They built businesses, they built cities, they built entire countries from the ground up. Many of you in this room have taken part in these great, uplifting national projects of building. They have been your projects from inception to completion, from dreams to reality.</p>
+
+<p>
+	With your help, this entire region has emerged -- and it is still emerging -- as a beautiful constellation of nations, each its own bright star, satellites to none -- and each one, a people, a culture, a way of life, and a home.</p>
+
+<p>
+	Those of you who have lived through these transformations understand better than anyone the value of what you have achieved. You also understand that your home is your legacy, and you must always protect it.</p>
+
+<p>
+	In the process of your economic development, you’ve sought commerce and trade with other nations, and forged partnerships based on mutual respect and directed toward mutual gain.</p>
+
+<p>
+	Today, I am here to offer a renewed partnership with America to work together to strengthen the bonds of friendship and commerce between all of the nations of the Indo-Pacific, and together, to promote our prosperity and security.</p>
+
+<p>
+	At the core of this partnership, we seek robust trade relationships rooted in the principles of fairness and reciprocity. When the United States enters into a trading relationship with other countries or other peoples, we will, from now on, expect that our partners will faithfully follow the rules just like we do. We expect that markets will be open to an equal degree on both sides, and that private industry, not government planners, will direct investment.</p>
+
+<p>
+	Unfortunately, for too long and in too many places, the opposite has happened. For many years, the United States systematically opened our economy with few conditions. We lowered or ended tariffs, reduced trade barriers, and allowed foreign goods to flow freely into our country.</p>
+
+<p>
+	But while we lowered market barriers, other countries didn’t open their markets to us.</p>
+
+<p>
+	AUDIENCE MEMBER: (Inaudible.)</p>
+
+<p>
+	PRESIDENT TRUMP: Funny. They must have been one of the beneficiaries. (Applause.) What country do you come from, sir?</p>
+
+<p>
+	Countries were embraced by the World Trade Organization, even if they did not abide by its stated principles. Simply put, we have not been treated fairly by the World Trade Organization. Organizations like the WTO can only function properly when all members follow the rules and respect the sovereign rights of every member. We cannot achieve open markets if we do not ensure fair market access. In the end, unfair trade undermines us all.</p>
+
+<p>
+	The United States promoted private enterprise, innovation, and industry. Other countries used government-run industrial planning and state-owned enterprises.</p>
+
+<p>
+	We adhered to WTO principles on protecting intellectual property and ensuring fair and equal market access. They engaged in product dumping, subsidized goods, currency manipulation, and predatory industrial policies.</p>
+
+<p>
+	They ignored the rules to gain advantage over those who followed the rules, causing enormous distortions in commerce and threatening the foundations of international trade itself.</p>
+
+<p>
+	Such practices, along with our collective failure to respond to them, hurt many people in our country and also in other countries. Jobs, factories, and industries were stripped out of the United States and out of many countries in addition. And many opportunities for mutually beneficial investments were lost because people could not trust the system.</p>
+
+<p>
+	We can no longer tolerate these chronic trade abuses, and we will not tolerate them. Despite years of broken promises, we were told that someday soon everyone would behave fairly and responsibly. People in America and throughout the Indo-Pacific region have waited for that day to come. But it never has, and that is why I am here today -- to speak frankly about our challenges and work toward a brighter future for all of us.</p>
+
+<p>
+	I recently had an excellent trip to China, where I spoke openly and directly with President Xi about China’s unfair trade practices and the enormous trade deficits they have produced with the United States. I expressed our strong desire to work with China to achieve a trading relationship that is conducted on a truly fair and equal basis.</p>
+
+<p>
+	The current trade imbalance is not acceptable. I do not blame China or any other country, of which there are many, for taking advantage of the United States on trade. If their representatives are able to get away with it, they are just doing their jobs. I wish previous administrations in my country saw what was happening and did something about it. They did not, but I will.</p>
+
+<p>
+	From this day forward, we will compete on a fair and equal basis. We are not going to let the United States be taken advantage of anymore. I am always going to put America first the same way that I expect all of you in this room to put your countries first. (Applause.)</p>
+
+<p>
+	The United States is prepared to work with each of the leaders in this room today to achieve mutually beneficial commerce that is in the interest of both your countries and mine. That is the message I am here to deliver.</p>
+
+<p>
+	I will make bilateral trade agreements with any Indo-Pacific nation that wants to be our partner and that will abide by the principles of fair and reciprocal trade. What we will no longer do is enter into large agreements that tie our hands, surrender our sovereignty, and make meaningful enforcement practically impossible.</p>
+
+<p>
+	Instead, we will deal on a basis of mutual respect and mutual benefit. We will respect your independence and your sovereignty. We want you to be strong, prosperous, and self-reliant, rooted in your history, and branching out toward the future. That is how we will thrive and grow together, in partnerships of real and lasting value.</p>
+
+<p>
+	But for this -- and I call it the Indo-Pacific dream -- if it's going to be realized, we must ensure that all play by the rules, which they do not right now. Those who do will be our closest economic partners. Those who do not can be certain that the United States will no longer turn a blind eye to violations, cheating, or economic aggression. Those days are over.</p>
+
+<p>
+	We will no longer tolerate the audacious theft of intellectual property. We will confront the destructive practices of forcing businesses to surrender their technology to the state, and forcing them into joint ventures in exchange for market access.</p>
+
+<p>
+	We will address the massive subsidizing of industries through colossal state-owned enterprises that put private competitors out of business -- happening all the time.</p>
+
+<p>
+	We will not remain silent as American companies are targeted by state-affiliated actors for economic gain, whether through cyberattacks, corporate espionage, or other anti-competitive practices. We will encourage all nations to speak out loudly when the principles of fairness and reciprocity are violated.</p>
+
+<p>
+	We know it is in America’s interests to have partners throughout this region that are thriving, prosperous, and dependent on no one. We will not make decisions for the purpose of power or patronage. We will never ask our partners to surrender their sovereignty, privacy, and intellectual property, or to limit contracts to state-owned suppliers.</p>
+
+<p>
+	We will find opportunities for our private sector to work with yours and to create jobs and wealth for us all. We seek strong partners, not weak partners. We seek strong neighbors, not weak neighbors. Above all, we seek friendship, and we don’t dream of domination.</p>
+
+<p>
+	For this reason, we are also refocusing our existing development efforts. We are calling on the World Bank and the Asian Development Bank to direct their efforts toward high-quality infrastructure investment that promotes economic growth.</p>
+
+<p>
+	The United States will also do its part. We are also committed to reforming our development finance institutions so that they better incentivize private sector investment in your economies, and provide strong alternatives to state-directed initiatives that come with many strings attached.</p>
+
+<p>
+	The United States has been reminded time and time again in recent years that economic security is not merely related to national security. Economic security is national security. It is vital -- (applause) -- to our national strength.</p>
+
+<p>
+	We also know that we will not have lasting prosperity if we do not confront grave threats to security, sovereignty, and stability facing our world today.</p>
+
+<p>
+	Earlier this week, I addressed the National Assembly in Seoul, South Korea and urged every responsible nation to stand united in declaring that every single step the North Korean regime takes toward more weapons is a step it takes into greater and greater danger. The future of this region and its beautiful people must not be held hostage to a dictator’s twisted fantasies of violent conquest and nuclear blackmail.</p>
+
+<p>
+	In addition, we must uphold principles that have benefitted all of us, like respect for the rule of law -- (applause) -- individual rights, and freedom of navigation and overflight, including open shipping lanes. Three principles and these principles -- (applause) -- create stability and build trust, security, and prosperity among like-minded nations.</p>
+
+<p>
+	We must also deal decisively with other threats to our security and the future of our children, such as criminal cartels, human smuggling, drugs, corruption, cybercrime, and territorial expansion. As I have said many times before: All civilized people must come together to drive out terrorists and extremists from our societies, stripping them of funding, territory, and ideological support. We must stop radical Islamic terrorism.</p>
+
+<p>
+	So let us work together for a peaceful, prosperous, and free Indo-Pacific. I am confident that, together, every problem we have spoken about today can be solved and every challenge we face can be overcome.</p>
+
+<p>
+	If we succeed in this effort, if we seize the opportunities before us and ground our partnerships firmly in the interests of our own people, then together we will achieve everything we dream for our nations and for our children.</p>
+
+<p>
+	We will be blessed with a world of strong, sovereign, and independent nations, thriving in peace and commerce with others. They will be places where we can build our homes and where families, businesses, and people can flourish and grow.</p>
+
+<p>
+	If we do this, will we look at the globe half a century from now, and we will marvel at the beautiful constellation of nations -- each different, each unique, and each shining brightly and proudly throughout this region of the world. And just as when we look at the stars in the night sky, the distance of time will make most of the challenges we have and that we spoke of today seem very, very small.</p>
+
+<p>
+	What will not seem small -- what is not small -- will be the big choices that all of our nations will have to make to keep their stars glowing very, very brightly.</p>
+
+<p>
+	In America, like every nation that has won and defended its sovereignty, we understand that we have nothing so precious as our birthright, our treasured independence, and our freedom.</p>
+
+<p>
+	That knowledge has guided us throughout American history. It has inspired us to sacrifice and innovate. And it is why today, hundreds of years after our victory in the American Revolution, we still remember the words of an American founder and our second President of the United States, John Adams. As an old man, just before his death, this great patriot was asked to offer his thoughts on the 50th anniversary of glorious American freedom. He replied with the words: independence forever.</p>
+
+<p>
+	It's a sentiment that burns in the heart of every patriot and every nation. Our hosts here in Vietnam have known this sentiment not just for 200 years, but for nearly 2,000 years. (Applause.) It was around 40 AD when two Vietnamese sisters, the Trung Sisters, first awakened the spirit of the people of this land. It was then that, for the first time, the people of Vietnam stood for your independence and your pride.</p>
+
+<p>
+	Today, the patriots and heroes -- (applause) -- of our histories hold the answers to the great questions of our future and our time. They remind us of who we are and what we are called to do.</p>
+
+<p>
+	Together, we have it in our power to lift our people and our world to new heights -- heights that have never been attained,</p>
+
+<p>
+	So let us choose a future of patriotism, prosperity, and pride. Let us choose wealth and freedom over poverty and servitude. Let us choose a free and open Indo-Pacific.</p>
+
+<p>
+	Finally, let us never forget the world has many places -- (applause) -- many dreams, and many roads. But in all of the world, there is no place like home.</p>
+
+<p>
+	so, for family, for country, for freedom, for history, and for the glory of God, protect your home, defend your home, and love your home today and for all time. (Applause.)</p>
+
+<p>
+	Thank you. God Bless You. God Bless the Pacific region. And God Bless the United States of America. Thank you very much. Thank you. (Applause.)</p>
+
+<p class="rtecenter">
+	END</p>
+
+<p class="rteright">
+	&nbsp;1:51 P.M. ICT</p>
+
+<p>
+	&nbsp;</p>
+
+<p>
+	&nbsp;</p>
+</div>
+          </div>
+  </div>
+
+  
+  </div>
+      </div>
+
+      <div class="panel-panel panel-col panel-col-section-share">
+        <div id = "section-share-wrapper">
+                  </div>
+      </div>
+
+    </div>
+  <footer class="panel-panel panel-footer">
+  
+  <footer class="panel-pane pane-panels-mini pane-default-sitewide-footer sitewide-footer" >
+    <div class="sitewide-footer__wrapper">
+      
+  <nav class="sitewide-footer--social-nav" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-social-nav-1 menu-name-sixteenhundred-social-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6411 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item odd depth-1 no-children" data-position="1"><a href="http://twitter.com/whitehouse" class="menu__link" title="Follow the Whitehouse on Twitter."><span class="fa fa-twitter"></span><span class="element-invisible">Twitter</span></a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6416 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item even depth-1 no-children" data-position="2"><a href="http://instagram.com/whitehouse" class="menu__link" title="See the Whitehouse on Instagram."><span class="fa fa-instagram"></span><span class="element-invisible">Instagram</span></a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6421 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item odd depth-1 no-children" data-position="3"><a href="http://facebook.com/whitehouse" class="menu__link" title="Like the Whitehouse on Facebook."><span class="fa fa-facebook"></span><span class="element-invisible">Facebook</span></a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6441 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item even depth-1 no-children" data-position="4"><a href="/contact" class="menu__link sitewide-footer--social-nav__border sitewide-footer--social-nav__contact-link" title="Contact the Whitehouse."><span class="fa fa-comment"></span><span class="element-invisible">Contact Us</span></a></li>
+</ul></div>
+  </nav>
+
+  <nav class="panel-pane pane-menu-tree pane-sixteenhundred-main-nav sitewide-footer--main-nav horizontal-3-level-menu" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-main-nav-1 menu-name-sixteenhundred-main-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5816 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 horizontal-3-level-menu__top-item odd depth-1 no-children" data-position="1"><a href="https://www.whitehouse.gov" class="menu__link no-header">Home</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-5821 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 even depth-1 children children-2" data-position="2"><a href="/blog" class="menu__link">Briefing Room</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-5846 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-3 menu-featured menu-featured-descs" data-position="1"><span class="menu__link nolink">From the News Room</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5856 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/blog" title="Read the latest news from the White House" class="menu__link">Latest News</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257521 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/featured-videos" title="View the most recent videos from the White House" class="menu__link">Video Gallery</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-7071 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/live" title="Tune in to White House events and statements as they happen" class="menu__link">Live Events</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-77741 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-7" data-position="2"><span class="menu__link nolink">From the Press Office</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5891 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/briefing-room/speeches-and-remarks" class="menu__link">Speeches &amp; Remarks</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5896 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/briefing-room/press-briefings" class="menu__link">Press Briefings</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5901 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/briefing-room/statements-and-releases" class="menu__link">Statements &amp; Releases</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-142711 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/briefing-room/nominations-and-appointments" class="menu__link">Nominations &amp; Appointments</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-5911 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/briefing-room/presidential-actions" class="menu__link">Presidential Actions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5916 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/briefing-room/legislation" class="menu__link">Legislation</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-142716 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="7"><a href="/briefing-room/disclosures" class="menu__link">Disclosures</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5826 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 odd depth-1 children children-1" data-position="3"><a href="/america-first-energy" class="menu__link">Issues</a><ul class="menu"><li class="menu__item is-expanded first last expanded menu-mlid-5936 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-8" data-position="1"><span class="menu__link nolink">Top Issues</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2200631 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/america-first-energy" class="menu__link">America First Energy Plan</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200636 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/america-first-foreign-policy" class="menu__link">America First Foreign Policy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200626 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/bringing-back-jobs-and-growth" class="menu__link">Bringing Back Jobs And Growth</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200646 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/making-our-military-strong-again" class="menu__link">Making Our Military Strong Again</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271641 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/blog/2017/06/08/president-trumps-plan-rebuild-americas-infrastructure" class="menu__link">Rebuilding America’s Infrastructure</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271636 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/repeal-and-replace-obamacare" class="menu__link">Repeal and Replace Obamacare</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200641 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="7"><a href="/law-enforcement-community" class="menu__link">Standing Up For Our Law Enforcement Community</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2200711 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="8"><a href="/trade-deals-working-all-americans" class="menu__link">Trade Deals That Work For All Americans</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5831 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 even depth-1 children children-3" data-position="4"><a href="/administration/president-trump" class="menu__link">The Administration</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6076 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-5" data-position="1"><span class="menu__link nolink">The Administration</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-45996 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/administration/president-trump" class="menu__link">President Donald J. Trump</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-46116 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/administration/vice-president-pence" class="menu__link">Vice President Mike Pence</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45356 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/administration/first-lady-melania-trump" class="menu__link">First Lady Melania Trump</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45961 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/administration/karen-pence" class="menu__link">Mrs. Karen Pence</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-35121 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/administration/cabinet" class="menu__link">The Cabinet</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6081 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-6" data-position="2"><span class="menu__link nolink">Executive Offices</span><ul class="menu"><li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-2257571 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/cea" class="menu__link">Council of Economic Advisers</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269081 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/ceq" class="menu__link">Council on Environmental Quality</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257581 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/omb" class="menu__link">Office of Management and Budget</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269601 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/ondcp" class="menu__link">Office of National Drug Control Policy</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257566 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/ostp" class="menu__link">Office of Science and Technology Policy</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6151 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/administration/eop" class="menu__link">See All</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6091 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-1" data-position="3"><span class="menu__link nolink">Special Events</span><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-6176 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="https://www.58pic2017.org/" class="menu__link">The 58th Presidential Inauguration</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5836 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 odd depth-1 children children-3" data-position="5"><a href="/participate/tours-and-events" class="menu__link">Participate</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6196 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-4" data-position="1"><span class="menu__link nolink">Join Us</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-108026 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/participate/tours-and-events" class="menu__link">Tours &amp; Events</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6241 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="https://apply.whitehouse.gov" class="menu__link">Jobs with the Administration</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-112596 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/participate/internships" class="menu__link">Internships</a></li>
+<li class="menu__item is-parent is-leaf last leaf has-children menu-mlid-207321 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/participate/fellows" class="menu__link">White House Fellows</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6201 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-2" data-position="2"><span class="menu__link nolink">Share Your Thoughts</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6261 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="https://petitions.whitehouse.gov" class="menu__link">We the People Petitions</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6266 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/contact" class="menu__link">Contact the White House</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-2257506 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-5" data-position="3"><span class="menu__link nolink">Get Involved</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2262876 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/obamacare-share-your-story" class="menu__link">Obamacare: Share Your Story</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257616 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/support-americans-back-to-work" class="menu__link">Getting Americans Back to Work</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257781 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/support-empowering-female-leaders" class="menu__link">Support Empowering Female Leaders</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257816 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/trump-stands-with-israel" class="menu__link">President Trump Stands With Israel</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2262546 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/support-repeal-replace-obamacare" class="menu__link">Support the Repeal and Replacement of Obamacare</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-5841 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 even depth-1 children children-2" data-position="6"><a href="/1600/Presidents" class="menu__link">1600 Penn</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6296 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-6" data-position="1"><span class="menu__link nolink">History &amp; Grounds</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-86676 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/1600/Presidents" class="menu__link">Presidents</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-86891 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/1600/first-ladies" class="menu__link">First Ladies</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93186 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/1600/vp-residence" class="menu__link">The Vice President&#039;s Residence &amp; Office</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93191 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/1600/eeob" class="menu__link">Eisenhower Executive Office Building</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93181 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/1600/camp-david" class="menu__link">Camp David</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-91831 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/1600/air-force-one" class="menu__link">Air Force One</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6301 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-7" data-position="2"><span class="menu__link nolink">Our Government</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-93196 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/1600/executive-branch" class="menu__link">The Executive Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93201 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/1600/legislative-branch" class="menu__link">The Legislative Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93206 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/1600/judicial-branch" class="menu__link">The Judicial Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93211 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/1600/constitution" class="menu__link">The Constitution</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93216 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/1600/federal-agencies-and-commissions" class="menu__link">Federal Agencies &amp; Commissions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93231 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/1600/elections-and-voting" class="menu__link">Elections &amp; Voting</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-93226 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="7"><a href="/1600/state-and-local-government" class="menu__link">State &amp; Local Government</a></li>
+</ul></li>
+</ul></li>
+</ul></div>
+  </nav>
+
+  <nav class="sitewide-footer--utility-nav" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-nav-utility-1 menu-name-sixteenhundred-nav-utility parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6471 horizontal-1-level-menu--menu-item sitewide-footer--utility-nav--horizontal-1-level-menu--menu-item odd depth-1 no-children" data-position="1"><a href="http://www.usa.gov" title="More information about the government." class="menu__link">USA.gov</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200436 horizontal-1-level-menu--menu-item sitewide-footer--utility-nav--horizontal-1-level-menu--menu-item even depth-1 no-children" data-position="2"><a href="/privacy" class="menu__link">Privacy Policy</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2201076 horizontal-1-level-menu--menu-item sitewide-footer--utility-nav--horizontal-1-level-menu--menu-item odd depth-1 no-children" data-position="3"><a href="/copyright" class="menu__link">Copyright Policy</a></li>
+</ul></div>
+  </nav>
+    </div>
+  </footer>
+  </footer>
+</div>
+</div>
+</section>
+<!-- /Main page content -->
+  
+<!--[if lte IE 9]>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__B3BxgQrPQXI1dM-r4eK441EdNORsDrMY-zl-NtsKr8Y__QdRvzE-vcRMHyO9uDcc7_W5Zpp5xzNuG3U3Fy2M2sPs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js#ie9-" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_2, 1);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 1);
+  }
+}
+advagg_mod_2_check();"></script>
+<![endif]-->
+
+<!--[if gt IE 9]>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__B3BxgQrPQXI1dM-r4eK441EdNORsDrMY-zl-NtsKr8Y__QdRvzE-vcRMHyO9uDcc7_W5Zpp5xzNuG3U3Fy2M2sPs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js#ie10+" defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_2, 1);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 1);
+  }
+}
+advagg_mod_2_check();"></script>
+<![endif]-->
+
+<!--[if !IE]><!-->
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__B3BxgQrPQXI1dM-r4eK441EdNORsDrMY-zl-NtsKr8Y__QdRvzE-vcRMHyO9uDcc7_W5Zpp5xzNuG3U3Fy2M2sPs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_2, 1);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 1);
+  }
+}
+advagg_mod_2_check();"></script>
+<!--<![endif]-->
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__WwsKSVXD89vBQ8DbVFQ6pLpevn2BOGYl3tgEwTmtYMI__Uwzf6n7oZI77wQpjmwNaVLzTjNuLfghCeXkwiUA_zqo__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__9Tli9115mkX9k9cJvFFcdytqxv151s6bm1qtUeubxhY__FLIz4serIrffY_d79tZKbqWlJ5i1AH2TNLDSO2PeCdg__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script>function init_drupal_core_settings() {jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fortyfour","theme_token":"7wS3Ce2rZiAFklZZFpidRes33gbT8NHE0X4JH2EBmPw","jquery_version":"1.10","js":{"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.slider.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/whitehouse.gov\/modules\/custom\/fb_instant_articles\/modules\/fb_instant_articles_display\/js\/admin.js":1,"profiles\/forall\/modules\/custom\/keyboard_navigation\/js\/keyboard_navigation.js":1,"sites\/whitehouse.gov\/modules\/contrib\/media_preview_slider\/js\/slider.js":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_magic\/panopoly-magic.js":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_theme\/js\/panopoly-accordion.js":1,"sites\/whitehouse.gov\/modules\/contrib\/linkit\/js\/linkit.js":1,"sites\/whitehouse.gov\/libraries\/superfish\/src\/js\/superfish.js":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/sixteenhundrednav.js":1,"sites\/whitehouse.gov\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/forall\/modules\/custom\/shareables\/shareables.js":1,"sites\/whitehouse.gov\/libraries\/jstorage\/jstorage.min.js":1,"sites\/whitehouse.gov\/modules\/custom\/whr_blog_listings\/whr_blog_listings.js":1,"sites\/whitehouse.gov\/modules\/custom\/whr_briefing_room_listings\/whr_briefing_room_listings.js":1,"misc\/progress.js":1,"sites\/whitehouse.gov\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/whitehouse.gov\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/whitehouse.gov\/modules\/contrib\/social_share\/js\/social_share_facebook_sdk.js":1,"sites\/whitehouse.gov\/modules\/custom\/whr_takeover\/whr_takeover.js":1,"misc\/jquery.cookie.js":1,"sites\/whitehouse.gov\/modules\/contrib\/hide_submit\/js\/hide_submit.js":1,"profiles\/forall\/themes\/custom\/fortyfour\/js\/html5shiv.js":1,"profiles\/forall\/themes\/custom\/fortyfour\/js\/theme.js":1,"\/\/platform.twitter.com\/widgets.js":1,"sites\/whitehouse.gov\/modules\/contrib\/navbar\/js\/debounce.js":1,"sites\/whitehouse.gov\/modules\/contrib\/navbar\/js\/displace.js":1,"sites\/whitehouse.gov\/modules\/contrib\/navbar\/js\/navbar-tableheader.js":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picturefill\/matchmedia.js":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picture.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.slider.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/comment\/comment.css":1,"sites\/whitehouse.gov\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/whitehouse.gov\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/forall\/modules\/custom\/forall_river_of_content\/stylesheets\/forall_river_of_content.css":1,"profiles\/forall\/modules\/custom\/forall_secondary_nav\/stylesheets\/secondary_nav.css":1,"sites\/whitehouse.gov\/modules\/contrib\/media_preview_slider\/css\/slider-styles.css":1,"modules\/node\/node.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_magic\/css\/panopoly-magic.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_magic\/css\/panopoly-modal.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_theme\/css\/panopoly-featured.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_theme\/css\/panopoly-accordian.css":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"profiles\/forall\/modules\/custom\/shareables\/stylesheets\/shareables.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_colorbar_divider\/stylesheets\/shareable-colorbar-divider.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_custom_text\/stylesheets\/shareable_custom_text.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_divider\/stylesheets\/shareable-divider.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_full_width\/stylesheets\/shareable_full_width.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_survey_poll\/stylesheets\/shareable_survey_poll.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_tweet\/stylesheets\/shareable_tweet.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_video\/stylesheets\/shareable_video.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapiiframe\/css\/shortcodeapiiframe.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapislideshare\/css\/shortcodeapislideshare.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapisocrata\/css\/shortcodeapisocrata.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapitweet\/css\/shortcodeapitweet.css":1,"profiles\/forall\/modules\/custom\/shortcodeapiyoutube\/stylesheets\/shortcodeapiyoutube.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredpanels\/stylesheets\/sixteen_hundred_panels.css":1,"modules\/user\/user.css":1,"profiles\/forall\/modules\/custom\/gov_whitehouse_www\/modules\/whitehouse_sotu2015\/stylesheets\/whitehouse_sotu2015.css":1,"sites\/whitehouse.gov\/modules\/contrib\/youtube\/css\/youtube.css":1,"profiles\/forall\/modules\/custom\/youtube_livestream_listings\/stylesheets\/youtubelivestreamlistings.css":1,"profiles\/forall\/modules\/custom\/youtube_livestream_multi\/stylesheets\/youtube_livestream_multi.css":1,"sites\/whitehouse.gov\/modules\/contrib\/views\/css\/views.css":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/stylesheets\/screen.css":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/stylesheets\/ie.css":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/stylesheets\/print.css":1,"sites\/whitehouse.gov\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/whitehouse.gov\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/forall\/modules\/custom\/gov_whitehouse_www\/modules\/whitehouse_nav\/css\/whitehouse_nav_search.css":1,"sites\/whitehouse.gov\/libraries\/fontawesome\/css\/font-awesome.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/stylesheets\/sixteenhundredfooter.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/system.menus.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/system.messages.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/system.theme.css":1,"sites\/whitehouse.gov\/modules\/contrib\/hide_submit\/css\/hide_submit.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/system.menus.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/system.messages.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/system.theme.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/css\/styles.css":1,"profiles\/forall\/modules\/custom\/gov_whitehouse_www\/modules\/whitehouse_nav\/css\/whitehouse_nav_search_ie9.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"linkit":{"autocompletePath":"https:\/\/www.whitehouse.gov\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_indicator_style":"expand-left","hide_submit_spinner_color":"#000","hide_submit_spinner_lines":12,"hide_submit_hide_fx":false,"hide_submit_reset_time":5000},"urlIsAjaxTrusted":{"https:\/\/search.usa.gov\/search":true},"better_exposed_filters":{"views":{"press_office_listings":{"displays":{"panel_pane_6":{"filters":[]}}}}},"currentPath":"node\/342691","currentPathIsAdmin":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"socialShare":{"appID":"100929903392"},"tableHeaderOffset":"Drupal.navbar.height"});
+if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(false);}} if(window.jQuery && window.Drupal){init_drupal_core_settings();}</script>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__Iim1AbJnxH3rRatJnOUIol7sNLvE4qpx4Tw1i-5inNg__PKAyehXfKMD313dQeX4wrEOnHtAr3I0F2vnbRDqpyWE__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script>
+function advagg_mod_3() {
+  // Count how many times this function is called.
+  advagg_mod_3.count = ++advagg_mod_3.count || 1;
+  try {
+    if (advagg_mod_3.count <= 40) {
+      var usasearch_config = { siteHandle:'wh' };
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = 'https://search.usa.gov/javascripts/remote.loader.js';
+document.getElementsByTagName('head')[0].appendChild(script);
+
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_3.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_3.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 250 ms.
+      window.setTimeout(advagg_mod_3, 250);
+    }
+  }
+}
+function advagg_mod_3_check() {
+  if (window.jQuery && window.Drupal && window.Drupal.settings) {
+    advagg_mod_3();
+  }
+  else {
+    window.setTimeout(advagg_mod_3_check, 250);
+  }
+}
+advagg_mod_3_check();</script>
+</body>
+</html>

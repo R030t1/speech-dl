@@ -1,0 +1,1162 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <!--[if IE]><![endif]-->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]--><meta charset="utf-8" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="apple-touch-icon" sizes="167x167" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_167x167.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_180x180.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_152x152.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_120x120.png" />
+<link rel="apple-touch-icon" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_76x76.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_76x76.png" />
+<link rel="apple-touch-icon-precomposed" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-60x60-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-120x120-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-76x76-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-60x60-precomposed.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-32x32.png" />
+<meta name="msapplication-square150x150logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-150x150.png" />
+<meta name="msapplication-square70x70logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-70x70.png" />
+<meta name="msapplication-wide310x150logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-310x310.png" />
+<link rel="shortcut icon" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="msapplication-TileImage" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-70x70.png" />
+<meta name="msapplication-TileColor" content="#003C80" />
+<link rel="icon" type="image/png" sizes="128x128" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-128.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="196x196" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-196x196.png" />
+<meta name="msapplication-config" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/browserconfig.xml" />
+<meta name="application-name" content="Whitehouse" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-144x144-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-152x152-precomposed.png" />
+<link rel="shortcut icon" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.whitehouse.gov/the-press-office/2017/11/04/remarks-vice-president-and-community-participants-tax-reform" />
+<link rel="shortlink" href="https://www.whitehouse.gov/the-press-office/2017/11/04/remarks-vice-president-and-community-participants-tax-reform" />
+<meta property="og:site_name" content="whitehouse.gov" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Remarks by the Vice President and Community Participants on Tax Reform" />
+<meta property="og:url" content="https://www.whitehouse.gov/the-press-office/2017/11/04/remarks-vice-president-and-community-participants-tax-reform" />
+<meta property="og:description" content="Military and Commercial Fasteners Corporation York, Pennsylvania 12:36 P.M. EDT" />
+<meta property="og:updated_time" content="2017-11-06T08:14:51-05:00" />
+<meta property="og:image" content="https://www.whitehouse.gov/sites/whitehouse.gov/files/og-image.png" />
+<meta property="og:image:secure_url" content="https://www.whitehouse.gov/sites/whitehouse.gov/files/twitter.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="240" />
+<meta property="og:image:height" content="240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@WhiteHouse" />
+<meta name="twitter:creator" content="@WhiteHouse" />
+<meta name="twitter:title" content="Remarks by the Vice President and Community Participants on Tax Reform" />
+<meta name="twitter:url" content="https://www.whitehouse.gov/the-press-office/2017/11/04/remarks-vice-president-and-community-participants-tax-reform" />
+<meta name="twitter:image" content="https://www.whitehouse.gov/sites/whitehouse.gov/files/images/twitter_cards_default.jpg" />
+<meta name="twitter:image:width" content="240" />
+<meta name="twitter:image:height" content="240" />
+<meta property="article:published_time" content="2017-11-04T17:44:36-04:00" />
+<meta property="article:modified_time" content="2017-11-06T08:14:51-05:00" />
+  <title>Remarks by the Vice President and Community Participants on Tax Reform | whitehouse.gov</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__ghacQDfeAHWJBr8vYeJSI2_yXii0BT2oT0oAXzsDZJ8__he5_I9soW4dc7_Il49EkVpfUnfjZROjkD97jMExmTG0__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__gMQWD3coNk5Au2fO23W-pX-TUWlu3Yki30kqSggljxo__2-EhHNf5nZZqC9WakRsWUy_6-BQ5jc7OfcRhDfp_PXc__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__EnZ6icAZNsBQjLAYHSYP96W45C7XSxet_LzGVPhlZeU__rk0s5Som2o64JV54X4yzodNnT8Z2sb19DG_-LC81nAs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__373-y8KH-KtZjNu3Mt66HoAZ9PzjZ4iuXqSomuCYsI4___E4EQJEb6c3Adl1X2-5IUKFxtRLRPzRfaZjBukfFzEQ__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+<![endif]-->
+  <!--[if lte IE 9]>
+    <link href="/profiles/forall/themes/custom/fortyfour/css/ie9.css" rel="stylesheet" type="text/css">
+  <![endif]-->
+  <script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__NE7EnOYPYYKVWJEZV3b_Z6vx-BZ5oVwoRFJHaRKHfpU__g6xANM1OcRgSwG8dd6XBT2RqAaTWe5urP58rrnRJpWM__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-12099831-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script async="async" src="//platform.twitter.com/widgets.js"></script>
+<!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. --><script src="/sites/whitehouse.gov/modules/contrib/usfedgov_google_analytics/js/Universal-Federated-Analytics-Min.js?agency=Executive%20Office%20of%20the%20President&subagency=The%20White%20House" type="text/javascript" id="_fed_an_ua_tag"></script>      <!--[if lt IE 9]>
+    <script src="/sites/whitehouse.gov/themes/contrib/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-342256 node-type-press-article section-the-press-office page-panels" >
+<div id="fb-root"></div>
+<script>
+function advagg_mod_1() {
+  // Count how many times this function is called.
+  advagg_mod_1.count = ++advagg_mod_1.count || 1;
+  try {
+    if (advagg_mod_1.count <= 40) {
+      (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_1.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_1.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 250 ms.
+      window.setTimeout(advagg_mod_1, 250);
+    }
+  }
+}
+function advagg_mod_1_check() {
+  if (window.jQuery && window.Drupal && window.Drupal.settings) {
+    advagg_mod_1();
+  }
+  else {
+    window.setTimeout(advagg_mod_1_check, 250);
+  }
+}
+advagg_mod_1_check();</script>      <p class="skip-link">
+      <a href="#content-start" class="element-invisible element-focusable">Jump to main content</a>
+    </p>
+        <p id="skip-link">
+      <a href="#block-menu-block-sixteenhundrednav-main" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<!-- !$page_manager_control: Only show these things if the page isn't a node under the control of page manager. -->
+<!-- /!$page_manager_control -->
+
+<!-- Main page content -->
+<section id="page">
+  
+
+
+
+<div class="panelizer-view-mode node node-full node-press-article node-342256">
+        <div class="panel-display panel-basic-single-content-col" >
+  <header class="panel-panel panel-header">
+   <div class="panel-pane pane-panels-mini pane-default-header clearfix"  >
+  
+  <div class="whr-takeover" id="whr-takeover" style="display:none;"></div>
+
+<div class="whr-header-bg">
+  <div class="whr-wrapper">
+    <div class="whr-contact-slogan">
+      <div class="panel-pane pane-page-slogan" >
+  
+      
+  
+  the <span class="whr-lead">WHITE HOUSE</span><span class="whr-president">President Donald J. Trump</span>
+  
+  </div>
+
+  <nav class="whr-contact-nav" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-contact-nav-1 menu-name-sixteenhundred-contact-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-2200426 horizontal-1-level-menu--menu-item whr-contact-nav--horizontal-1-level-menu--menu-item odd depth-1 no-children" data-position="1"><a href="/contact" class="menu__link">Get in Touch</a></li>
+</ul></div>
+  </nav>
+    </div>
+  </div>
+  <div class="whr-navbar">
+    <div class="whr-wrapper">
+      <div class="panel-pane pane-page-logo" >
+  
+      
+  
+  <a href="/" rel="home" id="logo" title="Home"><img src="https://www.whitehouse.gov/profiles/forall/modules/custom/gov_whitehouse_www/images/icons/wh_logo_seal.png" alt="Home" /></a>
+  
+  </div>
+<div id="block-menu-block-sixteenhundrednav-main"
+     class="" tabindex="-1">
+  <div id="main-menu-header" class="clearfix">
+    <div id="icon-wrapper">
+      <a href="#" role='tab' id="main-menu-toggle"><i class="fa fa-bars"></i></a>
+    </div>
+  </div>
+  <div id="main-menu-content">
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-main-nav-2 menu-name-sixteenhundred-main-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-5816 main-nav--menu-item --main-nav--menu-item odd depth-1 no-children" data-position="1"><a href="https://www.whitehouse.gov" class="no-header">Home<i class='fa fa-angle-down'></i></a></li>
+<li class="expanded menu-mlid-5821 main-nav--menu-item --main-nav--menu-item even depth-1 children children-2" data-position="2"><a href="/blog">Briefing Room<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="first expanded menu-mlid-5846 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-3 menu-featured menu-featured-descs" data-position="1"><span class="nolink">From the News Room</span><ul class="menu-featured__column"><li class="first leaf menu-mlid-5856 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><div class="menu-featured__item"><a href="/blog" title="Read the latest news from the White House" class="menu-featured__link">Latest News</a><span class="menu-featured__description">Read the latest news from the White House</span></div></li>
+<li class="leaf menu-mlid-2257521 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><div class="menu-featured__item"><a href="/featured-videos" title="View the most recent videos from the White House" class="menu-featured__link">Video Gallery</a><span class="menu-featured__description">View the most recent videos from the White House</span></div></li>
+</ul><ul class="menu-featured__column"><li class="last leaf menu-mlid-7071 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><div class="menu-featured__item"><a href="/live" title="Tune in to White House events and statements as they happen" class="menu-featured__link">Live Events</a><span class="menu-featured__description">Tune in to White House events and statements as they happen</span></div></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-77741 main-nav--menu-item --main-nav--menu-item even depth-2 children children-7" data-position="2"><span class="menu__link nolink">From the Press Office</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5891 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/briefing-room/speeches-and-remarks" class="menu__link">Speeches &amp; Remarks</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5896 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/briefing-room/press-briefings" class="menu__link">Press Briefings</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5901 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/briefing-room/statements-and-releases" class="menu__link">Statements &amp; Releases</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-142711 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/briefing-room/nominations-and-appointments" class="menu__link">Nominations &amp; Appointments</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-5911 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/briefing-room/presidential-actions" class="menu__link">Presidential Actions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5916 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/briefing-room/legislation" class="menu__link">Legislation</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-142716 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="7"><a href="/briefing-room/disclosures" class="menu__link">Disclosures</a></li>
+</ul></li>
+</div></ul></li>
+<li class="expanded menu-mlid-5826 main-nav--menu-item --main-nav--menu-item odd depth-1 children children-1" data-position="3"><a href="/america-first-energy">Issues<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first last expanded menu-mlid-5936 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-8" data-position="1"><span class="menu__link nolink">Top Issues</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2200631 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/america-first-energy" class="menu__link">America First Energy Plan</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200636 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/america-first-foreign-policy" class="menu__link">America First Foreign Policy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200626 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/bringing-back-jobs-and-growth" class="menu__link">Bringing Back Jobs And Growth</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200646 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/making-our-military-strong-again" class="menu__link">Making Our Military Strong Again</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271641 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/blog/2017/06/08/president-trumps-plan-rebuild-americas-infrastructure" class="menu__link">Rebuilding America’s Infrastructure</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271636 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/repeal-and-replace-obamacare" class="menu__link">Repeal and Replace Obamacare</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200641 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="7"><a href="/law-enforcement-community" class="menu__link">Standing Up For Our Law Enforcement Community</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2200711 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="8"><a href="/trade-deals-working-all-americans" class="menu__link">Trade Deals That Work For All Americans</a></li>
+</ul></li>
+</div></ul></li>
+<li class="expanded menu-mlid-5831 main-nav--menu-item --main-nav--menu-item even depth-1 children children-3" data-position="4"><a href="/administration/president-trump">The Administration<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first expanded menu-mlid-6076 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-5" data-position="1"><span class="menu__link nolink">The Administration</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-45996 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/administration/president-trump" class="menu__link">President Donald J. Trump</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-46116 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/administration/vice-president-pence" class="menu__link">Vice President Mike Pence</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45356 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/administration/first-lady-melania-trump" class="menu__link">First Lady Melania Trump</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45961 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/administration/karen-pence" class="menu__link">Mrs. Karen Pence</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-35121 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/administration/cabinet" class="menu__link">The Cabinet</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6081 main-nav--menu-item --main-nav--menu-item even depth-2 children children-6" data-position="2"><span class="menu__link nolink">Executive Offices</span><ul class="menu"><li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-2257571 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/cea" class="menu__link">Council of Economic Advisers</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269081 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/ceq" class="menu__link">Council on Environmental Quality</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257581 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/omb" class="menu__link">Office of Management and Budget</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269601 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/ondcp" class="menu__link">Office of National Drug Control Policy</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257566 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/ostp" class="menu__link">Office of Science and Technology Policy</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6151 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/administration/eop" class="menu__link">See All</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6091 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-1" data-position="3"><span class="menu__link nolink">Special Events</span><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-6176 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="https://www.58pic2017.org/" class="menu__link">The 58th Presidential Inauguration</a></li>
+</ul></li>
+</div></ul></li>
+<li class="expanded menu-mlid-5836 main-nav--menu-item --main-nav--menu-item odd depth-1 children children-3" data-position="5"><a href="/participate/tours-and-events">Participate<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first expanded menu-mlid-6196 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-4" data-position="1"><span class="menu__link nolink">Join Us</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-108026 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/participate/tours-and-events" class="menu__link">Tours &amp; Events</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6241 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="https://apply.whitehouse.gov" class="menu__link">Jobs with the Administration</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-112596 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/participate/internships" class="menu__link">Internships</a></li>
+<li class="menu__item is-parent is-leaf last leaf has-children menu-mlid-207321 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/participate/fellows" class="menu__link">White House Fellows</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6201 main-nav--menu-item --main-nav--menu-item even depth-2 children children-2" data-position="2"><span class="menu__link nolink">Share Your Thoughts</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6261 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="https://petitions.whitehouse.gov" class="menu__link">We the People Petitions</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6266 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/contact" class="menu__link">Contact the White House</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-2257506 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-5" data-position="3"><span class="menu__link nolink">Get Involved</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2262876 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/obamacare-share-your-story" class="menu__link">Obamacare: Share Your Story</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257616 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/support-americans-back-to-work" class="menu__link">Getting Americans Back to Work</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257781 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/support-empowering-female-leaders" class="menu__link">Support Empowering Female Leaders</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257816 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/trump-stands-with-israel" class="menu__link">President Trump Stands With Israel</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2262546 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/support-repeal-replace-obamacare" class="menu__link">Support the Repeal and Replacement of Obamacare</a></li>
+</ul></li>
+</div></ul></li>
+<li class="last expanded menu-mlid-5841 main-nav--menu-item --main-nav--menu-item even depth-1 children children-2" data-position="6"><a href="/1600/Presidents">1600 Penn<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first expanded menu-mlid-6296 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-6" data-position="1"><span class="menu__link nolink">History &amp; Grounds</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-86676 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/1600/Presidents" class="menu__link">Presidents</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-86891 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/1600/first-ladies" class="menu__link">First Ladies</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93186 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/1600/vp-residence" class="menu__link">The Vice President&#039;s Residence &amp; Office</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93191 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/1600/eeob" class="menu__link">Eisenhower Executive Office Building</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93181 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/1600/camp-david" class="menu__link">Camp David</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-91831 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/1600/air-force-one" class="menu__link">Air Force One</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6301 main-nav--menu-item --main-nav--menu-item even depth-2 children children-7" data-position="2"><span class="menu__link nolink">Our Government</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-93196 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/1600/executive-branch" class="menu__link">The Executive Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93201 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/1600/legislative-branch" class="menu__link">The Legislative Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93206 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/1600/judicial-branch" class="menu__link">The Judicial Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93211 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/1600/constitution" class="menu__link">The Constitution</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93216 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/1600/federal-agencies-and-commissions" class="menu__link">Federal Agencies &amp; Commissions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93231 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/1600/elections-and-voting" class="menu__link">Elections &amp; Voting</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-93226 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="7"><a href="/1600/state-and-local-government" class="menu__link">State &amp; Local Government</a></li>
+</ul></li>
+</div></ul></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-pane pane-block pane-search-form sitewide-header--search-form" >
+  
+      
+  
+  <form action="https://search.usa.gov/search" method="get" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input class="usagov-search-autocomplete ui-autocomplete-input ui-corner-all form-text" autocomplete="off" type="text" name="query" id="edit-search-block-form--2" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="affiliate" value="wh" />
+</div>
+</div></form>
+  
+  </div>
+    </div>
+  </div>
+</div>
+<div class="whr-wrapper">
+  <div class="panel-pane pane-page-breadcrumb" >
+  
+      
+  
+  <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="/">Home</a></li><li><a href="/blog">Briefing Room</a></li><li><a href="/briefing-room/speeches-and-remarks">Speeches &amp; Remarks</a></li></ol></nav>
+  
+  </div>
+</div>
+
+
+</div>
+  </header>
+    <div class="panel-panel panel-wrapper panel-col-section-all">
+
+      <div class="panel-panel panel-col panel-col-section-menu">
+       <div class="panel-pane pane-block pane-menu-block-forall-secondary-nav" >
+  
+        <h2 class="pane-title">From the Press Office</h2>
+    
+  
+  <div class="menu-block-wrapper menu-block-forall_secondary_nav menu-name-sixteenhundred-main-nav parent-mlid-0 menu-level-3">
+  <ul class="menu"><li class="menu__item is-active-trail is-leaf first leaf active-trail odd depth-3 no-children" data-position="1"><a href="/briefing-room/speeches-and-remarks" class="menu__link is-active-trail is-active active active-trail">Speeches &amp; Remarks</a></li>
+<li class="menu__item is-leaf leaf even depth-3 no-children" data-position="2"><a href="/briefing-room/press-briefings" class="menu__link">Press Briefings</a></li>
+<li class="menu__item is-leaf leaf odd depth-3 no-children" data-position="3"><a href="/briefing-room/statements-and-releases" class="menu__link">Statements &amp; Releases</a></li>
+<li class="menu__item is-leaf leaf even depth-3 no-children" data-position="4"><a href="/briefing-room/nominations-and-appointments" class="menu__link">Nominations &amp; Appointments</a></li>
+<li class="menu__item is-collapsed collapsed odd depth-3 no-children" data-position="5"><a href="/briefing-room/presidential-actions" class="menu__link">Presidential Actions</a></li>
+<li class="menu__item is-leaf leaf even depth-3 no-children" data-position="6"><a href="/briefing-room/legislation" class="menu__link">Legislation</a></li>
+<li class="menu__item is-leaf last leaf odd depth-3 no-children" data-position="7"><a href="/briefing-room/disclosures" class="menu__link">Disclosures</a></li>
+</ul></div>
+
+  
+  </div>
+      </div>
+
+      <div id="content-start" class="panel-panel panel-col panel-col-section-content" tabindex="-1">
+       <div class="panel-pane pane-custom pane-1 clearfix" >
+      <div class="videos-intro-field videos-intro-forall-body forall-body">
+      <div class="whr-read-more-wrapper">
+        <div class="press-article-header-wrapper">
+  <div id="press_article_heading" class="press-article-heading">
+    <div id="press_article_heading_title" class="heading-title">The White House</div>
+    <div id="press_article_heading_subtitle" class="heading-subtitle">Office of the Vice President</div>
+  </div>
+  <div id="press_article_subheading" class="clearfix press-article-subheading">
+    <div id="press_article_immediate_release" class="press-article-release">For Immediate Release</div>
+    <div id="press_article_date_created" class="press-article-date">November 04, 2017</div>
+  </div>
+</div>      </div>
+    </div>
+  </div>
+<div class="panel-pane pane-node-title" >
+  
+      
+  
+  <h1>Remarks by the Vice President and Community Participants on Tax Reform</h1>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-forall-body" >
+  
+      
+  
+  
+  <div class="field field-name-field-forall-body field-type-text-long field-label-hidden forall-body">
+        <div class="field-items">
+              <div class="field-item even"><p class="rtecenter">
+	Military and Commercial Fasteners Corporation</p>
+
+<p class="rtecenter">
+	York, Pennsylvania</p>
+
+<p>
+	12:36 P.M. EDT</p>
+
+<p>
+	THE VICE PRESIDENT: Thank you very much, Secretary Acosta. Thank you for your great, great leadership of the Department of Labor and for your very gracious words. Thank you all for that wonderful, warm welcome. It is great to be back in York, Pennsylvania -- a county, a community that laid a foundation to Make America Great Again. And don't think we ever doubt it.</p>
+
+<p>
+	I spoke to the President this morning. He’ll be wheels up shortly from Hawaii on what we believe will be a historic and significant trip across the Asia Pacific. But he wanted me to send you his thanks and his regards, and we are grateful you are all here because we are going to be listening to job creators from across Pennsylvania. We're going to be learning, and we're going to carry back what we hear in this place to work with these great members of Congress, and we're going to pass tax cuts across the board for working families, small businesses, and family farms. That's the goal. (Applause.)</p>
+
+<p>
+	So thank you all for taking time on a beautiful Saturday. And I especially want to thank our hosts today here at the Military and Commercial Fasteners Corporation. This is a third-generation, family-owned business, really a model of economic prosperity for the last 45 years. Join me in thanking Craig and Michelle Siewert, Ronald and Stephanie Kin, the entire MCF team for their hospitality for opening up this great business for this great discussion. Would you join me in thanking them? (Applause.)</p>
+
+<p>
+	Before we get started, I also want to acknowledge the presence not only of the man who is sitting to my left. General Perry is a great leader, served this country in many ways, but now he’s doing a fantastic job in the Congress for the United States. But he’s not alone. (Applause.)</p>
+
+<p>
+	In addition to Congressman Scott Perry, we're also joined -- and maybe they could just stand and give a wave -- Congressmen Lou Barletta, Glenn Thompson, Brian Fitzpatrick, and Lloyd Smucker. (Applause.)</p>
+
+<p>
+	These are great leaders, great partners for President Trump and me on Capitol Hill, and we're really appreciative of their time as well as yours, General.</p>
+
+<p>
+	And let me also make just a quick comment of recognition but also condolence. I learned on my way here today that Pennsylvania, particularly manufacturing in Pennsylvania, lost a great leader in this last week -- Fred Anton. Fred had a long career in the law. He served as the lead for the Pennsylvania Manufacturers Association. He fought for jobs for hardworking people all across the Keystone State. He was in every sense a patriot. And I know you all join me in expressing our deepest condolences to the family of Fred Anton. We will remember Fred in the days ahead, and we will seek to emulate his dedication to working people in Pennsylvania every day that follows. So God bless him and God bless his family. (Applause.)</p>
+
+<p>
+	The President sent me here to listen and to learn and to equip ourselves and equip these legislators with even more ammunition to go back to Capitol Hill to pass the kind of tax relief and tax reform that's going build the tremendous growth that we already see in this economy. You heard the Secretary of Labor just describe it. I’ll mention it in some of my closing remarks.</p>
+
+<p>
+	But we've seen tremendous growth in the American economy already. But President Trump and I believe the time has come to pass historic tax relief, and the legislation that began the process this week on Capitol Hill, when it makes its way to the President’s desk before the end of this year, it may well be the largest tax cut in American history. And we believe that it will lay a foundation for prosperity for years to come. (Applause.)</p>
+
+<p>
+	The President calls it the “Middle-class Miracle,” and what he’s charged these members of Congress to do is really build tax relief and tax reform along the following lines: We want to cut taxes for working families and small businesses. We want to lower taxes on businesses of every size so that American companies here in Pennsylvania can compete with companies around the world. And we want to simplify the tax code. And fortunately this last week, the Congress of the United States introduced legislation the President and I think is a great start. Soon the Senate will follow. But in the weeks ahead, we're going to be carrying back what we hear today to move this legislation forward and bring the American people the kind of tax relief they need and deserve.</p>
+
+<p>
+	My thanks to all of those that are gathered here at the panel. I’m going to turn it back over to General Perry to lead a conversation. I’m going to take some good notes. But my questions are as follows: Number one, to all the job creators gathered here, how important are tax cuts to your business right now in Pennsylvania? How urgent is the need for Congress to get the job done and pass tax cuts on businesses and on working families?</p>
+
+<p>
+	Number two, what’s the most important part of the President’s outline for that “Middle-class Miracle” that you heard us describe? Is it simplification? Is it the business tax cuts? Is it tax cuts for individuals? Are there aspects of it that would make a particular difference in your business?</p>
+
+<p>
+	And lastly, what would you do with the tax cut if you got it? I think folks that are gathered here and the media that joins us today would have a great interest in hearing from job creators about how would you use these dollars? How would you invest these dollars? Whether that be wages, whether that be more jobs at your companies, we’d love to have your candid reflections on that?</p>
+
+<p>
+	So to start the conversation, I’m going to turn it back over to General Perry. But again, how about a round of applause for all these job creators that came out and are willing to sit here and give us -- (Applause.)</p>
+
+<p>
+	General?</p>
+
+<p>
+	GENERAL PERRY: Thanks so much, Mr. Vice President. It’s truly an honor to be here with you, Secretary Acosta, and these great Americans from the Commonwealth of Pennsylvania. I’d like to begin our roundtable with the President of the company we’re here visiting today, Military and Commercial Fasteners, Craig and his wife, Michelle, are co-owners of this great company that, among other things, make crucial products for our men and women in uniform to give them better protection from roadside explosives. What a worthy cause.</p>
+
+<p>
+	Craig, can you tell us a little bit about yourself and why you think we need a tax cut and tax reform?</p>
+
+<p>
+	MR. SIEWERT: Yes. As a small business, we have been in a struggle for the last four or five years regarding escalating costs. It’s affecting, I believe, everybody. We're not unusual by any means. The healthcare expenses have been very dire at times. As a company, we support the employees. We pay 85 percent of their healthcare costs. And to absorb the increases year-in, year-out has been a challenge.</p>
+
+<p>
+	We have been able to do so. But I think with the tax plan that I’ve been looking at and hopefully the way it comes out, we get a meaningful plan, that's going to support, one, the employees from a middle-class standpoint. And from the business side, the tax cuts that we're looking at, you can see we're a capital-intensive company. And it’s going to come in handy when we need to make investments, and it’s going to allow us to make more investments and grow the business in a way that everybody is going to be supported.</p>
+
+<p>
+	This year alone we've seen a 30 percent increase in our revenues. And I can't attest this to anything other than President Trump and Vice President Pence coming on board and just changing the emotional atmosphere that's out there. I can't put my finger on it any other way. So this tax plan is very important that it becomes meaningful and not watered down through the process.</p>
+
+<p>
+	THE VICE PRESIDENT: Thanks, Craig. Great comments. (Applause.)</p>
+
+<p>
+	Just very quickly, Craig, you talk about a 30 percent increase in your business this year alone. When you talk about investments and growing the business, is that more jobs, more opportunities here in York and your business around the country?</p>
+
+<p>
+	MR. SIEWERT: Our company, we've added probably 19 jobs this year. This is our headquarters. We have a branch down in Athens, Georgia, and also, Mr. Vice President, in your home state, Goshen, Indiana. So we've been growing in all three. I would say our Athens facility is by far the largest growth. But collectively, we're all in this together. We supported all the branches in this period of time. So we're very appreciative and feel blessed as to what’s been happening.</p>
+
+<p>
+	THE VICE PRESIDENT: Great, thank you, Craig. Great comments.</p>
+
+<p>
+	GENERAL PERRY: Thanks so much, Craig. Another team of business leaders in the community is Jean and Jim Ream. Jim and Jean are flanking you here, Mr. Vice President. They started their printing company here in York nearly 30 years ago. Jim and Jean, please introduce yourselves and let us know your thoughts on tax reform.</p>
+
+<p>
+	MS. REAM: Thank you, Congressman Perry. My name is Jean Ream. Thank you for inviting us here today. A little background about Ream Printing, we are in our 30th year. We are located in Manchester Township, right across I-83, and we are finally referred to by many as the Republican printer in York County. (Laughter and applause.)</p>
+
+<p>
+	We brought along with us today our 24-year-old daughter Rebecca (ph). Rebecca has her parents’ passion for politics. And among her many other accomplishments, has interned for Congressman Perry, and we hope that she will be able to continue the business for many years to come through these tax reforms.</p>
+
+<p>
+	Across the table from me is my husband, Jim Ream. And Jim can talk to you about his feelings on the tax plan.</p>
+
+<p>
+	THE VICE PRESIDENT: Thanks, Jean.</p>
+
+<p>
+	MR. REAM: Thank you. I really looked at when in our zero to 30th year, especially in my -- in the printing business, what has really happened to us is technology has really turned the printing business much more into a commodity than a craft.</p>
+
+<p>
+	When I first started and graduated with an associate degree from Williamsport, we were all craftsmen when it came to printing. Now it’s much more of a commodity. And people say, what do you mean by that? And I can show you that by everyone who has their cell phone out. Fifteen years ago when you took that picture and you wanted copies of it, I got 15 bucks for every one of those copies. (Laughter.) Today you can send that copy to the top of the Himalayan Mountains, and it’s free. So this is really what has impacted our company. And our goal is just to try to maintain because of the way the printing pie is shrinking.</p>
+
+<p>
+	And I think that's what makes this so vitally important is the fact that it looks at both sides. Because everybody sitting here that runs a business, what we need is new customers. And the thing that doesn't get said about this is this may make starting other small businesses simpler, easy. And that's what I need. I need: How can you help me start a new business and need printing, need advertising, need marketing?</p>
+
+<p>
+	And that's really why it’s so important not to -- as far as reinvesting the money back into the company with technology, but the fact is that maybe one or two of my employees would actually come to me and say, hey, guess what, I’m leaving today and I’m starting my own small business. Because we've made it simpler. We've made it easier to do.</p>
+
+<p>
+	So I think that is like a very important part that we need to make sure we emphasize.</p>
+
+<p>
+	I think the other thing that just, quite frankly, blows my mind is I hear these people -- you give a problem to anybody that's sitting at this table like, well, we don't know if we like this tax plan because we can't write off our state taxes. Our governor here, he doesn't like this tax. Our rate is three-something. It’s miniscule -- other than New York and California. Well, why don't you send those reps back and get them to cut the rate in New York and California in half? Not worry about taking it out of this plan. That's what’s called innovative thinking, not saying this plan is no good just because I can't write off my state taxes. The key there is to go back to the state and get them to lower the rate the way it should be, then it won’t be near as much a detriment. That's what we got to tell these people that are naysayers -- whether they be Republicans or they be Democrats. We have to say this is just baloney. Don't try to fix the problem here. Put this plan in action. Put both sides in, and then go back and fix what the tax rate could be. I’m sure Governor Cuomo and Brown will have a lot to say about that. (Laughter and applause.)</p>
+
+<p>
+	THE VICE PRESIDENT: Thank you, Jim. Great comments.</p>
+
+<p>
+	GENERAL PERRY: Thank you, Jim. Thank you, Jean. All right, thanks for sharing their story, Jim and Jean.</p>
+
+<p>
+	Tom Baughman started New Concept Machine and Tool in his basement in 1985. From that meager beginning, his business now employs over 200 people in Pennsylvania. Tom, what are your thoughts on tax reform and tax reduction?</p>
+
+<p>
+	MR. BAUGHMAN: Thank you, Congressman Perry. As you state, I’m fortunate to be the CEO of a manufacturing company. It’s actually in another industrial park not far from here in York. I’m also proud to say that it is 70 percent employee-owned, so we have quite the team down there. We continue to grow that.</p>
+
+<p>
+	I’d like to thank you, Vice President Pence, and the Trump administration for this push towards tax reform. Taxes and healthcare costs continue to be the biggest detriment to U.S. manufacturing growth. The large sums required to cover these expenses reduce a company’s ability to invest in new technologies, new equipment, and employee development.</p>
+
+<p>
+	Additionally, these costs diminish the financial performance, especially of small to mid-size companies and as such hamper the ability to borrow money for future investment. So yes, I am very much in favor of this tax reform just as everyone.</p>
+
+<p>
+	And -- a sum of it, there are some of the items that are of concern. I’d like to state one of them, it states that the deductibility of interest will be limited to 30 percent of taxable income. In our case, that's certainly going to have a negative effect and reduce our ability to invest in the company. So I’d like to put that under consideration.</p>
+
+<p>
+	New tax reform proposals ought to be completely acceptable. But I assure of you one thing, that the savings gained by the leaders in this community are going to invest in their business. That's where the money is going to go. (Applause.)</p>
+
+<p>
+	So I want to thank you again for coming to York and giving us this opportunity.</p>
+
+<p>
+	THE VICE PRESIDENT: Thank you, Tom. You make a very interesting point. And I mean to ask Jean, how many employees do you all have? You're a small business, but been around for you said 30 years?</p>
+
+<p>
+	MS. REAM: We used to have 30 employees, but due to technology, we have 15. But we still do the same amount of business.</p>
+
+<p>
+	THE VICE PRESIDENT: Fifteen employees -- that speaks to the technology issue.</p>
+
+<p>
+	You said the savings gain will go to investing in your business, Tom.</p>
+
+<p>
+	MR. BAUGHMAN: Definitely. It always has.</p>
+
+<p>
+	THE VICE PRESIDENT: You're a 70-percent-employee-owned business, and so the initial tax relief for the business does go to your employees.</p>
+
+<p>
+	And I would ask this of everybody, when you talk about going to your business, is that hiring more people? Is that having the opportunity to raise wages in your business? Is it both or something else?</p>
+
+<p>
+	MR. BAUGHMAN: It’s all of the above -- all of the above. We have opportunities right now where we need to be bringing in additional pieces of equipment. If we don't bring that equipment in quickly, we’ll lose that opportunity. And it won’t be lost in the U.S., it will be lost to a competing country.</p>
+
+<p>
+	THE VICE PRESIDENT: Got it.</p>
+
+<p>
+	MR. BAUGHMAN: So I think our business is extremely capital intense, and it’s got to be turned over. You don't run that same equipment for 40 and 50 years. As being discussed here today, technology just moves so fast -- Moore’s Law.</p>
+
+<p>
+	THE VICE PRESIDENT: And immediate expensing probably has a big positive piece of it, right?</p>
+
+<p>
+	MR. BAUGHMAN: Correct.</p>
+
+<p>
+	THE VICE PRESIDENT: A lot of people -- one of the proposals being -- I know the President is enthusiastic about -- is being able to expense equipment immediately as opposed to having to do it over a number of years.</p>
+
+<p>
+	MR. BAUGHMAN: Correct. That will help certainly the more midsize, larger companies because I think there’s with now a $500,000 exemption right now.</p>
+
+<p>
+	THE VICE PRESIDENT: Right. Thank you, Tom, great words.</p>
+
+<p>
+	GENERAL PERRY: Thanks, Tom. Another great business in the area we all probably know is Maple Donuts. Charlie Burnside. (Applause.)</p>
+
+<p>
+	Charlie Burnside’s father started the business in 1946 and now employs well over 400 people between their York and Erie locations. Charlie, tell us more about your business and why you think we need tax reform.</p>
+
+<p>
+	MR. BURNSIDE: Well, I was looking around the table and these cards, and it said, owner of Maple Donuts. I think my wife, too, should be sitting in this chair. (Laughter.) She’s the owner.</p>
+
+<p>
+	THE VICE PRESIDENT: Is she here?</p>
+
+<p>
+	MR. BURNSIDE: Yes, she is. She’s sitting back there. She’s here.</p>
+
+<p>
+	THE VICE PRESIDENT: Stand up, take a bow, will you? (Applause.) We love family businesses.</p>
+
+<p>
+	MR. BURNSIDE: And I have two sons in the business and two grandsons in the business now. So our one grandson -- our son, rather, runs our Erie plant in Erie, Pennsylvania, which is very liberal and Democrat up there. (Laughter.) So he’s got his problems up there.</p>
+
+<p>
+	Well, I don't think the plan goes far enough. I think we need to get rid of loopholes and create a level playing field for everyone. We pay accountants both in-house and outside accountants to look and search for the correct way to do things so we don't break the laws. And we need to know the rules -- but they keep changing on us, too. We're going to have a tax reform here. That's good, so far. The numbers keep changing. Is it 25 percent, 35 percent? Who knows. Will that be changed in the Senate? Will they come back and say to you, in the “art the deal,” the President starts up here, if he gets in here, then both parties have done, so you think that's what will happen? Or will these numbers stay the same or massaged?</p>
+
+<p>
+	THE VICE PRESIDENT: Well, Charlie, I can tell you and everyone gathered here that the President laid out a series of principles and a series of parameters around this. There will be a lot that goes through the legislative process about details, but I’m going to make you a promise: President Trump is absolutely committed to cut the rate on American businesses to 20 percent, and we're going to stand firm. We're going to stand firm.</p>
+
+<p>
+	MR. BURNSIDE: That's what I wanted to hear. (Applause.) Because Tom and Jim over there, and all of us in here that run businesses, if we have more money at the end of the year, of course, we're going to invest in equipment, of course that rack is going to be higher over there, of course, we're going to sprinkle this building. And all of that creates more jobs. It’s not just the jobs that we create ourselves, but the additional jobs -- the transportation that we have. We’ll have to get a truck from here to California. I have to hire that truck to take it out there because I can't drive out and back. So those are all additional jobs that help when we have more money to spend.</p>
+
+<p>
+	So it’s nothing new. It’s equipment, investing in your people, giving them raises. Happy people make happy companies. Simple as that. (Applause.)</p>
+
+<p>
+	And I don't want to be as long as all these other guys were over here, so just eat donuts, world. (Laughter.)</p>
+
+<p>
+	THE VICE PRESIDENT: That's great. Charlie makes a really good point, though, and I may add it to my next forum questions. It’s not just when businesses pay less taxes, when people have more money in their pocketbooks, as Jim was saying, you see other businesses created. But also the businesses that do business with Maple Donuts are benefitting.</p>
+
+<p>
+	MR. BURNSIDE: Right, that's correct.</p>
+
+<p>
+	THE VICE PRESIDENT: When you're growing, your suppliers, your vendors are able to grow and create more jobs.</p>
+
+<p>
+	MR. BURNSIDE: That's correct.</p>
+
+<p>
+	THE VICE PRESIDENT: So I think it’s a really terrific point. It’s a ripple effect.</p>
+
+<p>
+	MR. BURNSIDE: It’s called the Republican way of doing business.</p>
+
+<p>
+	THE VICE PRESIDENT: Thank you, Charlie. (Laughter and applause.)</p>
+
+<p>
+	GENERAL PERRY: Charlie Burnside, eat more donuts, right? One of our proud veteran-owned businesses here in Pennsylvania is Perform Group, owned by former Air Force Captain Tighe King. Tighe flew 158 combat missions over Vietnam, earning him the Distinguished Flying Cross and -- I just got a chill, I’m going to tell you -- the Air Medal with 12 oak-leaf clusters. (Applause.) And the Air Force Commendation Medal.</p>
+
+<p>
+	When he returned, he purchased a small company with two employees that now employs around 300. Tighe, my friend, can you tell us a little bit about your business and what tax reform would do for you and your employees?</p>
+
+<p>
+	MR. KING: Thank you, Congressman.</p>
+
+<p>
+	GENERAL PERRY: Yes, sir. We're privileged to have you.</p>
+
+<p>
+	MR. KING: So I have to catch my breath on that one first. So, Mr. Vice President, Mr. Secretary, thank you for being here in York, Pennsylvania. And thanks for this opportunity for all of us around the table to share with you some of our thoughts, ideas as to why this program can bring tremendous benefits to this country.</p>
+
+<p>
+	This country -- it was created and it grew because we made things. We were producers -- that simple. And we sold around the world. We sold to one another, and we created jobs. And we became a stronger company -- country.</p>
+
+<p>
+	Today, we're a country of consumers. We don't make as much as we used to. And we have only so far that we can go doing that. We have to be able to produce.</p>
+
+<p>
+	Our company, as our congressman just mentioned, currently employs around 300. Years past I employed over 500 employees. I had three factories here in York County, an operation down in Virginia. And I also engaged on a seasonal basis somewhere around 20 domestic contractors, produced a lot of goods and created a lot more dollars into the various different local economies.</p>
+
+<p>
+	Today, I produce -- have one factory here in Pennsylvania, and I engage three, four other domestic contractors. But 60 percent of my goods today come from overseas somewhere. They're sourced. Why? How did we get there?</p>
+
+<p>
+	And we got there because various different ways things are sold today in my particular business and what our congressman didn't tell you all that I went from doing what I did flying F4Ds to making tutus. (Laughter.) We're one of the largest manufacturers of dance recital and gymnastic apparel in the country and in the world.</p>
+
+<p>
+	But like, Charlie, who has to sell one donut at a time, I have to sell one tutu at a time, as well, too. And we have to sell a lot of them. But people today because of the influx of imports in so many different manufacturing businesses, we're competing against the world, and we can't compete easily because of all the rules, regulations, compliance, and everything else that we're confronted with.</p>
+
+<p>
+	Those put us in a situation where it’s very, very difficult to be competitively priced. And so today’s market -- whereas in the past, selling to the 19,000 dance schools around this country and more around the world, people are buying price. It used to be style. It used to quality, used to be service. Today it’s price, price, style.</p>
+
+<p>
+	So having to attempt to create a business that can compete and grow, we've had to source. And it’s sad. It’s sad for me because I did -- after college, I did spend a few years in the Air Force, like six, and I loved it.</p>
+
+<p>
+	My one suggestion is let’s not call this tax reform and a jobs act, let’s call this jobs creation with tax reform. I think we need to put the emphasis where the emphasis needs to be. I think we're totally wrong by taking it where it is. And just as an aside, and I’m probably taking too much time, but I remember back in -- I saw when this was first published a couple days ago, it said, 429 pages. Long time ago, still on this Earth, I was going to say a planet, far, far away, but here, back when I was back in high school here in York, Pennsylvania, I remember one summer I decided I was going to read “War and Peace” because I thought everybody said how great a piece of literature it was, teachers. And I thought I might be able to get a couple of points from a couple of the girls in my class, as well, too, if I came back after the summer and said, I read “War and Peace.” But “War and Peace” has 1,200 pages or so, if I recall. This tax plan has 420-some -- a third of “War and Peace,” how can that be simple? I want a one-page. I want a flat tax. That's my goal. But if we can go where you're suggesting and offer some of the things to where we're going to go, put the pass-throughs on the sub-s corporations, get those pass-throughs in place that I can reinvest, that I can put new technology into my factories -- or factory and employ more people, we can be a lot more productive. But today we're confronted with high taxes, high cost.</p>
+
+<p>
+	All the folks that spoke before me, I echo everything each and every one of you said already. But it’s there, and it’s real. So let’s make it simple. Let’s get us back into -- let’s get us back into the world of being producers again, as opposed to just simply being consumers. (Applause.)</p>
+
+<p>
+	THE VICE PRESIDENT: Thanks, Tighe. And you highlight a very important part of the President’s vision for tax cuts, and that is that we want to make sure that while we're lowering taxes on traditional corporations, so-called C corporations, that we're also lowering taxes on small businesses that file as individuals. They're called pass-throughs.</p>
+
+<p>
+	You referred to a pass-through. For those of you that aren’t familiar with that particular term, it just means and individual owns a business, a family owns a business, they get the profits from the business, they take those as personal income and pay taxes on them as personal income.</p>
+
+<p>
+	But then as I grew up in a gas station business in Columbus, Indiana, my dad would get the check with the distribution at the end of the year, and 90 percent of that plowed right back into the company in supporting salaries and supporting new equipment. So President Trump is absolutely committed not just to lowering the corporate tax rate to 20 percent, but we're going to lower the rate on pass-through companies to 25 percent. It will be the lowest since 1931. So it’s coming. So thank you. (Applause.)</p>
+
+<p>
+	MR. KING: Just one more comment, as well, for you all to keep in mind is as this bill passes, goes through the House, Scott, I asked one of our associates yesterday, hey, what do you think about the new tax reform act? And she said, hey, here’s what I think and here’s my fear -- and so this is coming from one of our associates, and I think it echoes throughout -- we're talking about initially having a $1.5 trillion deficit. So I understand, but if you want to accomplish something, you have to do something to get there, okay?</p>
+
+<p>
+	But what this individual in the company said to me was, with this $1.5 trillion deficit, whatever they do, do not raise Social Security and Medicare. Please do not allow that to be impacted at all with that deficit. So don't raise a it a spot.</p>
+
+<p>
+	THE VICE PRESIDENT: Great, got it, Tighe. Thank you. General.</p>
+
+<p>
+	GENERAL PERRY: Tighe, as always, thanks so much, and most of all for your service, as well.</p>
+
+<p>
+	Next, Pete and Carol Sides are co-owners of the Robert M. Sides Family Music Center. Pete’s father started the company 80 years ago and have been growing ever since. Pete was around the business his whole life, but after one day accidentally selling a piano, knew continuing the family business was for him.</p>
+
+<p>
+	Pete and Carol, tell us about your business and how tax reform will help in your business.</p>
+
+<p>
+	MR. SIDES: That's Carol over there. (Laughter.) She’s really the mouthpiece, so I don't know how well I’m going to do today.</p>
+
+<p>
+	But I’m from Lycoming County, so I kind of feel like I’m an outlier here. But I think the concerns in Williamsport, Pennsylvania, which is the birthplace of Little League Baseball, Lycoming College and Robert M. Sides Family Music Center, we’ve been in business for 80 years, third generation. We no longer own the business. We gave it to our kids, probably what, 12 years ago? And they're doing a great job.</p>
+
+<p>
+	I’m the 19th family member in the music business. My daughter is the 20th, and my son is the 21st. So we have a good history of being committed to the music business.</p>
+
+<p>
+	My concern with retailing, which is somewhat similar to the manufacturing problems, because the word commoditizing has bene used here. And even in our business, which is a high-education, a lot of high labor-intensive needs because of teaching and the commitment that parents have to make into getting their kids into the education of the arts, we call on 500 schools a year. I’ve got six guys out on the road making those calls. I have vehicles on the road. And our problem is now being attacked by the Internet and Amazon.</p>
+
+<p>
+	And if we get a tax cut, we need to improve our technology in order to compete on the level of what these big massive companies -- and we have found those challenges all through the years.</p>
+
+<p>
+	In the beginning when we were just a mom-and-pop music store, and I still consider us that. We have five stores in southern New York, State College, Williamsport, and Scranton, Wilkes-Barre. And we employ 120 people. And when my father started in 1937, there was one. When I get there, there were two in the late ‘50s, and then in ’86, I built what was the biggest music store in the country in Williamsport, Pennsylvania, a town of 3,500 people, and it paid off. Because we're big enough still to compete. But we still need technology, and that comes at a very high price.</p>
+
+<p>
+	And the sophistication of the business -- because people shop with their eyes, and they shop price. They don't give you time to talk. I have people come in and buy a Steinway piano and spend 15, 20 minutes with me, and it just blows my mind. But they’ll also go on the Internet and buy that same piano. So it’s a technological challenge for us. And if we got a tax increase, it would prime the pump for the whole economy. And the psychology of that is going to make the whole economy bigger. If the economy is bigger, my customers will come back to my store, and I will be able to make money, pay my employees, and invest some of that in technology to keep myself competitive.</p>
+
+<p>
+	In the old days, it was size -- being able to buy right. Well, now it’s being able to get in front of the customer because the customer don't come to you anymore. He comes to the store with all the information he needs off the Internet. And he thinks he’s got all the answers. And he gives us no time or chance to tell it otherwise. So it’s a real challenge, and we need to be able to get in front of the customer the same way Amazon does and all the Internet companies.</p>
+
+<p>
+	So I applaud you for your effort, and I think the natural effect of more money in more people’s pockets will spool this economy up, and you’ll see 4 percent GDP and maybe higher. (Applause.)</p>
+
+<p>
+	THE VICE PRESIDENT: Great comments, thank you. Carol, did you have anything to add on that?</p>
+
+<p>
+	MS. SIDES: Thank you. He’s the tax person, so he told you what he needed. They even call him Internet Pete. He knows very little about the Internet. (Laughter.) He’s so passionate about losing business to the Internet, that they call him -- hey, Carol, how’s Internet Pete doing? (Laughter.) And that's about it.</p>
+
+<p>
+	But I innocently came into this whole thing. I went to Sands Academy in Wilkes-Barre and Misericordia University and majored in music. I came to Williamsport, and I joined the symphony of Bucknell at the time, and I performed for 22 years in the area and taught five years in the school district. So my passion was for the students. So that's the part that I bring to the business.</p>
+
+<p>
+	Again, we have over 300 students taking lessons. We have a seniors band. They are between the ages of 55 -- now don't get nervous if you're 55 and I’m calling you a senior -- but it’s 55 to 92. And if you get sick or you have to go to the hospital, and you're a trumpet player, you can come back a drummer, so you don't have to exert your body and everything. But it’s one of the greatest groups I’ve ever met. These people love each other. They help them out of the car, come back, and they practice two days a week, and the perform at the malls and also at the nursing homes and the convents. So that really helps us.</p>
+
+<p>
+	That's the part that I do is more the education part of it, and then I open it up to some of our to be able to use. We have a 150-seated auditorium in our business. So they can come in with their programs and enable them to do an outreach as far as that goes.</p>
+
+<p>
+	So just the music part of the business.</p>
+
+<p>
+	MR. SIDES: You can see that she shares the passion. And the music business is passionate because we work with families and kids, so we see them grow.</p>
+
+<p>
+	It’s been a good -- we've had 50 years this year -- in marriage, and I think that's one of the reasons that’s worked.</p>
+
+<p>
+	THE VICE PRESIDENT: Fifty years of marriage this year.</p>
+
+<p>
+	MS. SIDES: This year. (Applause.)</p>
+
+<p>
+	THE VICE PRESIDENT: Congratulations.</p>
+
+<p>
+	GENERAL PERRY: Well, thank you both for coming. We're going to turn to Tammy Shearer, to my left here, a good friend, long-time friend, and her husband, Geoff. They took over second-generation as owners of their family business, the Camera Box, after graduating from college. Their studio has operated for over 45 years, and the Shearers continue to adapt to a changing industry.</p>
+
+<p>
+	Tammy, can you tell us a little bit about the Camera Box and tax reform?</p>
+
+<p>
+	MS. SHEARER: Thank you, Mr. Vice President, for being here. Thank you, York County, for including me, Cumberland County business owner here today. I’m really happy to be here.</p>
+
+<p>
+	I love, first of all, I have to say the fact that I am sitting here with so many family businesses, and that we have so many husband-and-wife teams sitting here.</p>
+
+<p>
+	My husband is working today, of course, so you get me. Our business is very unique. I think compared to a lot of the companies that are here, we are much smaller. We struggle with the same type of issues I’d say that the Reams do with the printing, how technology has taken over. Especially my hubby, we embrace technology to the fullest, but we're also in a declining business. Everyone has their cell phones. Everyone takes pictures. The art of photography, as Jim had mentioned before with printing, you were craftsmen. We're no longer craftsmen, we now are workers -- worker bees, getting the job done, getting it in and out.</p>
+
+<p>
+	I will also echo what Jean said about being the Republican printer. We've been known as the Republican photographers over the years. So that's kind of interesting.</p>
+
+<p>
+	Our business used to -- I’d say when my father-in-law started it -- had between 10 and 15 employees at any time, depending on the time of years, depending on the contracts that he had. The company now has three full-time, including my husband, three part-time, and then me. I’m no longer with the business full-time. I do more consulting, kind of as needed-type work. And part of that was my husband got tired of me fussing about things and fussing about government and said, put your money where your mouth is, woman, go run for office. (Laughter.)</p>
+
+<p>
+	And I’m trying to do that, as you know. (Laughter.) So thank you, everybody, for being here.</p>
+
+<p>
+	These tax cuts with our offices, our company, we always run real close to the wire, as my husband puts it. We break even. We make a little bit of profit. We never have really big profitable years. If we think, hey, we're going to make some money this year, some big money, guess what, it goes right back into the business. We're going to buy that camera. We're going to buy that printer. We're going to do this.</p>
+
+<p>
+	Or we've even been able to in years bonus employees a little bit more, so we've been happy to do that.</p>
+
+<p>
+	What I see with this tax reform process is it looks -- I didn't think it will have a huge impact on my company as we run now. It may have more of a personal impact on my husband and myself. I do think it will give us maybe a little bit more time if things are simplified with the whole reporting process and the whole procedure. We have an accountant who is invaluable to us, who connects the dots on many levels.</p>
+
+<p>
+	But I do think it will help the economy overall. I think it will help things grow, create more jobs. If it does free up some money for us at all, that will go right back into the business.</p>
+
+<p>
+	I see the things we would spend money on would -- even the building itself. We own our own building. Do we do repairs? Do we replace things? Do we buy new equipment? But even before that, I think it will just preserve the dollars that we have set for employees so that we're not losing employees.</p>
+
+<p>
+	Again, our industry right now it’s very unique compared to many of the industries around the table where we're in a decline. We will not be adding jobs because of the nature of our business. Technology has taken over and done a lot of that on its own.</p>
+
+<p>
+	I think that's pretty much all that I have in a nutshell. And I just am so impressed, and it’s so intimidating sitting with all of you folks here and your years of experience, your knowledge, what you've been through, and what you contribute to the community. So thank you again for including me.</p>
+
+<p>
+	THE VICE PRESIDENT: Outstanding. Thank you, Tammy. (Applause.)</p>
+
+<p>
+	GENERAL PERRY: Thanks to you, Tammy, for those stories and that information. Finally, Mike and Pat Harbaugh, co-owners of Yogey’s Miniature Golf and Ice Cream Parlor. They're no stranger to business ownership. They started a small commercial construction company together nearly 40 years ago. And more important than being partners in business, they're partners in life and have been together also for nearly 50 years.</p>
+
+<p>
+	Mike and Pat -- and I think Mike is up front and Pat is in the rear somewhere. Please share a little bit about your journey and why we need this tax reform.</p>
+
+<p>
+	MR. HARBAUGH: Thank you, Congressman Perry. Let me start by saying -- Charlie and I sat down here, and he looks at me and says, thank you for eating Maple Donuts. (Laughter.) I don't know how he knew I ate. (Laughter.)</p>
+
+<p>
+	So with that being said, Pat and I started a business all but 40 years ago. We didn't start out in that commercial construction companies, we started actually building decks and screened-in porches. And we did that for the first few years till we actually got into commercial construction. And I’m sure my wife remembers, so we could spend time together, you're always on the road. You're out selling jobs at night, working in the day. And I used to load her and our kids up -- we have four kids -- and we would go out and work our tails off to build a business.</p>
+
+<p>
+	Somewhere along the way I got the bring idea that we were going to develop and put in some miniature golf courses and ice cream bars and all that good stuff. And we did four of those over the years, and quite frankly, I was kind of surprised that we were asked to be here today because we have a super-small business. But I got to thinking about it, and I thought, no, this affects even our small businesses.</p>
+
+<p>
+	THE VICE PRESIDENT: That's right.</p>
+
+<p>
+	MR. HARBAUGH: And I can tell you -- in just thinking about -- we’ve scaled down over the last few years. We've sold some of our businesses, but at our peak, we’d have 50 to 60 high school kids -- predominantly high school kids and college kids working for us. They are just new to the workforce. They have no skills. They have -- I’m telling you, they don't even know how to coil up a hose after watering flowers. You have to teach them everything.</p>
+
+<p>
+	So when I hear a living wage of $15 an hour, it makes us shudder because that would totally put us out of business. With our -- we could have never done that.</p>
+
+<p>
+	A lot of the tax things have already been discussed. One way that it would help our business having the tax break, and we could put money back into the business, most of our first-year employees earn minimum wage. If we had the money -- and our main competition for labor is fast-food restaurants, convenience stores who usually pay a little bit more than us. So we struggle for that. So if we had a little extra money to put in our pocket, we can put it into the employees’ pockets to get better employees and have a better workforce. So that would be a big improvement there.</p>
+
+<p>
+	I know -- I’m also involved in running safety for a fairly decent-sized construction company, so at some time that Secretary Acosta can have a roundtable regarding OSHA and how that affects businesses. And believe me, I’m totally pro-safety and that's the business we're also in. But there’s so many things that affect us small businesses. It’s OSHA, and it’s all the other taxes mentioned, the real-estate taxes. And it just goes on and on. We just recently found out -- it’s no big deal, but we recently found out we had to pay a $500 fee for a grease tax, which we don't even have grease. But somehow we're paying $500 for a grease tax. So it’s just constantly, as a small business owner, you're getting nickel-and-dimed.</p>
+
+<p>
+	The other thing I’d like to say is all of us sitting at the table, we're all older, but we are all older, and this tax isn’t going to affect us as immediately as it will -- I have four kids and -- nine grandkids. That's who I worry about down the road. Pat and I are already set, and I’m sure most of the people at this table are already set. But our kids and grandkids, what’s going to be there for them if things keep going the way they do.</p>
+
+<p>
+	And I think when you put money in the hands of the people and the business owners, I’m pretty sure we know better what to do with our money than the government. (Applause.)</p>
+
+<p>
+	GENERAL PERRY: Well, thanks so much, Mike and Pat. And thanks, everybody.</p>
+
+<p>
+	THE VICE PRESIDENT: Where is Pat, by the way? Is she here? Pat, can you take a bow? Yes -- a great family. (Applause.)</p>
+
+<p>
+	GENERAL PERRY: Thank everybody for sharing their thoughts on tax reform. Mr. Vice President, thank you for coming and listening to these hardworking folks. We know that if there’s anyone that can get this done for America, it’s you and our President. Thank you all. (Applause.)</p>
+
+<p>
+	* * * * *</p>
+
+<p>
+	THE VICE PRESIDENT: Let me thank, General Perry. We've gone long, but it was a worthy journey. And would you join me in thanking these great, great business owners who gathered today to share common sense and common wisdom here in Pennsylvania? This was just an outstanding presentation. (Applause.)</p>
+
+<p>
+	It truly was. I want to thank Secretary Acosta for being with us. I want to thank Congressman Perry and all the members of Congress who are with us here today.</p>
+
+<p>
+	But I have to tell you it is truly inspiring for me to hear from job creators here in Pennsylvania, to see so many of you out today, to hear the enthusiasm for the President’s vision for tax relief and tax reform in the Congress of the United States.</p>
+
+<p>
+	I know these members of Congress who are with us here today are going to take these thoughts back. But as I think about what we heard here today, the President’s plan can really be outlined in a couple very simple ways. Number one is building on the growth that we see in this economy. And we are seeing extraordinary growth in this economy already.</p>
+
+<p>
+	Last month alone, the American economy created 261,000 jobs, that's 1.5 million net new jobs since January of this year. (Applause.) Unemployment -- there are more Americans working today than ever before in the history of this country. The stock market, of course, is breaking records almost every day, creating near $5 trillion in new wealth for American retirement funds and savings accounts since the advent of this administration. After eight years -- we're the largest economy in the world -- the economy of the United States of America only grew by 1.8 percent, in the second and third quarter of this year, American businesses large and small grew this economy by more than 3 percent. And we're just getting started. (Applause.)</p>
+
+<p>
+	And the truth is -- and we heard this today. We heard this today from Craig as he talked about his business. It’s already added 19 jobs this year, a 30 percent increase in your company’s revenues this year alone. The truth is confidence is back. Growth is back. And under President Donald Trump, America is back. And Pennsylvania knows it. (Applause.)</p>
+
+<p>
+	But today is really about building on that momentum because all of that is what President Trump calls a good start, right? And the truth is to achieve sustained growth, the President and I truly believe, as these members of Congress do, that we're going to have to pass the kind of tax cuts that are going to invite the investment that we heard today.</p>
+
+<p>
+	And the President’s plan I’ll give to you and then I’ll close and look forward to meeting as many of you as you have time to spend with us today.</p>
+
+<p>
+	But first and foremost, under the President’s plan, we're going to put more money in the pockets of working families. The first $24,000 in income for working families in America will be completely tax-free under the President’s plan. (Applause.)</p>
+
+<p>
+	We're going to expand the child tax credit for families all across this country. And we're going to end death taxes once and for all. (Applause.)</p>
+
+<p>
+	Secondly, you heard a little from these job creators about the need for more simplicity in the tax code. And it’s extraordinary to think the billions of dollars and tens of millions of hours that Americans spend every year filling out their taxes. President Trump has charged the Congress to come up with a plan that will allow 90 percent of the American people to file their taxes on a single piece of paper. It will save billions of dollars and millions of hours. (Applause.)</p>
+
+<p>
+	And obviously, as you heard today, we're going to make American business competitive again. I heard that conversation. I have to tell you how humbling it is for me, I know it is for your congressman to be with a man who served 156 combat missions in Vietnam. We're marking the 50th anniversary of the Vietnam War. Let me thank Tighe King one more time for your service to the country. Thank you, Tighe. (Applause.)</p>
+
+<p>
+	But Tighe lamented the outsourcing of jobs from here in Pennsylvania and America. You hear President Trump talk about it all the time. And we're absolutely determined, as the President travels over to the Asia-Pacific Rim to fight for the kind of trade deals and trade arrangements that will bring jobs back to the United States of America. But tax cuts are going to be a key part of making American business competitive again. (Applause.)</p>
+
+<p>
+	As I mentioned, the President’s vision is to work with members of Congress to lower the corporate tax rate to 20 percent and lower the rate on pass-through corporations to 25 percent.</p>
+
+<p>
+	And we heard what all that's going to mean. It’s just really amazing. We heard Jim and Jean Ream talk about not just their business growing, but the prospect that they would see more startups, more businesses growing in this community that would do business with Ream Printing.</p>
+
+<p>
+	We heard Tom Baughman at New Concept talk about that taxes and healthcare being the biggest cost facing their business. In fact, in this bill, President Trump wants to see the Congress completely eliminate the tax on Obamacare imposed on individuals and on businesses. (Applause.)</p>
+
+<p>
+	But each and every one of these people -- Tom did, Charlie with Maple Donuts -- all said it’s going to be about jobs. It’s all about reinvesting in their business. And we truly do believe the best way to grow jobs in this country is to give the American people more of their hard-earned dollars in their own pockets, and to give businesses more resources to invest in ways that will create jobs.</p>
+
+<p>
+	But I’m here today to listen, to learn, and I promise you, we're going to carry back the arguments that we heard today. We're going to carry them back to Capitol Hill, and we're going to carry them all across the country. And I’ll report them in to the President as he wends his way to Japan.</p>
+
+<p>
+	But the other thing I came here to do was ask for your help. The truth of the matter is we have a once-in-a-generation opportunity to pass historic tax relief for the American people, but it’s going to take all of us to get it done. The truth is, in my experience, Washington, D.C. always seems to find a reason why the American people shouldn’t be able to keep more of what they earn. You ever notice that?</p>
+
+<p>
+	We haven’t had the kind of tax relief and tax reform that President Trump is talking about for a generation. So I want to encourage you to reach out to all of your elected representatives. The truth of the matter is we need Republicans and Democrats who represent Pennsylvania in Washington, D.C. to stand with President Trump, and we need to see tax cuts for the people of Pennsylvania, and we need to see it this year. And I want you to deliver that message. (Applause.)</p>
+
+<p>
+	So let me just say thanks again. Thanks to Military and Commercial Fasteners Corporation, to Craig, the whole family, the whole team here for making us all feel so welcome. And thanks to all these great job creators who sat under the bright lights and told us your great stories and the contributions you make to the economic life of your communities, but also to the cultural life of your communities.</p>
+
+<p>
+	And thank all of you for coming out today. I leave here today more confident that with your help, with the strong support of these members of Congress, with the leadership of President Donald Trump, and with God’s help, we will make America prosperous again. We will make America safe again. And to borrow a phrase, we will Make America Great Again.</p>
+
+<p>
+	Thank you, Pennsylvania. It was really great to be with you today. And God bless you all. (Applause.)</p>
+
+<p class="rtecenter">
+	END</p>
+
+<p class="rteright">
+	1:35 P.M. EDT</p>
+</div>
+          </div>
+  </div>
+
+  
+  </div>
+      </div>
+
+      <div class="panel-panel panel-col panel-col-section-share">
+        <div id = "section-share-wrapper">
+                  </div>
+      </div>
+
+    </div>
+  <footer class="panel-panel panel-footer">
+  
+  <footer class="panel-pane pane-panels-mini pane-default-sitewide-footer sitewide-footer" >
+    <div class="sitewide-footer__wrapper">
+      
+  <nav class="sitewide-footer--social-nav" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-social-nav-1 menu-name-sixteenhundred-social-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6411 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item odd depth-1 no-children" data-position="1"><a href="http://twitter.com/whitehouse" class="menu__link" title="Follow the Whitehouse on Twitter."><span class="fa fa-twitter"></span><span class="element-invisible">Twitter</span></a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6416 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item even depth-1 no-children" data-position="2"><a href="http://instagram.com/whitehouse" class="menu__link" title="See the Whitehouse on Instagram."><span class="fa fa-instagram"></span><span class="element-invisible">Instagram</span></a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6421 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item odd depth-1 no-children" data-position="3"><a href="http://facebook.com/whitehouse" class="menu__link" title="Like the Whitehouse on Facebook."><span class="fa fa-facebook"></span><span class="element-invisible">Facebook</span></a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6441 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item even depth-1 no-children" data-position="4"><a href="/contact" class="menu__link sitewide-footer--social-nav__border sitewide-footer--social-nav__contact-link" title="Contact the Whitehouse."><span class="fa fa-comment"></span><span class="element-invisible">Contact Us</span></a></li>
+</ul></div>
+  </nav>
+
+  <nav class="panel-pane pane-menu-tree pane-sixteenhundred-main-nav sitewide-footer--main-nav horizontal-3-level-menu" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-main-nav-1 menu-name-sixteenhundred-main-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5816 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 horizontal-3-level-menu__top-item odd depth-1 no-children" data-position="1"><a href="https://www.whitehouse.gov" class="menu__link no-header">Home</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-5821 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 even depth-1 children children-2" data-position="2"><a href="/blog" class="menu__link">Briefing Room</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-5846 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-3 menu-featured menu-featured-descs" data-position="1"><span class="menu__link nolink">From the News Room</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5856 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/blog" title="Read the latest news from the White House" class="menu__link">Latest News</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257521 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/featured-videos" title="View the most recent videos from the White House" class="menu__link">Video Gallery</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-7071 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/live" title="Tune in to White House events and statements as they happen" class="menu__link">Live Events</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-77741 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-7" data-position="2"><span class="menu__link nolink">From the Press Office</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5891 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/briefing-room/speeches-and-remarks" class="menu__link">Speeches &amp; Remarks</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5896 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/briefing-room/press-briefings" class="menu__link">Press Briefings</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5901 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/briefing-room/statements-and-releases" class="menu__link">Statements &amp; Releases</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-142711 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/briefing-room/nominations-and-appointments" class="menu__link">Nominations &amp; Appointments</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-5911 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/briefing-room/presidential-actions" class="menu__link">Presidential Actions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5916 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/briefing-room/legislation" class="menu__link">Legislation</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-142716 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="7"><a href="/briefing-room/disclosures" class="menu__link">Disclosures</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5826 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 odd depth-1 children children-1" data-position="3"><a href="/america-first-energy" class="menu__link">Issues</a><ul class="menu"><li class="menu__item is-expanded first last expanded menu-mlid-5936 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-8" data-position="1"><span class="menu__link nolink">Top Issues</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2200631 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/america-first-energy" class="menu__link">America First Energy Plan</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200636 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/america-first-foreign-policy" class="menu__link">America First Foreign Policy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200626 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/bringing-back-jobs-and-growth" class="menu__link">Bringing Back Jobs And Growth</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200646 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/making-our-military-strong-again" class="menu__link">Making Our Military Strong Again</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271641 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/blog/2017/06/08/president-trumps-plan-rebuild-americas-infrastructure" class="menu__link">Rebuilding America’s Infrastructure</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271636 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/repeal-and-replace-obamacare" class="menu__link">Repeal and Replace Obamacare</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200641 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="7"><a href="/law-enforcement-community" class="menu__link">Standing Up For Our Law Enforcement Community</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2200711 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="8"><a href="/trade-deals-working-all-americans" class="menu__link">Trade Deals That Work For All Americans</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5831 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 even depth-1 children children-3" data-position="4"><a href="/administration/president-trump" class="menu__link">The Administration</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6076 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-5" data-position="1"><span class="menu__link nolink">The Administration</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-45996 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/administration/president-trump" class="menu__link">President Donald J. Trump</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-46116 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/administration/vice-president-pence" class="menu__link">Vice President Mike Pence</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45356 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/administration/first-lady-melania-trump" class="menu__link">First Lady Melania Trump</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45961 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/administration/karen-pence" class="menu__link">Mrs. Karen Pence</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-35121 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/administration/cabinet" class="menu__link">The Cabinet</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6081 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-6" data-position="2"><span class="menu__link nolink">Executive Offices</span><ul class="menu"><li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-2257571 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/cea" class="menu__link">Council of Economic Advisers</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269081 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/ceq" class="menu__link">Council on Environmental Quality</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257581 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/omb" class="menu__link">Office of Management and Budget</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269601 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/ondcp" class="menu__link">Office of National Drug Control Policy</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257566 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/ostp" class="menu__link">Office of Science and Technology Policy</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6151 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/administration/eop" class="menu__link">See All</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6091 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-1" data-position="3"><span class="menu__link nolink">Special Events</span><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-6176 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="https://www.58pic2017.org/" class="menu__link">The 58th Presidential Inauguration</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5836 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 odd depth-1 children children-3" data-position="5"><a href="/participate/tours-and-events" class="menu__link">Participate</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6196 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-4" data-position="1"><span class="menu__link nolink">Join Us</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-108026 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/participate/tours-and-events" class="menu__link">Tours &amp; Events</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6241 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="https://apply.whitehouse.gov" class="menu__link">Jobs with the Administration</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-112596 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/participate/internships" class="menu__link">Internships</a></li>
+<li class="menu__item is-parent is-leaf last leaf has-children menu-mlid-207321 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/participate/fellows" class="menu__link">White House Fellows</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6201 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-2" data-position="2"><span class="menu__link nolink">Share Your Thoughts</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6261 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="https://petitions.whitehouse.gov" class="menu__link">We the People Petitions</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6266 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/contact" class="menu__link">Contact the White House</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-2257506 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-5" data-position="3"><span class="menu__link nolink">Get Involved</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2262876 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/obamacare-share-your-story" class="menu__link">Obamacare: Share Your Story</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257616 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/support-americans-back-to-work" class="menu__link">Getting Americans Back to Work</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257781 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/support-empowering-female-leaders" class="menu__link">Support Empowering Female Leaders</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257816 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/trump-stands-with-israel" class="menu__link">President Trump Stands With Israel</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2262546 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/support-repeal-replace-obamacare" class="menu__link">Support the Repeal and Replacement of Obamacare</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-5841 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 even depth-1 children children-2" data-position="6"><a href="/1600/Presidents" class="menu__link">1600 Penn</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6296 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-6" data-position="1"><span class="menu__link nolink">History &amp; Grounds</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-86676 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/1600/Presidents" class="menu__link">Presidents</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-86891 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/1600/first-ladies" class="menu__link">First Ladies</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93186 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/1600/vp-residence" class="menu__link">The Vice President&#039;s Residence &amp; Office</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93191 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/1600/eeob" class="menu__link">Eisenhower Executive Office Building</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93181 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/1600/camp-david" class="menu__link">Camp David</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-91831 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/1600/air-force-one" class="menu__link">Air Force One</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6301 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-7" data-position="2"><span class="menu__link nolink">Our Government</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-93196 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/1600/executive-branch" class="menu__link">The Executive Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93201 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/1600/legislative-branch" class="menu__link">The Legislative Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93206 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/1600/judicial-branch" class="menu__link">The Judicial Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93211 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/1600/constitution" class="menu__link">The Constitution</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93216 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/1600/federal-agencies-and-commissions" class="menu__link">Federal Agencies &amp; Commissions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93231 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/1600/elections-and-voting" class="menu__link">Elections &amp; Voting</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-93226 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="7"><a href="/1600/state-and-local-government" class="menu__link">State &amp; Local Government</a></li>
+</ul></li>
+</ul></li>
+</ul></div>
+  </nav>
+
+  <nav class="sitewide-footer--utility-nav" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-nav-utility-1 menu-name-sixteenhundred-nav-utility parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6471 horizontal-1-level-menu--menu-item sitewide-footer--utility-nav--horizontal-1-level-menu--menu-item odd depth-1 no-children" data-position="1"><a href="http://www.usa.gov" title="More information about the government." class="menu__link">USA.gov</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200436 horizontal-1-level-menu--menu-item sitewide-footer--utility-nav--horizontal-1-level-menu--menu-item even depth-1 no-children" data-position="2"><a href="/privacy" class="menu__link">Privacy Policy</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2201076 horizontal-1-level-menu--menu-item sitewide-footer--utility-nav--horizontal-1-level-menu--menu-item odd depth-1 no-children" data-position="3"><a href="/copyright" class="menu__link">Copyright Policy</a></li>
+</ul></div>
+  </nav>
+    </div>
+  </footer>
+  </footer>
+</div>
+</div>
+</section>
+<!-- /Main page content -->
+  
+<!--[if lte IE 9]>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__B3BxgQrPQXI1dM-r4eK441EdNORsDrMY-zl-NtsKr8Y__QdRvzE-vcRMHyO9uDcc7_W5Zpp5xzNuG3U3Fy2M2sPs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js#ie9-" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_2, 1);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 1);
+  }
+}
+advagg_mod_2_check();"></script>
+<![endif]-->
+
+<!--[if gt IE 9]>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__B3BxgQrPQXI1dM-r4eK441EdNORsDrMY-zl-NtsKr8Y__QdRvzE-vcRMHyO9uDcc7_W5Zpp5xzNuG3U3Fy2M2sPs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js#ie10+" defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_2, 1);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 1);
+  }
+}
+advagg_mod_2_check();"></script>
+<![endif]-->
+
+<!--[if !IE]><!-->
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__B3BxgQrPQXI1dM-r4eK441EdNORsDrMY-zl-NtsKr8Y__QdRvzE-vcRMHyO9uDcc7_W5Zpp5xzNuG3U3Fy2M2sPs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_2, 1);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 1);
+  }
+}
+advagg_mod_2_check();"></script>
+<!--<![endif]-->
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__WwsKSVXD89vBQ8DbVFQ6pLpevn2BOGYl3tgEwTmtYMI__Uwzf6n7oZI77wQpjmwNaVLzTjNuLfghCeXkwiUA_zqo__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__9Tli9115mkX9k9cJvFFcdytqxv151s6bm1qtUeubxhY__FLIz4serIrffY_d79tZKbqWlJ5i1AH2TNLDSO2PeCdg__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script>function init_drupal_core_settings() {jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fortyfour","theme_token":"TYiefnXl2AM41z_s7ohz4ISImigROErDtDZJhPl9R5Q","jquery_version":"1.10","js":{"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.slider.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/whitehouse.gov\/modules\/custom\/fb_instant_articles\/modules\/fb_instant_articles_display\/js\/admin.js":1,"profiles\/forall\/modules\/custom\/keyboard_navigation\/js\/keyboard_navigation.js":1,"sites\/whitehouse.gov\/modules\/contrib\/media_preview_slider\/js\/slider.js":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_magic\/panopoly-magic.js":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_theme\/js\/panopoly-accordion.js":1,"sites\/whitehouse.gov\/modules\/contrib\/linkit\/js\/linkit.js":1,"sites\/whitehouse.gov\/libraries\/superfish\/src\/js\/superfish.js":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/sixteenhundrednav.js":1,"sites\/whitehouse.gov\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/forall\/modules\/custom\/shareables\/shareables.js":1,"sites\/whitehouse.gov\/libraries\/jstorage\/jstorage.min.js":1,"sites\/whitehouse.gov\/modules\/custom\/whr_blog_listings\/whr_blog_listings.js":1,"sites\/whitehouse.gov\/modules\/custom\/whr_briefing_room_listings\/whr_briefing_room_listings.js":1,"misc\/progress.js":1,"sites\/whitehouse.gov\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/whitehouse.gov\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/whitehouse.gov\/modules\/contrib\/social_share\/js\/social_share_facebook_sdk.js":1,"sites\/whitehouse.gov\/modules\/custom\/whr_takeover\/whr_takeover.js":1,"misc\/jquery.cookie.js":1,"sites\/whitehouse.gov\/modules\/contrib\/hide_submit\/js\/hide_submit.js":1,"profiles\/forall\/themes\/custom\/fortyfour\/js\/html5shiv.js":1,"profiles\/forall\/themes\/custom\/fortyfour\/js\/theme.js":1,"\/\/platform.twitter.com\/widgets.js":1,"sites\/whitehouse.gov\/modules\/contrib\/navbar\/js\/debounce.js":1,"sites\/whitehouse.gov\/modules\/contrib\/navbar\/js\/displace.js":1,"sites\/whitehouse.gov\/modules\/contrib\/navbar\/js\/navbar-tableheader.js":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picturefill\/matchmedia.js":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picture.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.slider.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/comment\/comment.css":1,"sites\/whitehouse.gov\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/whitehouse.gov\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/forall\/modules\/custom\/forall_river_of_content\/stylesheets\/forall_river_of_content.css":1,"profiles\/forall\/modules\/custom\/forall_secondary_nav\/stylesheets\/secondary_nav.css":1,"sites\/whitehouse.gov\/modules\/contrib\/media_preview_slider\/css\/slider-styles.css":1,"modules\/node\/node.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_magic\/css\/panopoly-magic.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_magic\/css\/panopoly-modal.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_theme\/css\/panopoly-featured.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_theme\/css\/panopoly-accordian.css":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"profiles\/forall\/modules\/custom\/shareables\/stylesheets\/shareables.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_colorbar_divider\/stylesheets\/shareable-colorbar-divider.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_custom_text\/stylesheets\/shareable_custom_text.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_divider\/stylesheets\/shareable-divider.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_full_width\/stylesheets\/shareable_full_width.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_survey_poll\/stylesheets\/shareable_survey_poll.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_tweet\/stylesheets\/shareable_tweet.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_video\/stylesheets\/shareable_video.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapiiframe\/css\/shortcodeapiiframe.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapislideshare\/css\/shortcodeapislideshare.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapisocrata\/css\/shortcodeapisocrata.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapitweet\/css\/shortcodeapitweet.css":1,"profiles\/forall\/modules\/custom\/shortcodeapiyoutube\/stylesheets\/shortcodeapiyoutube.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredpanels\/stylesheets\/sixteen_hundred_panels.css":1,"modules\/user\/user.css":1,"profiles\/forall\/modules\/custom\/gov_whitehouse_www\/modules\/whitehouse_sotu2015\/stylesheets\/whitehouse_sotu2015.css":1,"sites\/whitehouse.gov\/modules\/contrib\/youtube\/css\/youtube.css":1,"profiles\/forall\/modules\/custom\/youtube_livestream_listings\/stylesheets\/youtubelivestreamlistings.css":1,"profiles\/forall\/modules\/custom\/youtube_livestream_multi\/stylesheets\/youtube_livestream_multi.css":1,"sites\/whitehouse.gov\/modules\/contrib\/views\/css\/views.css":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/stylesheets\/screen.css":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/stylesheets\/ie.css":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/stylesheets\/print.css":1,"sites\/whitehouse.gov\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/whitehouse.gov\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/forall\/modules\/custom\/gov_whitehouse_www\/modules\/whitehouse_nav\/css\/whitehouse_nav_search.css":1,"sites\/whitehouse.gov\/libraries\/fontawesome\/css\/font-awesome.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/stylesheets\/sixteenhundredfooter.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/system.menus.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/system.messages.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/system.theme.css":1,"sites\/whitehouse.gov\/modules\/contrib\/hide_submit\/css\/hide_submit.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/system.menus.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/system.messages.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/system.theme.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/css\/styles.css":1,"profiles\/forall\/modules\/custom\/gov_whitehouse_www\/modules\/whitehouse_nav\/css\/whitehouse_nav_search_ie9.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"linkit":{"autocompletePath":"https:\/\/www.whitehouse.gov\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_indicator_style":"expand-left","hide_submit_spinner_color":"#000","hide_submit_spinner_lines":12,"hide_submit_hide_fx":false,"hide_submit_reset_time":5000},"urlIsAjaxTrusted":{"https:\/\/search.usa.gov\/search":true},"better_exposed_filters":{"views":{"press_office_listings":{"displays":{"panel_pane_6":{"filters":[]}}}}},"currentPath":"node\/342256","currentPathIsAdmin":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"socialShare":{"appID":"100929903392"},"tableHeaderOffset":"Drupal.navbar.height"});
+if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(false);}} if(window.jQuery && window.Drupal){init_drupal_core_settings();}</script>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__Iim1AbJnxH3rRatJnOUIol7sNLvE4qpx4Tw1i-5inNg__PKAyehXfKMD313dQeX4wrEOnHtAr3I0F2vnbRDqpyWE__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script>
+function advagg_mod_3() {
+  // Count how many times this function is called.
+  advagg_mod_3.count = ++advagg_mod_3.count || 1;
+  try {
+    if (advagg_mod_3.count <= 40) {
+      var usasearch_config = { siteHandle:'wh' };
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = 'https://search.usa.gov/javascripts/remote.loader.js';
+document.getElementsByTagName('head')[0].appendChild(script);
+
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_3.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_3.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 250 ms.
+      window.setTimeout(advagg_mod_3, 250);
+    }
+  }
+}
+function advagg_mod_3_check() {
+  if (window.jQuery && window.Drupal && window.Drupal.settings) {
+    advagg_mod_3();
+  }
+  else {
+    window.setTimeout(advagg_mod_3_check, 250);
+  }
+}
+advagg_mod_3_check();</script>
+</body>
+</html>

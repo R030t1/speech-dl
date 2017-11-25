@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <!--[if IE]><![endif]-->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]--><meta charset="utf-8" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="apple-touch-icon" sizes="167x167" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_167x167.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_180x180.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_152x152.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_120x120.png" />
+<link rel="apple-touch-icon" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_76x76.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/iOS_76x76.png" />
+<link rel="apple-touch-icon-precomposed" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-60x60-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-120x120-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-76x76-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-60x60-precomposed.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-32x32.png" />
+<meta name="msapplication-square150x150logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-150x150.png" />
+<meta name="msapplication-square70x70logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-70x70.png" />
+<meta name="msapplication-wide310x150logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-310x310.png" />
+<link rel="shortcut icon" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="msapplication-TileImage" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/mstile-70x70.png" />
+<meta name="msapplication-TileColor" content="#003C80" />
+<link rel="icon" type="image/png" sizes="128x128" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-128.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="196x196" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/favicon-196x196.png" />
+<meta name="msapplication-config" content="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/browserconfig.xml" />
+<meta name="application-name" content="Whitehouse" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-144x144-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/images/fortyfour/favicons/apple-touch-icon-152x152-precomposed.png" />
+<link rel="shortcut icon" href="https://www.whitehouse.gov/profiles/forall/themes/custom/fortyfour/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.whitehouse.gov/the-press-office/2017/07/19/remarks-vice-president-pence-and-elected-officials-first-meeting" />
+<link rel="shortlink" href="https://www.whitehouse.gov/the-press-office/2017/07/19/remarks-vice-president-pence-and-elected-officials-first-meeting" />
+<meta property="og:site_name" content="whitehouse.gov" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Remarks by Vice President Pence and Elected Officials at the First Meeting of the Presidential Advisory Commission on Election Integrity" />
+<meta property="og:url" content="https://www.whitehouse.gov/the-press-office/2017/07/19/remarks-vice-president-pence-and-elected-officials-first-meeting" />
+<meta property="og:description" content="Eisenhower Executive Office Building 11:40 A.M. EDT" />
+<meta property="og:updated_time" content="2017-07-19T15:44:40-04:00" />
+<meta property="og:image" content="https://www.whitehouse.gov/sites/whitehouse.gov/files/og-image.png" />
+<meta property="og:image:secure_url" content="https://www.whitehouse.gov/sites/whitehouse.gov/files/twitter.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="240" />
+<meta property="og:image:height" content="240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@WhiteHouse" />
+<meta name="twitter:creator" content="@WhiteHouse" />
+<meta name="twitter:title" content="Remarks by Vice President Pence and Elected Officials at the First Meeting of the Presidential Advisory Commission on Election Integrity" />
+<meta name="twitter:url" content="https://www.whitehouse.gov/the-press-office/2017/07/19/remarks-vice-president-pence-and-elected-officials-first-meeting" />
+<meta name="twitter:image" content="https://www.whitehouse.gov/sites/whitehouse.gov/files/images/twitter_cards_default.jpg" />
+<meta name="twitter:image:width" content="240" />
+<meta name="twitter:image:height" content="240" />
+<meta property="article:published_time" content="2017-07-19T15:16:00-04:00" />
+<meta property="article:modified_time" content="2017-07-19T15:44:40-04:00" />
+  <title>Remarks by Vice President Pence and Elected Officials at the First Meeting of the Presidential Advisory Commission on Election Integrity | whitehouse.gov</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__ghacQDfeAHWJBr8vYeJSI2_yXii0BT2oT0oAXzsDZJ8__he5_I9soW4dc7_Il49EkVpfUnfjZROjkD97jMExmTG0__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__gMQWD3coNk5Au2fO23W-pX-TUWlu3Yki30kqSggljxo__2-EhHNf5nZZqC9WakRsWUy_6-BQ5jc7OfcRhDfp_PXc__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__EnZ6icAZNsBQjLAYHSYP96W45C7XSxet_LzGVPhlZeU__rk0s5Som2o64JV54X4yzodNnT8Z2sb19DG_-LC81nAs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_css/css__373-y8KH-KtZjNu3Mt66HoAZ9PzjZ4iuXqSomuCYsI4___E4EQJEb6c3Adl1X2-5IUKFxtRLRPzRfaZjBukfFzEQ__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.css" media="all" />
+<![endif]-->
+  <!--[if lte IE 9]>
+    <link href="/profiles/forall/themes/custom/fortyfour/css/ie9.css" rel="stylesheet" type="text/css">
+  <![endif]-->
+  <script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__NE7EnOYPYYKVWJEZV3b_Z6vx-BZ5oVwoRFJHaRKHfpU__g6xANM1OcRgSwG8dd6XBT2RqAaTWe5urP58rrnRJpWM__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-12099831-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script async="async" src="//platform.twitter.com/widgets.js"></script>
+<!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. --><script src="/sites/whitehouse.gov/modules/contrib/usfedgov_google_analytics/js/Universal-Federated-Analytics-Min.js?agency=Executive%20Office%20of%20the%20President&subagency=The%20White%20House" type="text/javascript" id="_fed_an_ua_tag"></script>      <!--[if lt IE 9]>
+    <script src="/sites/whitehouse.gov/themes/contrib/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-333596 node-type-press-article section-the-press-office page-panels" >
+<div id="fb-root"></div>
+<script>
+function advagg_mod_1() {
+  // Count how many times this function is called.
+  advagg_mod_1.count = ++advagg_mod_1.count || 1;
+  try {
+    if (advagg_mod_1.count <= 40) {
+      (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_1.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_1.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 250 ms.
+      window.setTimeout(advagg_mod_1, 250);
+    }
+  }
+}
+function advagg_mod_1_check() {
+  if (window.jQuery && window.Drupal && window.Drupal.settings) {
+    advagg_mod_1();
+  }
+  else {
+    window.setTimeout(advagg_mod_1_check, 250);
+  }
+}
+advagg_mod_1_check();</script>      <p class="skip-link">
+      <a href="#content-start" class="element-invisible element-focusable">Jump to main content</a>
+    </p>
+        <p id="skip-link">
+      <a href="#block-menu-block-sixteenhundrednav-main" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<!-- !$page_manager_control: Only show these things if the page isn't a node under the control of page manager. -->
+<!-- /!$page_manager_control -->
+
+<!-- Main page content -->
+<section id="page">
+  
+
+
+
+<div class="panelizer-view-mode node node-full node-press-article node-333596">
+        <div class="panel-display panel-basic-single-content-col" >
+  <header class="panel-panel panel-header">
+   <div class="panel-pane pane-panels-mini pane-default-header clearfix"  >
+  
+  <div class="whr-takeover" id="whr-takeover" style="display:none;"></div>
+
+<div class="whr-header-bg">
+  <div class="whr-wrapper">
+    <div class="whr-contact-slogan">
+      <div class="panel-pane pane-page-slogan" >
+  
+      
+  
+  the <span class="whr-lead">WHITE HOUSE</span><span class="whr-president">President Donald J. Trump</span>
+  
+  </div>
+
+  <nav class="whr-contact-nav" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-contact-nav-1 menu-name-sixteenhundred-contact-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-2200426 horizontal-1-level-menu--menu-item whr-contact-nav--horizontal-1-level-menu--menu-item odd depth-1 no-children" data-position="1"><a href="/contact" class="menu__link">Get in Touch</a></li>
+</ul></div>
+  </nav>
+    </div>
+  </div>
+  <div class="whr-navbar">
+    <div class="whr-wrapper">
+      <div class="panel-pane pane-page-logo" >
+  
+      
+  
+  <a href="/" rel="home" id="logo" title="Home"><img src="https://www.whitehouse.gov/profiles/forall/modules/custom/gov_whitehouse_www/images/icons/wh_logo_seal.png" alt="Home" /></a>
+  
+  </div>
+<div id="block-menu-block-sixteenhundrednav-main"
+     class="" tabindex="-1">
+  <div id="main-menu-header" class="clearfix">
+    <div id="icon-wrapper">
+      <a href="#" role='tab' id="main-menu-toggle"><i class="fa fa-bars"></i></a>
+    </div>
+  </div>
+  <div id="main-menu-content">
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-main-nav-2 menu-name-sixteenhundred-main-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-5816 main-nav--menu-item --main-nav--menu-item odd depth-1 no-children" data-position="1"><a href="https://www.whitehouse.gov" class="no-header">Home<i class='fa fa-angle-down'></i></a></li>
+<li class="expanded menu-mlid-5821 main-nav--menu-item --main-nav--menu-item even depth-1 children children-2" data-position="2"><a href="/blog">Briefing Room<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="first expanded menu-mlid-5846 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-3 menu-featured menu-featured-descs" data-position="1"><span class="nolink">From the News Room</span><ul class="menu-featured__column"><li class="first leaf menu-mlid-5856 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><div class="menu-featured__item"><a href="/blog" title="Read the latest news from the White House" class="menu-featured__link">Latest News</a><span class="menu-featured__description">Read the latest news from the White House</span></div></li>
+<li class="leaf menu-mlid-2257521 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><div class="menu-featured__item"><a href="/featured-videos" title="View the most recent videos from the White House" class="menu-featured__link">Video Gallery</a><span class="menu-featured__description">View the most recent videos from the White House</span></div></li>
+</ul><ul class="menu-featured__column"><li class="last leaf menu-mlid-7071 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><div class="menu-featured__item"><a href="/live" title="Tune in to White House events and statements as they happen" class="menu-featured__link">Live Events</a><span class="menu-featured__description">Tune in to White House events and statements as they happen</span></div></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-77741 main-nav--menu-item --main-nav--menu-item even depth-2 children children-7" data-position="2"><span class="menu__link nolink">From the Press Office</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5891 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/briefing-room/speeches-and-remarks" class="menu__link">Speeches &amp; Remarks</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5896 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/briefing-room/press-briefings" class="menu__link">Press Briefings</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5901 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/briefing-room/statements-and-releases" class="menu__link">Statements &amp; Releases</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-142711 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/briefing-room/nominations-and-appointments" class="menu__link">Nominations &amp; Appointments</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-5911 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/briefing-room/presidential-actions" class="menu__link">Presidential Actions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5916 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/briefing-room/legislation" class="menu__link">Legislation</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-142716 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="7"><a href="/briefing-room/disclosures" class="menu__link">Disclosures</a></li>
+</ul></li>
+</div></ul></li>
+<li class="expanded menu-mlid-5826 main-nav--menu-item --main-nav--menu-item odd depth-1 children children-1" data-position="3"><a href="/america-first-energy">Issues<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first last expanded menu-mlid-5936 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-8" data-position="1"><span class="menu__link nolink">Top Issues</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2200631 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/america-first-energy" class="menu__link">America First Energy Plan</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200636 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/america-first-foreign-policy" class="menu__link">America First Foreign Policy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200626 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/bringing-back-jobs-and-growth" class="menu__link">Bringing Back Jobs And Growth</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200646 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/making-our-military-strong-again" class="menu__link">Making Our Military Strong Again</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271641 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/blog/2017/06/08/president-trumps-plan-rebuild-americas-infrastructure" class="menu__link">Rebuilding America’s Infrastructure</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271636 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/repeal-and-replace-obamacare" class="menu__link">Repeal and Replace Obamacare</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200641 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="7"><a href="/law-enforcement-community" class="menu__link">Standing Up For Our Law Enforcement Community</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2200711 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="8"><a href="/trade-deals-working-all-americans" class="menu__link">Trade Deals That Work For All Americans</a></li>
+</ul></li>
+</div></ul></li>
+<li class="expanded menu-mlid-5831 main-nav--menu-item --main-nav--menu-item even depth-1 children children-3" data-position="4"><a href="/administration/president-trump">The Administration<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first expanded menu-mlid-6076 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-5" data-position="1"><span class="menu__link nolink">The Administration</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-45996 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/administration/president-trump" class="menu__link">President Donald J. Trump</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-46116 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/administration/vice-president-pence" class="menu__link">Vice President Mike Pence</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45356 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/administration/first-lady-melania-trump" class="menu__link">First Lady Melania Trump</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45961 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/administration/karen-pence" class="menu__link">Mrs. Karen Pence</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-35121 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/administration/cabinet" class="menu__link">The Cabinet</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6081 main-nav--menu-item --main-nav--menu-item even depth-2 children children-6" data-position="2"><span class="menu__link nolink">Executive Offices</span><ul class="menu"><li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-2257571 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/cea" class="menu__link">Council of Economic Advisers</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269081 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/ceq" class="menu__link">Council on Environmental Quality</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257581 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/omb" class="menu__link">Office of Management and Budget</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269601 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/ondcp" class="menu__link">Office of National Drug Control Policy</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257566 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/ostp" class="menu__link">Office of Science and Technology Policy</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6151 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/administration/eop" class="menu__link">See All</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6091 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-1" data-position="3"><span class="menu__link nolink">Special Events</span><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-6176 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="https://www.58pic2017.org/" class="menu__link">The 58th Presidential Inauguration</a></li>
+</ul></li>
+</div></ul></li>
+<li class="expanded menu-mlid-5836 main-nav--menu-item --main-nav--menu-item odd depth-1 children children-3" data-position="5"><a href="/participate/tours-and-events">Participate<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first expanded menu-mlid-6196 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-4" data-position="1"><span class="menu__link nolink">Join Us</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-108026 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/participate/tours-and-events" class="menu__link">Tours &amp; Events</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6241 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="https://apply.whitehouse.gov" class="menu__link">Jobs with the Administration</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-112596 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/participate/internships" class="menu__link">Internships</a></li>
+<li class="menu__item is-parent is-leaf last leaf has-children menu-mlid-207321 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/participate/fellows" class="menu__link">White House Fellows</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6201 main-nav--menu-item --main-nav--menu-item even depth-2 children children-2" data-position="2"><span class="menu__link nolink">Share Your Thoughts</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6261 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="https://petitions.whitehouse.gov" class="menu__link">We the People Petitions</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6266 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/contact" class="menu__link">Contact the White House</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-2257506 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-5" data-position="3"><span class="menu__link nolink">Get Involved</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2262876 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/obamacare-share-your-story" class="menu__link">Obamacare: Share Your Story</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257616 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/support-americans-back-to-work" class="menu__link">Getting Americans Back to Work</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257781 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/support-empowering-female-leaders" class="menu__link">Support Empowering Female Leaders</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257816 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/trump-stands-with-israel" class="menu__link">President Trump Stands With Israel</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2262546 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/support-repeal-replace-obamacare" class="menu__link">Support the Repeal and Replacement of Obamacare</a></li>
+</ul></li>
+</div></ul></li>
+<li class="last expanded menu-mlid-5841 main-nav--menu-item --main-nav--menu-item even depth-1 children children-2" data-position="6"><a href="/1600/Presidents">1600 Penn<i class='fa fa-angle-down'></i></a><ul class="menu"><div class="depth-2-wrapper"><li class="menu__item is-expanded first expanded menu-mlid-6296 main-nav--menu-item --main-nav--menu-item odd depth-2 children children-6" data-position="1"><span class="menu__link nolink">History &amp; Grounds</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-86676 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/1600/Presidents" class="menu__link">Presidents</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-86891 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/1600/first-ladies" class="menu__link">First Ladies</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93186 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/1600/vp-residence" class="menu__link">The Vice President&#039;s Residence &amp; Office</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93191 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/1600/eeob" class="menu__link">Eisenhower Executive Office Building</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93181 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/1600/camp-david" class="menu__link">Camp David</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-91831 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/1600/air-force-one" class="menu__link">Air Force One</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6301 main-nav--menu-item --main-nav--menu-item even depth-2 children children-7" data-position="2"><span class="menu__link nolink">Our Government</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-93196 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="1"><a href="/1600/executive-branch" class="menu__link">The Executive Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93201 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="2"><a href="/1600/legislative-branch" class="menu__link">The Legislative Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93206 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="3"><a href="/1600/judicial-branch" class="menu__link">The Judicial Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93211 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="4"><a href="/1600/constitution" class="menu__link">The Constitution</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93216 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="5"><a href="/1600/federal-agencies-and-commissions" class="menu__link">Federal Agencies &amp; Commissions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93231 main-nav--menu-item --main-nav--menu-item even depth-3 no-children" data-position="6"><a href="/1600/elections-and-voting" class="menu__link">Elections &amp; Voting</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-93226 main-nav--menu-item --main-nav--menu-item odd depth-3 no-children" data-position="7"><a href="/1600/state-and-local-government" class="menu__link">State &amp; Local Government</a></li>
+</ul></li>
+</div></ul></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-pane pane-block pane-search-form sitewide-header--search-form" >
+  
+      
+  
+  <form action="https://search.usa.gov/search" method="get" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input class="usagov-search-autocomplete ui-autocomplete-input ui-corner-all form-text" autocomplete="off" type="text" name="query" id="edit-search-block-form--2" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="affiliate" value="wh" />
+</div>
+</div></form>
+  
+  </div>
+    </div>
+  </div>
+</div>
+<div class="whr-wrapper">
+  <div class="panel-pane pane-page-breadcrumb" >
+  
+      
+  
+  <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="/">Home</a></li><li><a href="/blog">Briefing Room</a></li><li><a href="/briefing-room/speeches-and-remarks">Speeches &amp; Remarks</a></li></ol></nav>
+  
+  </div>
+</div>
+
+
+</div>
+  </header>
+    <div class="panel-panel panel-wrapper panel-col-section-all">
+
+      <div class="panel-panel panel-col panel-col-section-menu">
+       <div class="panel-pane pane-block pane-menu-block-forall-secondary-nav" >
+  
+        <h2 class="pane-title">From the Press Office</h2>
+    
+  
+  <div class="menu-block-wrapper menu-block-forall_secondary_nav menu-name-sixteenhundred-main-nav parent-mlid-0 menu-level-3">
+  <ul class="menu"><li class="menu__item is-active-trail is-leaf first leaf active-trail odd depth-3 no-children" data-position="1"><a href="/briefing-room/speeches-and-remarks" class="menu__link is-active-trail is-active active active-trail">Speeches &amp; Remarks</a></li>
+<li class="menu__item is-leaf leaf even depth-3 no-children" data-position="2"><a href="/briefing-room/press-briefings" class="menu__link">Press Briefings</a></li>
+<li class="menu__item is-leaf leaf odd depth-3 no-children" data-position="3"><a href="/briefing-room/statements-and-releases" class="menu__link">Statements &amp; Releases</a></li>
+<li class="menu__item is-leaf leaf even depth-3 no-children" data-position="4"><a href="/briefing-room/nominations-and-appointments" class="menu__link">Nominations &amp; Appointments</a></li>
+<li class="menu__item is-collapsed collapsed odd depth-3 no-children" data-position="5"><a href="/briefing-room/presidential-actions" class="menu__link">Presidential Actions</a></li>
+<li class="menu__item is-leaf leaf even depth-3 no-children" data-position="6"><a href="/briefing-room/legislation" class="menu__link">Legislation</a></li>
+<li class="menu__item is-leaf last leaf odd depth-3 no-children" data-position="7"><a href="/briefing-room/disclosures" class="menu__link">Disclosures</a></li>
+</ul></div>
+
+  
+  </div>
+      </div>
+
+      <div id="content-start" class="panel-panel panel-col panel-col-section-content" tabindex="-1">
+       <div class="panel-pane pane-custom pane-1 clearfix" >
+      <div class="videos-intro-field videos-intro-forall-body forall-body">
+      <div class="whr-read-more-wrapper">
+        <div class="press-article-header-wrapper">
+  <div id="press_article_heading" class="press-article-heading">
+    <div id="press_article_heading_title" class="heading-title">The White House</div>
+    <div id="press_article_heading_subtitle" class="heading-subtitle">Office of the Vice President</div>
+  </div>
+  <div id="press_article_subheading" class="clearfix press-article-subheading">
+    <div id="press_article_immediate_release" class="press-article-release">For Immediate Release</div>
+    <div id="press_article_date_created" class="press-article-date">July 19, 2017</div>
+  </div>
+</div>      </div>
+    </div>
+  </div>
+<div class="panel-pane pane-node-title" >
+  
+      
+  
+  <h1>Remarks by Vice President Pence and Elected Officials at the First Meeting of the Presidential Advisory Commission on Election Integrity</h1>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-forall-body" >
+  
+      
+  
+  
+  <div class="field field-name-field-forall-body field-type-text-long field-label-hidden forall-body">
+        <div class="field-items">
+              <div class="field-item even"><p class="rtecenter">
+	Eisenhower Executive Office Building</p>
+
+<p>
+	11:40 A.M. EDT</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Well, thank you very much, Mr. President. &nbsp;And with that, ladies and gentlemen, it is my privilege to call the first meeting of the Presidential Advisory Commission on Election Integrity to order.</p>
+
+<p>
+	Our first order of business is to recognize each of our members and to make introductions and brief remarks. &nbsp;I'd like to start with a few comments of my own in addition to the remarks that I made from the podium.</p>
+
+<p>
+	First and foremost, let me commend each one of you for stepping forward to serve your country in this capacity. &nbsp;As you heard from the President and from me earlier, we are truly grateful for your willingness to step forward. &nbsp;This is a bipartisan group that will perform a nonpartisan service to the American people. &nbsp;Our goal, as the executive order asserts, is to help promote free and honest federal elections. &nbsp;Our charge is to study the registration and voting processes used in federal elections. &nbsp;And, as I mentioned earlier, our charge is to explore vulnerabilities in the system that could lead to improper voting registration and improper voting. &nbsp;</p>
+
+<p>
+	Let me reiterate the point I made earlier, now that we're on the record: &nbsp;We have no preconceived notions or preordained results. &nbsp;Our duty is to go where the facts lead and to provide the President and the American people with a report on our findings that can be used to strengthen the American people's confidence in our electoral system. &nbsp;And as you heard, the President looks forward to what we accomplish, and so do I. &nbsp;And I look very much forward to hearing from each and every one of you.</p>
+
+<p>
+	The President and I have a meeting scheduled soon after this with a number of senators, so my hope is that I'll be able to hear from each and every one of you before excusing myself to hear from members of the United States Senate on another matter. &nbsp;But I'm very, very grateful that you're here.</p>
+
+<p>
+	We'd like to ask that you limit your remarks -- your opening remarks -- to five minutes or less. &nbsp;There is a timer in the back, but I know we can go on the honor system here with each one of you, and we appreciate your sensitivity.</p>
+
+<p>
+	I'd like to start by recognizing our distinguished Vice-Chair, the Kansas Secretary of State, Kris Kobach. &nbsp;And Mr. Secretary, you are now recognized, with the gratitude of the President and this administration, for your opening remarks.&nbsp;</p>
+
+<p>
+	MR. KOBACH: &nbsp;Thank you, Mr. Vice President. &nbsp;It's indeed a great honor to serve as vice chairman of this commission. &nbsp;The charge of the commission is a significant one, as the President outlined: &nbsp;to study the threats to the integrity of our elections; to quantify those threats, if possible; and, if it's the will of the commission, to offer recommendations to the President to help ensure the integrity of future elections in this country. &nbsp;And most importantly, to share that information -- after the report is made to the President -- to share that information with the American public.</p>
+
+<p>
+	This is a mission of the highest order. &nbsp;I've often thought that at the very foundation of our republic are really two bedrock things: &nbsp;the American Constitution and the faith and reality that our elections are conducted fairly. &nbsp;If you take away either of those two things, I believe that our republic cannot stand for long.</p>
+
+<p>
+	So, for a long time, there's been lingering doubt among many Americans about the integrity and fairness of elections, and it's not a new issue at all. &nbsp;If you look at the polling data, it goes back decades. &nbsp;Public opinion has been consistent on this in that there is a substantial number of people who wonder if our elections are fair. &nbsp;A 2014 survey showed that only 40 percent of voters thought elections were fair to the voters, which indicates that 60 percent either did not think so or were undecided.</p>
+
+<p>
+	We owe it to the American people to take a hard, dispassionate look at the subject. &nbsp;And throughout our country's history, there have been specific historical episodes that we may have learned of in school or in college of voter fraud, and those may have received a great deal of attention. &nbsp;And individual states, from time to time, may have investigated specific allegations of voter fraud or have done some specific investigation of voter fraud.</p>
+
+<p>
+	For example, in my state of Kansas, we're engaged in litigation right now, defending our proof of citizenship requirements at the time of registration. &nbsp;And we've engaged in extensive fact-finding for the federal courts involved, and have discovered 128 specific cases of non-citizens who either registered to vote or attempted to register to vote. &nbsp;But that's just the tip of the iceberg. &nbsp;One expert in the case estimated that the total number could be in excess of 18,000 on our voter rolls.&nbsp;<br />
+	&nbsp;<br />
+	But there's never been a nationwide effort to do some sort of analysis of this scope and scale -- to quantify and analyze the various forms of threats to our election's integrity. &nbsp;This commission will have the ability to find answers to questions that have never been fully answered before and to conduct research that has never been conducted before. &nbsp;And that research will not be buried. &nbsp;We respect the voter's privacy and will not identify individual voters with our voter roll data, but we will lay out factual findings and systematic problems that we can identify in our electoral systems. &nbsp;And those results, whatever they are, will be made public for the American people to draw their own conclusions from.</p>
+
+<p>
+	In 2013, President Obama established a Presidential Commission on Election Administration, and he did so, among other things, to analyze a problem that had been reported in several states in the 2012 election, and that was long lines at the polling places. &nbsp;When someone drives to a polling place and sees a long line two blocks long, there's a chance that that person may decide it's not worth it for me to vote, and turn around and drive home. &nbsp;</p>
+
+<p>
+	Similarly, if someone lives in a place where voter fraud has been known to occur in the past, and the elections in the past may have been stolen, there's a chance that he or she will decide that his vote is not likely to count or it will be counterbalanced by the fraud, and therefore decide not to vote in that case.</p>
+
+<p>
+	These are both problems worthy of investigation and worthy of a presidential commission. &nbsp;In Kansas, for the last 11 years, we've hosted the Interstate Crosscheck System, in which approximately 30 states participate. &nbsp;We annually compare our voter rolls to each other, and in so doing we find literally millions of people that are probable double registrations -- where the same person is registered in more than one state. &nbsp;With that information, the participating states can begin the process of keeping their voter rolls accurate and up to date. &nbsp;It’s a starting point when the state can then call the voters in question, and, with the voters' consent, remove them from the voter rolls of the state in which he no longer resides, or else using a process laid out by the National Voter Registration Act.&nbsp;</p>
+
+<p>
+	The program also develops leads where it appears that the same person may have actually voted twice in the same election in two different jurisdictions. &nbsp;After further investigation, a prosecution for double-voting may be appropriate. &nbsp;This program, hosted by Kansas and in 30 states, illustrates how a successful multistate effort can be in enhancing the integrity of our elections and in keeping our voter rolls accurate. &nbsp;</p>
+
+<p>
+	I’m confident that this commission will be equally successful on the national level. &nbsp;The talent, experience, and expertise of my fellow members of the commission is truly impressive. &nbsp;Thank you all for giving your time and your energy to this endeavor. &nbsp;I’m really looking forward to beginning our work together. &nbsp;Thank you</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Thank you, Mr. Secretary. &nbsp;Thank you for your opening remarks and thank you for your leadership on this commission. &nbsp;We look forward very much to working with you.</p>
+
+<p>
+	With that, I’d like to recognize my friend and fellow Hoosier, Indiana Secretary of State Connie Lawson, for five minutes.</p>
+
+<p>
+	MS. LAWSON: &nbsp;Well thank you, Mr. Vice President, Vice-Chairman Kobach, and distinguished commission members and fellow citizens. &nbsp;It really and truly is an honor for me to join the commission today, and I want to thank President Trump for the chance to serve in this capacity. &nbsp;</p>
+
+<p>
+	I am Connie Lawson. &nbsp;I’m the Indiana Secretary of State. &nbsp;I also serve as president of the bipartisan National Association of Secretaries of State, and in that role I co-chair the NASS Election Security Taskforce. &nbsp;I think my background is uniquely situated to the issue of voting processes and election administration. &nbsp;I served, on the local level, two terms as the Hendricks County clerk overseeing -- actually, after the 2000 election, it really and truly was the beginning of the move towards electronic voting and modernization of voting machines.</p>
+
+<p>
+	I was very involved in the association, becoming president and legislative chair as well. &nbsp;Following my time in local office, I served 16 years as state senator. &nbsp;During that time -- the entire 16 years -- I was a member of the Senate Elections Committee. &nbsp;I did become the majority floor leader in the Indiana Senate, I think, as a result of my respect in that work. &nbsp;In 2012, a vacancy arose in the Secretary of State’s office, and Governor Mitch Daniels appointed me to serve the remainder of the term. &nbsp;And I was elected to a full term in 2014. &nbsp;</p>
+
+<p>
+	It really and truly is an honor to be here with my distinguished fellow commissioners to discuss issues related to voting systems and processes around the country. &nbsp;With statewide elections in New Jersey and Virginia this year, and many more contests to follow in 2018, there is no better time to analyze how we can improve voter confidence in civic participation. &nbsp;</p>
+
+<p>
+	While it’s important to create an accurate understanding of the 2016 cycle, I believe that it’s even more important for us to be discussing what lies ahead. &nbsp;This body has a great opportunity to outline constructive priorities as we begin our work. &nbsp;I would submit that one of the most important goals we have is improving the partnership between federal and state authorities where election issues are concerned. &nbsp;For instance, I and other secretaries have been frustrated by attempts to communicate with the federal Department of Homeland Security in their wake of their decision to designate election systems as critical infrastructure. &nbsp;The situation is improving, but it doesn’t help when I’m still discovering facts about this decision through the media rather than from the decision-makers, and I’m hopeful that we can address this issue going forward. &nbsp;</p>
+
+<p>
+	While I was state senator, significant updates were made to federal and state election law. &nbsp;Among those was the Help America Vote Act, or HAVA, passed in 2002. &nbsp;It was passed to improve voting systems and voter access in response to the 2000 election. &nbsp;This legislation created the Election Assistance Commission and addressed provisional voting, voting equipment, statewide voter databases, among other things. &nbsp;A crucial point is that the HAVA standards were developed in a bipartisan, cooperative manner seeking input from multiple stakeholders in order to find points of agreement. &nbsp;It’s my hope that this commission will operate in a similar manner as we get to work on behalf of the President, our states, and the American people. &nbsp;Thank you.</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Thank you, Madam Secretary. &nbsp;Appreciate your remarks very much. &nbsp;And now the chair recognizes the former Secretary of State for the great state of Ohio, Ken Blackwell.</p>
+
+<p>
+	MR. BLACKWELL: &nbsp;Thank you. &nbsp;Thank you, Mr. Chairman. &nbsp;I’m honored to be a member of this commission. &nbsp;I want to thank you, Vice President Pence, for your leadership in this endeavor and express my gratitude to all of my colleagues for their willingness to undertake this important work. &nbsp;This commission and its task is to identify every threat to the integrity of the electoral process, both foreign and domestic. &nbsp;We are to serve the American people by enumerating the vulnerabilities of our electoral system and recommending countermeasures to protect the voting rights of the American people as guaranteed by the Constitution.</p>
+
+<p>
+	I would like to offer, into the record, my work of constitutional law on this issue. &nbsp;I co-authored this work with Ken Klukowski, a respected constitutional attorney -- I’m going to say, from Indiana. &nbsp;(Laughter.) &nbsp;And our law review article is entitled, “The Other Voting Right: Protecting Every Citizens Vote by Safeguarding the Integrity of the Ballot Box,” published by the Yale Law and Policy Review. &nbsp;</p>
+
+<p>
+	We set forth that one way to articulate the right to vote secured by the Constitution is that every properly registered adult has the right to an undiluted vote. &nbsp;Each elector has the right to a vote that carries its full weight and that, when it is tallied, has its maximum proper effect to give that citizen a full voice in determining who among us will be entrusted with the powers of government for a term of office. &nbsp;</p>
+
+<p>
+	As we explain in our article, this really means the Constitution secures two voting rights. &nbsp;The first is the one we talk about most often -- the franchise, the right to cast a ballot on Election Day. &nbsp;Most voting laws combat abuses rooted in the past that denied Americans access to the voting booth. &nbsp;But there’s a second right that accompanies the right to cast a ballot, and that is the right of the citizen -- a citizen’s legal ballot not being diluted or canceled by anyone else’s illegal activity. &nbsp;</p>
+
+<p>
+	That activity could be voter fraud by casting a ballot in more than one precinct or state. &nbsp;It could be a non-citizen voting, whether that non-citizen is a legal alien or an illegal alien -- if they are not citizens. &nbsp;Then their ballots dilute the votes of American citizens. &nbsp;The illegal activity could be voter intimidation or voter registration fraud, or it could be foreign interference in our elections, whether from Russia, China, North Korea, Iran, or any other foreign power. &nbsp;This other voting right is a fundamental constitutional right against any such dilution or cancellation, and it is our commission’s work and our mandate from the President of the United States to identity these threats and safeguard against them. &nbsp;</p>
+
+<p>
+	Another topic explored in our article is that voting is perhaps our only fundamental right secured by the Constitution that is also a citizen’s duty. &nbsp;We all have the right to the free exercise of religion, or to keep and bear arms, for example, but our form of government does not impose them upon us as duties. &nbsp;But when it comes to voting, the Constitution enables election officials to presume that public-spirited citizens with due concern for the course of the state and national policy will be willing to satisfy reasonable regulations and shoulder incidental burdens in the fulfillment of their civic duty. &nbsp;</p>
+
+<p>
+	My home state of Ohio is the jurisdiction of the U.S. Court of Appeals for the 6th Circuit. &nbsp;Among the judges on that bench is Alice Batchelder. &nbsp;Two years ago, in Russell vs. Grimes, Judge Batchelder wrote, “Citizens cannot demand as constitutional entitlement an environment in which fulfilling this civic duty is effortless. &nbsp;To the contrary,” Judge Batchelder added, “the Constitution allows for the possibility that citizens should be expected to overcome minimal obstacles when voting.” &nbsp;</p>
+
+<p>
+	Every patriotic citizen who is a qualified elector has a solemn duty in our democratic republic to participate in public debate by casting their thoughtful, informed, and deliberate ballot on Election Day. &nbsp;We are a self-governing people. &nbsp;The machinery of democracy on Election Day is the cornerstone of how we govern ourselves. &nbsp;This commission’s duty is to catalogue every threat to that machinery and determine how to thwart each threat and thereby safeguard the integrity of the ballot box.</p>
+
+<p>
+	Mr. Chairman, I ask that this article and my extended remarks be made part of the record today -- today’s proceedings and the work of the commission. &nbsp;Thank you so much, sir.</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Your law review article and your extended remarks are submitted to the record without objection. &nbsp;And thank you, Mr. Secretary, for your opening remarks.</p>
+
+<p>
+	With that I’d like to recognize the Secretary of State of Maine, Secretary Matt Dunlap, for five minutes.</p>
+
+<p>
+	MR. DUNLAP: &nbsp;Thank you, Mr. Vice President. &nbsp;I apologize I don’t have any prepared remarks, so I’ll try to keep it within the 45-minute allotment. &nbsp;(Laughter.) &nbsp;</p>
+
+<p>
+	Our experience in Maine has really been a truly gracious one, and we are very, very blessed to have the commitment of so many incredibly devoted and dedicated people across the state in the 503 towns and 425 unorganized territories of the state of Maine. &nbsp;An area from Fort Kent to Kittery, and from Oquossoc to Eastport -- the people that I work with in elections -- you know, I’m the chief elections officer of the state of Maine, but the actual election is run by those local town officials who put an extraordinary amount of effort to make sure that their neighbors can freely and fairly exercise their constitutional franchise of democratic self-governance. &nbsp;And we owe them a great deal -- and we have a great deal to be proud of. &nbsp;</p>
+
+<p>
+	We, too, get questions from time to time about something that happens in an election. &nbsp;We get a few hundred allegations of possible double-voting. &nbsp;But because our clerks work very closely with each other and we communicate with each other, typically what happens is someone requests an absentee ballot, and they forget about it or lose it in a pile of seed catalogues, and then they show up at the polls and we divine pretty quickly that, in fact, they only cast one ballot and then the question is answered. &nbsp;</p>
+
+<p>
+	But accountability is pretty important here, and I think that’s the entire purpose of this commission is to help bolster and instill confidence in electoral process that belongs to the American people. &nbsp;And I hope that, in those considerations, one of the things we focus on is what works well. &nbsp;What do we do right? &nbsp;And certainly -- I listened very closely to the remarks of the President -- but no one who has spoken, including the President, has questioned the legitimacy of the outcome of the 2016 election. &nbsp;I think that’s a great place to start from is, you know, what are the balance points between security and access? &nbsp;</p>
+
+<p>
+	And I think that anything that we do to answer those questions, to reassure people that there are no goblins under the bed, and if there are, we deal with them in a way that is balanced, again, towards access of the voting public to participate in their government. &nbsp;This is not ours. &nbsp;It belongs to them. &nbsp;</p>
+
+<p>
+	And I think as we move forward, the one thing I want to focus on -- and I tell our clerks this when we do our training every year -- is that this is a process that does not belong to us. &nbsp;It belongs to the voters. &nbsp;And everything we do, we must do with devotion to assure that the voters have their voice heard and that the ballots that are cast are done without question, and that the government that is installed to represent those people acts on their behalf with the confidence of the public. &nbsp;And I want to make sure that we answer those questions and that we move forward as a group with that same level of confidence, and I’ll be very pleased to be a part of this. &nbsp;So, thank you.</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Thank you, Mr. Secretary, and thank you for those very thoughtful words, without notes and with great brevity. &nbsp;I like it. &nbsp;(Laughter.)&nbsp;</p>
+
+<p>
+	With that, it would be my privilege to recognize the longest-serving secretary of state in American history, New Hampshire’s Secretary of State Bill Gardner. &nbsp;Secretary Gardner, you’re recognized for five minutes.</p>
+
+<p>
+	MR. GARDNER: &nbsp;Thank you, Mr. Chairman, Vice-Chairman. &nbsp;I look forward to the work we have ahead. &nbsp;</p>
+
+<p>
+	After our federal Constitution was ratified, a person asked George Washington this question: &nbsp;What is the most important thing that a person can do for his country? &nbsp;And Washington answered that in five words: &nbsp;Express your view beyond yourself. &nbsp;When I first became aware of that, I took it to mean everyone’s voice mattered. &nbsp;Be willing to share your views, have dialogue with others, and let others share their views with you, for it will strengthen our country. &nbsp;It can also be applied to voting, where we collectively express our views beyond ourselves by way of the ballot box. &nbsp;And the more often we get to do that, the more we fulfill the will of our first President. &nbsp;I would like more Americans to vote, not fewer. &nbsp;</p>
+
+<p>
+	For over a half-century, since the Civil Rights era of the ‘60s, our federal government and the states have been trying to find more and more ways to make it easier to vote. &nbsp;But when states try to balance that ease of voting with measures to increase voting integrity, it is often met with hostile resistance and charges of suppression. &nbsp;</p>
+
+<p>
+	I will respect the facts that this commission receives, but it has been my belief over many years of administering elections that we will see an increase in voter turnout only when ease of voting is balanced with security and integrity. &nbsp;Making voting easier by itself does not result in higher turnout, as we have seen in our recent elections. &nbsp;Polls conducted just before the last presidential election found over half the country believes there's voter fraud. &nbsp;And polls after the election show a declining level of confidence in the balloting. &nbsp;</p>
+
+<p>
+	During this century, there have been three national election commissions previous to this one. &nbsp;They spent time continuing the quest for ways to make voting easier. &nbsp;In my opinion, we need to first understand why turnout has not increased as a result. &nbsp;</p>
+
+<p>
+	One of the previous commissions recommended states adopt photo ID requirements for voting, and that commission was severely criticized for doing so. &nbsp;We also need to compare states that have voter ID laws with those without. &nbsp;I might add that the two highest states in turnout during the presidential primaries last year were both photo ID states. &nbsp;</p>
+
+<p>
+	Why is it important for the public to have confidence in their elections? &nbsp;The reason is contrary to common belief: &nbsp;One vote does matter. &nbsp;I have conducted nearly 500 recounts, all done by hand, counting paper ballots in a public process, including state-wide, congressional, and various smaller district races. &nbsp;Eleven of those recounts have ended in a tie; 32 were decided by one vote; and a total of 202, by less than 10 votes. &nbsp; &nbsp;</p>
+
+<p>
+	And while serving as state representative, back in the 1970s, my state had a U.S. Senate race that was decided by two votes. &nbsp;The U.S. Senate, after that, tried to do a recount of that race and gave up after trying for five months. &nbsp;I am a witness that every vote matters, and there doesn’t need to be massive voter fraud to sway the outcome. &nbsp;These are the experiences I will bring to this commission, and I will work with all of you endeavoring to let the facts we receive speak for themselves.</p>
+
+<p>
+	Thank you.</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Well, thank you, Mr. Secretary. &nbsp;And thank you for those words and for your long service to the people of your state.</p>
+
+<p>
+	The chair now recognizes Judge Alan King of Jefferson County, Alabama for five minutes.</p>
+
+<p>
+	MR. KING: &nbsp;Mr. Vice President and Secretary Kobach, it's a pleasure to serve on this committee. &nbsp;I appreciate the invitation. &nbsp;I'm Alan King. &nbsp;I'm the presiding probate judge in Jefferson County, Alabama. &nbsp;It's the largest county in the state of Alabama. &nbsp;We have roughly 660,000 residents, and in 2016 we had almost 460,000 registered voters. &nbsp;</p>
+
+<p>
+	We have two probate judges in Jefferson County, and I was elected in 2000 as the place two probate judge, and then in 2006 and '12 as the presiding probate judge. &nbsp;I have a law degree, and I'm a former president of the Alabama Probate Judges Association. &nbsp;</p>
+
+<p>
+	In Alabama, probate judges are the chief election official for his or her county. &nbsp;I've been involved in 10 major elections as the place two probate judge, and I've been the chief election official for 39 major elections as the presiding probate judge.&nbsp;</p>
+
+<p>
+	On August 15th of this year, we will have a special election to fill the U.S. Senate seat vacated by now Attorney General Jeff Sessions. &nbsp;</p>
+
+<p>
+	I have a certification, through the Election Center, which the premier -- or one of the premier election training organizations in the United States. &nbsp;And so I'm involved in elections, have been involved in elections for 16.5 years. &nbsp;I bring a wealth of experience from a county level. &nbsp;So to speak, I've had boots on the ground in every aspect of elections. &nbsp;I would consider myself to be an election expert on everything that involves elections.</p>
+
+<p>
+	In the national organizations that I'm a member of, it's been my great pleasure to meet other election officials on the national level. &nbsp;I have talked extensively with men and women for the last few years. &nbsp;</p>
+
+<p>
+	I feel inclined, since I'm the chief election official for Jefferson County, Alabama, to say that, in my 16.5 years in the Jefferson County probate judge position, that I have not seen evidence of voter fraud in Jefferson County. &nbsp;I had one situation -- I think it was in 2014 -- where it was a father and a son had the same name. &nbsp;I became aware of that. &nbsp;I submitted this information to our district attorney, and the district attorney chose not to pursue any charges against either the father or the son.</p>
+
+<p>
+	The executive order that created this commission refers to voter confidence and voter processes. &nbsp;And again, since I'm a county official, I feel inclined to say that one of the most massive problems that will be facing this nation in the years to come is technology, and it's the technology of the voting machines. &nbsp;And I've seen it in the legal profession, from discovery and cases that have come before me in court. &nbsp;I'm in court virtually all day, every day. &nbsp;</p>
+
+<p>
+	And bottom line: &nbsp;Technology is moving so fast that society is not able to keep up with the legal profession. &nbsp;My wife is an elementary school librarian -- now called a school media specialist. &nbsp;She's not able, educators are not able to keep up with technology. &nbsp;And I would venture to say, Mr. Vice President and Secretary Kobach, that we have a huge challenge in this nation with keeping with voting machine technology.</p>
+
+<p>
+	And in 2002, the U.S. Congress and HAVA -- Help America Vote Act -- passed -- had funding that was filtered down to the states and to each county. &nbsp;And so from a county-wide standpoint, these voting machines are outdated. &nbsp;There's no money there. &nbsp;Counties don’t have money. &nbsp;States don't have money. &nbsp;We need money. &nbsp;I was -- thankfully, four years ago, I got on top of this issue. &nbsp;I was able to convince my county commissioners to fund the next generation of voting machines in Jefferson County. &nbsp;We did that in the 2016 election to the tune of $3.1 million. &nbsp;But not every county can do that. &nbsp;Not every state can do that. &nbsp;</p>
+
+<p>
+	And as we go down this process, it is my hope that we will -- that will be an issue that we will discuss. &nbsp;Because we can discuss a lot of things about voting, but unless we have the technology, unless the technology is keeping up with voting, then we're not using our time very wisely, in my opinion.</p>
+
+<p>
+	So I hope that that's an issue that we will get into. &nbsp;I hope that's an issue that we will discuss and discuss freely. &nbsp;And I hope that's a recommendation that this commission makes to Vice President Pence, to you, and to President Trump.&nbsp;</p>
+
+<p>
+	Again, thank you so very much for the opportunity to serve on this commission.</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Well, thank you, Judge King. &nbsp;Thank you for bringing your extraordinary experience at the county level, and those thoughtful opening remarks today. &nbsp;We look forward to working with you very much. &nbsp;An honor to have you here.</p>
+
+<p>
+	With that, the chair recognizes Commissioner Christy McCormick, who is also a member of the Election Assistance Commission, for five minutes.</p>
+
+<p>
+	MS. MCCORMICK: &nbsp;Thank you. &nbsp;Mr. Vice President, Secretary Kobach, and my fellow distinguished commission members: &nbsp;I'm very much looking forward to participating in the mission of this commission. &nbsp;</p>
+
+<p>
+	I started working in elections almost 30 years ago as an assistance voter registrar in East Haven, Connecticut. &nbsp;And since then, I've worked in several capacities in elections and voting, including eight years in the Department of Justice Civil Rights Division's Voting Section, litigating and defending our federal voting statutes, including the Voting Rights Act, the NVRA, UOCAVA, and the MOVE Act. &nbsp;</p>
+
+<p>
+	I was detailed to Baghdad for a year as the Department of Justice's expert in elections to work on the Iraq national elections. &nbsp;And I have since served, since January of 2015, as the commissioner on the U.S. Election Assistance Commission, which is dedicated to making election administration better across our country.</p>
+
+<p>
+	I have worked directly with state and local election officials from every state and territory, and I see my role on this commission as representing a wide range of election officials. &nbsp;I have also regularly interfaced with voting system vendors and not-for-profit voting and elections organizations, and I will always take their concerns and interests into consideration.</p>
+
+<p>
+	Our Constitution provides that our states have the authority and responsibility to run our elections, and I fully support this provision. &nbsp;However, I also believe that our federal government does have an interest in elections being free, fair, and secure from outside and improper influences. &nbsp;Our nation as a whole should be dedicated to ensure the survival of America's representative democracy.</p>
+
+<p>
+	Over the past year and, quite frankly, much longer than that, we've heard that our election system is in danger. &nbsp;It is appropriate for us to examine any threats or dangers to our system, the integrity of our system, and the fairness of our system. &nbsp;We need to ensure that every American citizen who is eligible to vote may do so freely and privately, and that his or her vote is not diluted by improper votes or influence. &nbsp;</p>
+
+<p>
+	We need to ensure that persons who are eligible to vote are not disenfranchised, and that voters have confidence that our system is producing accurate, secure, and expeditious results. &nbsp;</p>
+
+<p>
+	With that in mind, I would like to see this commission, at a minimum, look at some of these questions: &nbsp;How we keep ineligible, and those operating in bad faith, off of and out of our voting systems. &nbsp;How we address the management of voter registration systems and the problem of inaccurate lists. &nbsp;</p>
+
+<p>
+	I applaud the dedication and hard work of our election administrators across this country. &nbsp;And, believe me, they have a hard, hard and extensively complex job. &nbsp;</p>
+
+<p>
+	But I've also done election observation over the past dozen or so years, and I have yet to see a fully accurate voter list in any polling place across the country. &nbsp;I have seen firsthand irregularities take place in the polling place and in some offices. &nbsp;What causes a lack of voter participation and confidence in our system, and what actions should we consider that would hopefully boost participation and confidence in the voters' experience with our election system? &nbsp;What methods are currently used to identify, deter, and investigate improper registration and voting, and are those methods sufficient? &nbsp;And what are the methods currently used to identify, defer, and investigate voter intimidation or suppression, and are those methods working?</p>
+
+<p>
+	The entire world looks to the United States as a model for representative democracy and free and fair elections. &nbsp;As a nation, we must continually review and investigate any possible issues with our voting system, and we must stay vigilant to protect our precious right to elect our leaders. &nbsp;</p>
+
+<p>
+	I look forward to working with the Vice President and with other members of this commission. &nbsp;I expect, as I believe the other members of this commission do also, full transparency, courteous discussion, and professional respect.</p>
+
+<p>
+	I appreciate, in spite of some of the media reports I've seen, that the commission has no preconceived results, that we are not afraid of the facts leading us to the truth -- whatever that looks like, and that any conclusions or recommendations will be based on these truths.</p>
+
+<p>
+	Finally, thank you to the President, Vice President for trusting me and allowing me to participate in this commission. &nbsp;It is an honor to serve my country. &nbsp;Thank you.</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Well, Commissioner McCormick, thank you. &nbsp;Thank you for those good words. &nbsp;Thank you for bringing your vast experience in elections, at home and abroad, to this commission's work. &nbsp;We're grateful to have you here.</p>
+
+<p>
+	The chair now recognizes J. Christian Adams from Virginia for five minutes.</p>
+
+<p>
+	MR. ADAMS: &nbsp;Thank you, Mr. Vice President. &nbsp;Thank you, Vice Chairman Kobach. &nbsp;I'd also like thank President Trump for initiating this long overdue effort. &nbsp;I would like to thank the other members of the commission for their willingness to examine the integrity of our electoral systems, and to seek the truth about vulnerabilities in these systems and contemplate ways to improve the process.</p>
+
+<p>
+	Most Americans value truth and value election systems deserving of our faith. &nbsp;It has been said that truth enlightens our intelligence and helps shape our freedom. &nbsp;Clean elections protect our freedom. &nbsp;Elections tainted by fraud disrupt the consent of the government. &nbsp;I believe that all the commissioners are dedicated to an inquisitive and robust search for the data and for the truth about vulnerabilities in our elections, and ways to improve the systems.</p>
+
+<p>
+	There are areas of serious concern. &nbsp;For example, there are recurring indications that individuals are getting registered to vote even though they are marking the voter registration forms "no" to the question, "Are you a United States citizen?" &nbsp;Again, they are checking the box on the registration form that they are not American citizens, but are still getting registered to vote. &nbsp;What fair-minded American could support this? &nbsp;What serious, inquisitive American wouldn't ask, "How does this happen? &nbsp;How often does this happen? &nbsp;How can we improve the system?"</p>
+
+<p>
+	Yet, there are plenty of interests that would rather see these questions not be asked. &nbsp;The truth is more important but these individuals do not want the questions asked, and that is the wrong approach. &nbsp;Americans have never assumed that we could not accomplish the mission, could not improve the way things work. &nbsp;There are ways to examine and reach the truth about our elections without harming a single legitimate voter registration. &nbsp;I'm sure the members of the commission will do their best, as I will, to improve our election system.</p>
+
+<p>
+	For the first time, we have the tools, we have the will, and we have the support of the majority of the American people who are concerned with voter fraud to document these vulnerabilities in our systems and suggest improvements. &nbsp;And so I'm excited to help, and thank you for this effort.</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Well, thank you, Mr. Adams. &nbsp;We're grateful to have you on the commission, and thank you for those opening remarks.</p>
+
+<p>
+	The chair now recognizes the clerk of Wood County, West Virginia, Mark Rhodes, for five minutes.</p>
+
+<p>
+	MR. RHODES: &nbsp;Thank you, and thank you for permitting me to be on this commission. &nbsp;It is an honor. &nbsp;As county clerk, yes, I am in charge of the elections, and several of the things that I've even heard discussed here, I can say it's happened to me. &nbsp;</p>
+
+<p>
+	I started working in our IT department in Wood County in 1997. &nbsp;I believe if you check my voting registration record for the year 2000, you'll find that I voted a provisional ballot. &nbsp;And the reason being was, I was deceased. &nbsp;We were doing a -- before we had a statewide voter system, we had to do a data upload monthly to the Secretary of State's office. &nbsp;It wasn't working properly. &nbsp;I'd marked myself deceased, ran a test, and never revived myself. &nbsp;(Laughter.)&nbsp;</p>
+
+<p>
+	I walked into the precinct. &nbsp;I went over to Janice, who was our poll worker. &nbsp;She said, you're not in the book. &nbsp;I should be. &nbsp;I voted a provisional ballot because I was not in the book. &nbsp;I appeared at the county commission meeting during canvass, and they went, yep, you're alive, and my vote did count. &nbsp;So it's one of those -- there are things that do happen. &nbsp;And we try to make sure that every legally-cast ballot counts. &nbsp;</p>
+
+<p>
+	In 2014, when I ran for my first election as county clerk, I won by five votes out of over 24,000 votes that were cast. &nbsp;So it's one of those -- we need to have fair, clean, honest elections, and there should be no doubt that those five votes -- you know, my win is the win and it's there. &nbsp;There should be no speculation. &nbsp;I just want to make sure that we have good, fair, clean, honest elections. &nbsp;And thank you for permitting me to serve.</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Well, thank you, Clerk Rhodes. &nbsp;We're grateful to have you here bringing that experience. &nbsp;And I'm glad you're doing well. &nbsp;You look fine. &nbsp;(Laughter.)</p>
+
+<p>
+	Now the chair recognizes David Dunn of Arkansas for five minutes.</p>
+
+<p>
+	MR. DUNN: &nbsp;Thank you, Mr. Vice President, Secretary Kobach. &nbsp;I want to also thank President Trump for allowing me to serve. &nbsp;I'm humbled and I'm honored to have this opportunity to serve my country.</p>
+
+<p>
+	Having grown up in the Delta and to a political family, and spent most of my life as an economic developer in one of the most economically depressed areas in our country, I know how important the democratic process is. &nbsp;Anything that calls into question the integrity of this process undermines the entire democratic system.&nbsp;</p>
+
+<p>
+	We were asked today to present our thoughts on what we expected of this commission. &nbsp;I'm eager to learn -- and I have, today, a bit -- the priorities of my fellow commissioners, all of whom I have met for the first time today, and I look forward to -- with everyone how to tackle these complex issues.&nbsp;</p>
+
+<p>
+	A vision for this commission is threefold. &nbsp;First, it is my desire for us to look at a myriad of issues to determine whether there are significant problems involving the election voter integrity. &nbsp;We should look at the way the states' elections systems are currently working, and what resources or support the have, and what might be needed to improve their accuracy and efficiency. &nbsp;Whether there's an increase in training of election and poll workers, improved communication between the states and localities across states, updated voting machines, or providing funds to assist localities in carrying out their voting election work, I hope this commission will look at all the possibilities to help states in their effort to run competent and true elections.</p>
+
+<p>
+	Second, I hope that this commission will ensure the privacy of America's voting public. &nbsp;I understand while the letter that was sent to the states asked for only publicly available voter information, it still raised concerns. &nbsp;And I believe that any data, statistics, or information collected by us or by the state should be held in our trust and safeguarded from any political misuse.</p>
+
+<p>
+	And finally, I hope that the activity of this bipartisan commission are completely transparent and public. &nbsp;It's important that our work be conducted with the highest level of integrity, and that a variety of views can be expressed and considered. &nbsp;</p>
+
+<p>
+	I applaud Vice President Pence for putting together this commission. &nbsp;I look forward, with each of you, to ensure that the voters in my great state of Arkansas and across the country know that they will not be unlawfully disenfranchised, and they can have confidence in the integrity of our election. &nbsp;</p>
+
+<p>
+	Thank you.&nbsp;</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Well, thank you, Commissioner Dunn. &nbsp;Thank you for those very thoughtful words and admonitions. &nbsp;We value them and identify greatly with what you said. &nbsp;Grateful to have you here. &nbsp;</p>
+
+<p>
+	Lastly, let me -- let the chair recognize Hans von Spakovsky for five minutes.</p>
+
+<p>
+	MR. VON SPAKOVSKY: &nbsp;Mr. Vice President, fellow members of the commission: &nbsp;I want to thank President Trump for the honor of having appointed me to the Advisory Commission on Election Integrity. &nbsp;</p>
+
+<p>
+	I come at this issue of election integrity from very personal history. &nbsp;My German mother grew up in Nazi Germany as a child. &nbsp;My Russian father fought and escaped communism twice. &nbsp;They met in a displaced persons camp in Europe, after the end of World War II, before immigrating to the United States. &nbsp;My childhood was filled with stories of what it's like living in a dictatorship. &nbsp;And we were taught as children that the right to vote is a very precious right, it's one that can be easily lost, and that it was our duty to always vote and participate in the democratic process.</p>
+
+<p>
+	I want to ensure that every American who is eligible is able to vote, and that his or her vote is not stolen or diluted because of administrative mistakes, errors by election officials, or intentional wrongdoing by those who are willing to take advantage of what we have, which is basically an honor system.</p>
+
+<p>
+	I have almost three decades of experience in the field of voting and elections. &nbsp;That includes not only legal experience as a lawyer in the U.S. Department of Justice, enforcing federal laws that protect the right to vote, but I've also been a local county election official in two states, Georgia and Virginia. &nbsp;So I know very well how hard election officials work to try to administer the voting process fairly.</p>
+
+<p>
+	But we do have problems that need to be fixed. &nbsp;We have vulnerabilities in the administrative system that we have, and we also have a history of voter fraud in this country. &nbsp;The Supreme Court itself said in 2008, when it upheld Indiana's voter ID law, the U.S. has a long history of voter fraud, and it could make the difference in a close election. &nbsp;And we have many close elections in this country.</p>
+
+<p>
+	Now, one of the documents I want to hand out to everyone on the commission -- and this is a printout, and it's easily available on the Heritage website -- is a database that we started about two years ago of voter fraud cases from around the country. &nbsp;We are up to almost 1,100 proven cases of voter fraud, including almost 1,000 convictions of individuals in court. &nbsp;These cases run the gamut and show all ways that voter fraud is committed in this country. &nbsp;It includes impersonation fraud at the polls, false voter registrations, duplicate voting, fraudulent absentee ballots, vote buying, ineligible voting my felons and non-citizens, altering of vote counts, and ballot petition fraud.</p>
+
+<p>
+	We know we have problems with the accuracy of our voter registration lists. &nbsp;Numerous studies have been done about this that show -- including the Interstate Crosscheck Program -- that we have literally hundreds of thousands of voters who are registered in multiple states, and we have many people who are deceased remaining on the voter rolls.&nbsp;</p>
+
+<p>
+	No systematic, all-encompassing study has been done about these problems. &nbsp;But we know that more must be done to improve the accuracy of our voter registration system and the security of our voting process. &nbsp;</p>
+
+<p>
+	Now, I have full confidence in this commission, which is a bipartisan commission, and I look forward to working with my colleagues. &nbsp;But I can't end my remarks without addressing what I consider to be the unfair, unjust, and unwarranted criticisms that have been leveled at this commission and some of its members. &nbsp;My father passed on to me the belief that one of the best things about America is the ability to have spirited but civil debates, even on contentious issues. &nbsp;Yet we seem to have lost that valuable part of our democratic process.</p>
+
+<p>
+	Members of this commission, including me, have already been subjected to vicious and defamatory personal attacks. &nbsp;Those who want to ensure the integrity of the election process are only interested in preserving our great democracy. &nbsp;The scurrilous charges that have been made are reprehensible and a tactic, frankly, to avoid a substantive debate on important issues and to prevent the research, inquiry, and study that is necessary to identify the problems in our election process, to determine what the solutions are, and to therefore ensure that we have the best election and best democratic system in the world.</p>
+
+<p>
+	Thank you.</p>
+
+<p>
+	THE VICE PRESIDENT: &nbsp;Well, thank you, Commissioner von Spakovsky. &nbsp;Thank you for bringing your practical experience and your background to this commission. &nbsp;We're truly grateful, and grateful for your stirring words.</p>
+
+<p>
+	Well, let me say, listening to all of the commissioners on this panel, I am more confident than ever that this bipartisan group is going to perform an enormously valuable non-partisan service to the American people. &nbsp;I'm grateful for the words of admonition and challenge, one to another. &nbsp;I can attest and promise you that we do go into this process with no preconceived notions or preordained results. &nbsp;And the President has charged us to pursue the facts, and we will follow them with integrity, where they lead.</p>
+
+<p>
+	This will be a transparent and open process. &nbsp;But knowing the background of all these commissioners, I can also promise you a spirited but also civil debate. &nbsp;And we look very much forward to that.&nbsp;</p>
+
+<p>
+	Our charge is simple. &nbsp;In the executive order establishing this commission, let me reiterate: &nbsp;It's to help to promote free and honest federal elections; to study registration voting processes used in federal elections; to identify vulnerabilities to the process that could lead to improper voter registration or even improper voting. &nbsp;</p>
+
+<p>
+	We will live up to that and we will challenge one another to achieve that. &nbsp;And I know -- I know in my heart that we'll do a great service to the American people.</p>
+
+<p>
+	With that, the chair would like to recess the meeting for a short lunch break. &nbsp;Vice-Chair Kobach will reconvene in approximately 20 minutes to preside over the rest of the meeting's agenda.</p>
+
+<p>
+	But on behalf of the President and myself, I offer you my heartfelt thanks for being willing to serve your country at such a time as this, in this important work. &nbsp;</p>
+
+<p>
+	So, thank you much. &nbsp;And we're going to recess.</p>
+
+<p>
+	END&nbsp;<br />
+	12:29 P.M. EDT<br />
+	&nbsp;</p>
+</div>
+          </div>
+  </div>
+
+  
+  </div>
+      </div>
+
+      <div class="panel-panel panel-col panel-col-section-share">
+        <div id = "section-share-wrapper">
+                  </div>
+      </div>
+
+    </div>
+  <footer class="panel-panel panel-footer">
+  
+  <footer class="panel-pane pane-panels-mini pane-default-sitewide-footer sitewide-footer" >
+    <div class="sitewide-footer__wrapper">
+      
+  <nav class="sitewide-footer--social-nav" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-social-nav-1 menu-name-sixteenhundred-social-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6411 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item odd depth-1 no-children" data-position="1"><a href="http://twitter.com/whitehouse" class="menu__link" title="Follow the Whitehouse on Twitter."><span class="fa fa-twitter"></span><span class="element-invisible">Twitter</span></a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6416 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item even depth-1 no-children" data-position="2"><a href="http://instagram.com/whitehouse" class="menu__link" title="See the Whitehouse on Instagram."><span class="fa fa-instagram"></span><span class="element-invisible">Instagram</span></a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6421 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item odd depth-1 no-children" data-position="3"><a href="http://facebook.com/whitehouse" class="menu__link" title="Like the Whitehouse on Facebook."><span class="fa fa-facebook"></span><span class="element-invisible">Facebook</span></a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6441 horizontal-social-menu--menu-item sitewide-footer--social-nav--horizontal-social-menu--menu-item even depth-1 no-children" data-position="4"><a href="/contact" class="menu__link sitewide-footer--social-nav__border sitewide-footer--social-nav__contact-link" title="Contact the Whitehouse."><span class="fa fa-comment"></span><span class="element-invisible">Contact Us</span></a></li>
+</ul></div>
+  </nav>
+
+  <nav class="panel-pane pane-menu-tree pane-sixteenhundred-main-nav sitewide-footer--main-nav horizontal-3-level-menu" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-main-nav-1 menu-name-sixteenhundred-main-nav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5816 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 horizontal-3-level-menu__top-item odd depth-1 no-children" data-position="1"><a href="https://www.whitehouse.gov" class="menu__link no-header">Home</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-5821 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 even depth-1 children children-2" data-position="2"><a href="/blog" class="menu__link">Briefing Room</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-5846 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-3 menu-featured menu-featured-descs" data-position="1"><span class="menu__link nolink">From the News Room</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5856 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/blog" title="Read the latest news from the White House" class="menu__link">Latest News</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257521 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/featured-videos" title="View the most recent videos from the White House" class="menu__link">Video Gallery</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-7071 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/live" title="Tune in to White House events and statements as they happen" class="menu__link">Live Events</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-77741 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-7" data-position="2"><span class="menu__link nolink">From the Press Office</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5891 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/briefing-room/speeches-and-remarks" class="menu__link">Speeches &amp; Remarks</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5896 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/briefing-room/press-briefings" class="menu__link">Press Briefings</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5901 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/briefing-room/statements-and-releases" class="menu__link">Statements &amp; Releases</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-142711 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/briefing-room/nominations-and-appointments" class="menu__link">Nominations &amp; Appointments</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-5911 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/briefing-room/presidential-actions" class="menu__link">Presidential Actions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5916 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/briefing-room/legislation" class="menu__link">Legislation</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-142716 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="7"><a href="/briefing-room/disclosures" class="menu__link">Disclosures</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5826 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 odd depth-1 children children-1" data-position="3"><a href="/america-first-energy" class="menu__link">Issues</a><ul class="menu"><li class="menu__item is-expanded first last expanded menu-mlid-5936 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-8" data-position="1"><span class="menu__link nolink">Top Issues</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2200631 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/america-first-energy" class="menu__link">America First Energy Plan</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200636 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/america-first-foreign-policy" class="menu__link">America First Foreign Policy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200626 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/bringing-back-jobs-and-growth" class="menu__link">Bringing Back Jobs And Growth</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200646 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/making-our-military-strong-again" class="menu__link">Making Our Military Strong Again</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271641 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/blog/2017/06/08/president-trumps-plan-rebuild-americas-infrastructure" class="menu__link">Rebuilding America’s Infrastructure</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2271636 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/repeal-and-replace-obamacare" class="menu__link">Repeal and Replace Obamacare</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200641 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="7"><a href="/law-enforcement-community" class="menu__link">Standing Up For Our Law Enforcement Community</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2200711 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="8"><a href="/trade-deals-working-all-americans" class="menu__link">Trade Deals That Work For All Americans</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5831 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 even depth-1 children children-3" data-position="4"><a href="/administration/president-trump" class="menu__link">The Administration</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6076 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-5" data-position="1"><span class="menu__link nolink">The Administration</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-45996 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/administration/president-trump" class="menu__link">President Donald J. Trump</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-46116 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/administration/vice-president-pence" class="menu__link">Vice President Mike Pence</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45356 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/administration/first-lady-melania-trump" class="menu__link">First Lady Melania Trump</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-45961 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/administration/karen-pence" class="menu__link">Mrs. Karen Pence</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-35121 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/administration/cabinet" class="menu__link">The Cabinet</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6081 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-6" data-position="2"><span class="menu__link nolink">Executive Offices</span><ul class="menu"><li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-2257571 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/cea" class="menu__link">Council of Economic Advisers</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269081 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/ceq" class="menu__link">Council on Environmental Quality</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257581 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/omb" class="menu__link">Office of Management and Budget</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2269601 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/ondcp" class="menu__link">Office of National Drug Control Policy</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2257566 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/ostp" class="menu__link">Office of Science and Technology Policy</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6151 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/administration/eop" class="menu__link">See All</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6091 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-1" data-position="3"><span class="menu__link nolink">Special Events</span><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-6176 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="https://www.58pic2017.org/" class="menu__link">The 58th Presidential Inauguration</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5836 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 odd depth-1 children children-3" data-position="5"><a href="/participate/tours-and-events" class="menu__link">Participate</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6196 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-4" data-position="1"><span class="menu__link nolink">Join Us</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-108026 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/participate/tours-and-events" class="menu__link">Tours &amp; Events</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6241 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="https://apply.whitehouse.gov" class="menu__link">Jobs with the Administration</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-112596 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/participate/internships" class="menu__link">Internships</a></li>
+<li class="menu__item is-parent is-leaf last leaf has-children menu-mlid-207321 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/participate/fellows" class="menu__link">White House Fellows</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6201 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-2" data-position="2"><span class="menu__link nolink">Share Your Thoughts</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6261 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="https://petitions.whitehouse.gov" class="menu__link">We the People Petitions</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6266 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/contact" class="menu__link">Contact the White House</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-2257506 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-5" data-position="3"><span class="menu__link nolink">Get Involved</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2262876 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/obamacare-share-your-story" class="menu__link">Obamacare: Share Your Story</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257616 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/support-americans-back-to-work" class="menu__link">Getting Americans Back to Work</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257781 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/support-empowering-female-leaders" class="menu__link">Support Empowering Female Leaders</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2257816 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/trump-stands-with-israel" class="menu__link">President Trump Stands With Israel</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2262546 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/support-repeal-replace-obamacare" class="menu__link">Support the Repeal and Replacement of Obamacare</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-5841 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-1 even depth-1 children children-2" data-position="6"><a href="/1600/Presidents" class="menu__link">1600 Penn</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6296 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 odd depth-2 children children-6" data-position="1"><span class="menu__link nolink">History &amp; Grounds</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-86676 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/1600/Presidents" class="menu__link">Presidents</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-86891 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/1600/first-ladies" class="menu__link">First Ladies</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93186 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/1600/vp-residence" class="menu__link">The Vice President&#039;s Residence &amp; Office</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93191 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/1600/eeob" class="menu__link">Eisenhower Executive Office Building</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93181 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/1600/camp-david" class="menu__link">Camp David</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-91831 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/1600/air-force-one" class="menu__link">Air Force One</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6301 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-2 even depth-2 children children-7" data-position="2"><span class="menu__link nolink">Our Government</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-93196 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="1"><a href="/1600/executive-branch" class="menu__link">The Executive Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93201 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="2"><a href="/1600/legislative-branch" class="menu__link">The Legislative Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93206 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="3"><a href="/1600/judicial-branch" class="menu__link">The Judicial Branch</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93211 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="4"><a href="/1600/constitution" class="menu__link">The Constitution</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93216 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="5"><a href="/1600/federal-agencies-and-commissions" class="menu__link">Federal Agencies &amp; Commissions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-93231 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 even depth-3 no-children" data-position="6"><a href="/1600/elections-and-voting" class="menu__link">Elections &amp; Voting</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-93226 horizontal-3-level-menu--menu-item sitewide-footer--main-nav--horizontal-3-level-menu--menu-item sitewide-footer--main-nav--menu-level-3 odd depth-3 no-children" data-position="7"><a href="/1600/state-and-local-government" class="menu__link">State &amp; Local Government</a></li>
+</ul></li>
+</ul></li>
+</ul></div>
+  </nav>
+
+  <nav class="sitewide-footer--utility-nav" >
+    <div class="menu-block-wrapper menu-block-ctools-sixteenhundred-nav-utility-1 menu-name-sixteenhundred-nav-utility parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6471 horizontal-1-level-menu--menu-item sitewide-footer--utility-nav--horizontal-1-level-menu--menu-item odd depth-1 no-children" data-position="1"><a href="http://www.usa.gov" title="More information about the government." class="menu__link">USA.gov</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2200436 horizontal-1-level-menu--menu-item sitewide-footer--utility-nav--horizontal-1-level-menu--menu-item even depth-1 no-children" data-position="2"><a href="/privacy" class="menu__link">Privacy Policy</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2201076 horizontal-1-level-menu--menu-item sitewide-footer--utility-nav--horizontal-1-level-menu--menu-item odd depth-1 no-children" data-position="3"><a href="/copyright" class="menu__link">Copyright Policy</a></li>
+</ul></div>
+  </nav>
+    </div>
+  </footer>
+  </footer>
+</div>
+</div>
+</section>
+<!-- /Main page content -->
+  
+<!--[if lte IE 9]>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__B3BxgQrPQXI1dM-r4eK441EdNORsDrMY-zl-NtsKr8Y__QdRvzE-vcRMHyO9uDcc7_W5Zpp5xzNuG3U3Fy2M2sPs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js#ie9-" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_2, 1);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 1);
+  }
+}
+advagg_mod_2_check();"></script>
+<![endif]-->
+
+<!--[if gt IE 9]>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__B3BxgQrPQXI1dM-r4eK441EdNORsDrMY-zl-NtsKr8Y__QdRvzE-vcRMHyO9uDcc7_W5Zpp5xzNuG3U3Fy2M2sPs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js#ie10+" defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_2, 1);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 1);
+  }
+}
+advagg_mod_2_check();"></script>
+<![endif]-->
+
+<!--[if !IE]><!-->
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__B3BxgQrPQXI1dM-r4eK441EdNORsDrMY-zl-NtsKr8Y__QdRvzE-vcRMHyO9uDcc7_W5Zpp5xzNuG3U3Fy2M2sPs__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_2() {
+  // Count how many times this function is called.
+  advagg_mod_2.count = ++advagg_mod_2.count || 1;
+  try {
+    if (advagg_mod_2.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_2.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_2.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_2, 1);
+    }
+  }
+}
+function advagg_mod_2_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_2();
+  }
+  else {
+    window.setTimeout(advagg_mod_2_check, 1);
+  }
+}
+advagg_mod_2_check();"></script>
+<!--<![endif]-->
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__WwsKSVXD89vBQ8DbVFQ6pLpevn2BOGYl3tgEwTmtYMI__Uwzf6n7oZI77wQpjmwNaVLzTjNuLfghCeXkwiUA_zqo__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__9Tli9115mkX9k9cJvFFcdytqxv151s6bm1qtUeubxhY__FLIz4serIrffY_d79tZKbqWlJ5i1AH2TNLDSO2PeCdg__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script>function init_drupal_core_settings() {jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fortyfour","theme_token":"--mpyMudm5-1Idr5l4TzVHc1URUp2CCFxaRP2qC_NO4","jquery_version":"1.10","js":{"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.slider.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/whitehouse.gov\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/whitehouse.gov\/modules\/custom\/fb_instant_articles\/modules\/fb_instant_articles_display\/js\/admin.js":1,"profiles\/forall\/modules\/custom\/keyboard_navigation\/js\/keyboard_navigation.js":1,"sites\/whitehouse.gov\/modules\/contrib\/media_preview_slider\/js\/slider.js":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_magic\/panopoly-magic.js":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_theme\/js\/panopoly-accordion.js":1,"sites\/whitehouse.gov\/modules\/contrib\/linkit\/js\/linkit.js":1,"sites\/whitehouse.gov\/libraries\/superfish\/src\/js\/superfish.js":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/sixteenhundrednav.js":1,"sites\/whitehouse.gov\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/whitehouse.gov\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/forall\/modules\/custom\/shareables\/shareables.js":1,"sites\/whitehouse.gov\/libraries\/jstorage\/jstorage.min.js":1,"sites\/whitehouse.gov\/modules\/custom\/whr_blog_listings\/whr_blog_listings.js":1,"sites\/whitehouse.gov\/modules\/custom\/whr_briefing_room_listings\/whr_briefing_room_listings.js":1,"misc\/progress.js":1,"sites\/whitehouse.gov\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/whitehouse.gov\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/whitehouse.gov\/modules\/contrib\/social_share\/js\/social_share_facebook_sdk.js":1,"sites\/whitehouse.gov\/modules\/custom\/whr_takeover\/whr_takeover.js":1,"misc\/jquery.cookie.js":1,"sites\/whitehouse.gov\/modules\/contrib\/hide_submit\/js\/hide_submit.js":1,"profiles\/forall\/themes\/custom\/fortyfour\/js\/html5shiv.js":1,"profiles\/forall\/themes\/custom\/fortyfour\/js\/theme.js":1,"\/\/platform.twitter.com\/widgets.js":1,"sites\/whitehouse.gov\/modules\/contrib\/navbar\/js\/debounce.js":1,"sites\/whitehouse.gov\/modules\/contrib\/navbar\/js\/displace.js":1,"sites\/whitehouse.gov\/modules\/contrib\/navbar\/js\/navbar-tableheader.js":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picturefill\/matchmedia.js":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picture.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.slider.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/comment\/comment.css":1,"sites\/whitehouse.gov\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/whitehouse.gov\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/forall\/modules\/custom\/forall_river_of_content\/stylesheets\/forall_river_of_content.css":1,"profiles\/forall\/modules\/custom\/forall_secondary_nav\/stylesheets\/secondary_nav.css":1,"sites\/whitehouse.gov\/modules\/contrib\/media_preview_slider\/css\/slider-styles.css":1,"modules\/node\/node.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_magic\/css\/panopoly-magic.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_magic\/css\/panopoly-modal.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_theme\/css\/panopoly-featured.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panopoly_theme\/css\/panopoly-accordian.css":1,"sites\/whitehouse.gov\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"profiles\/forall\/modules\/custom\/shareables\/stylesheets\/shareables.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_colorbar_divider\/stylesheets\/shareable-colorbar-divider.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_custom_text\/stylesheets\/shareable_custom_text.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_divider\/stylesheets\/shareable-divider.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_full_width\/stylesheets\/shareable_full_width.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_survey_poll\/stylesheets\/shareable_survey_poll.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_tweet\/stylesheets\/shareable_tweet.css":1,"profiles\/forall\/modules\/custom\/shareables\/shareable_video\/stylesheets\/shareable_video.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapiiframe\/css\/shortcodeapiiframe.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapislideshare\/css\/shortcodeapislideshare.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapisocrata\/css\/shortcodeapisocrata.css":1,"sites\/whitehouse.gov\/modules\/custom\/shortcodeapitweet\/css\/shortcodeapitweet.css":1,"profiles\/forall\/modules\/custom\/shortcodeapiyoutube\/stylesheets\/shortcodeapiyoutube.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredpanels\/stylesheets\/sixteen_hundred_panels.css":1,"modules\/user\/user.css":1,"profiles\/forall\/modules\/custom\/gov_whitehouse_www\/modules\/whitehouse_sotu2015\/stylesheets\/whitehouse_sotu2015.css":1,"sites\/whitehouse.gov\/modules\/contrib\/youtube\/css\/youtube.css":1,"profiles\/forall\/modules\/custom\/youtube_livestream_listings\/stylesheets\/youtubelivestreamlistings.css":1,"profiles\/forall\/modules\/custom\/youtube_livestream_multi\/stylesheets\/youtube_livestream_multi.css":1,"sites\/whitehouse.gov\/modules\/contrib\/views\/css\/views.css":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/stylesheets\/screen.css":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/stylesheets\/ie.css":1,"profiles\/forall\/modules\/custom\/sixteenhundrednav\/stylesheets\/print.css":1,"sites\/whitehouse.gov\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/whitehouse.gov\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/whitehouse.gov\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/forall\/modules\/custom\/gov_whitehouse_www\/modules\/whitehouse_nav\/css\/whitehouse_nav_search.css":1,"sites\/whitehouse.gov\/libraries\/fontawesome\/css\/font-awesome.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/stylesheets\/sixteenhundredfooter.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/system.menus.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/system.messages.css":1,"profiles\/forall\/modules\/custom\/sixteenhundredfooter\/system.theme.css":1,"sites\/whitehouse.gov\/modules\/contrib\/hide_submit\/css\/hide_submit.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/system.menus.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/system.messages.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/system.theme.css":1,"profiles\/forall\/themes\/custom\/fortyfour\/css\/styles.css":1,"profiles\/forall\/modules\/custom\/gov_whitehouse_www\/modules\/whitehouse_nav\/css\/whitehouse_nav_search_ie9.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"linkit":{"autocompletePath":"https:\/\/www.whitehouse.gov\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_indicator_style":"expand-left","hide_submit_spinner_color":"#000","hide_submit_spinner_lines":12,"hide_submit_hide_fx":false,"hide_submit_reset_time":5000},"urlIsAjaxTrusted":{"https:\/\/search.usa.gov\/search":true},"better_exposed_filters":{"views":{"press_office_listings":{"displays":{"panel_pane_6":{"filters":[]}}}}},"currentPath":"node\/333596","currentPathIsAdmin":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"socialShare":{"appID":"100929903392"},"tableHeaderOffset":"Drupal.navbar.height"});
+if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(false);}} if(window.jQuery && window.Drupal){init_drupal_core_settings();}</script>
+<script src="https://www.whitehouse.gov/sites/whitehouse.gov/files/advagg_js/js__Iim1AbJnxH3rRatJnOUIol7sNLvE4qpx4Tw1i-5inNg__PKAyehXfKMD313dQeX4wrEOnHtAr3I0F2vnbRDqpyWE__iY2WzPjNdQwtluxQaLf2QsRZL_HPJpSZiLUuGXS8ml8.js" defer="defer"></script>
+<script>
+function advagg_mod_3() {
+  // Count how many times this function is called.
+  advagg_mod_3.count = ++advagg_mod_3.count || 1;
+  try {
+    if (advagg_mod_3.count <= 40) {
+      var usasearch_config = { siteHandle:'wh' };
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = 'https://search.usa.gov/javascripts/remote.loader.js';
+document.getElementsByTagName('head')[0].appendChild(script);
+
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_3.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_3.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 250 ms.
+      window.setTimeout(advagg_mod_3, 250);
+    }
+  }
+}
+function advagg_mod_3_check() {
+  if (window.jQuery && window.Drupal && window.Drupal.settings) {
+    advagg_mod_3();
+  }
+  else {
+    window.setTimeout(advagg_mod_3_check, 250);
+  }
+}
+advagg_mod_3_check();</script>
+</body>
+</html>
